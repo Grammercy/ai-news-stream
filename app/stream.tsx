@@ -11,14 +11,15 @@ import {
 } from "@/components/ui/dialog";
 
 const aiPeople = [
-  { name: "Tibo", handle: "thsottiaux" },
+  { name: "Tibor Blaho", handle: "btibor91" },
   { name: "Sam Altman", handle: "sama" },
-  { name: "Aravind Srinivas", handle: "AravSrinivas" },
   { name: "Demis Hassabis", handle: "demishassabis" },
+  { name: "Jack Clark", handle: "jackclarkSF" },
+  { name: "Arthur Mensch", handle: "arthurmensch" },
   { name: "Andrej Karpathy", handle: "karpathy" },
   { name: "Andrew Ng", handle: "AndrewYNg" },
   { name: "Fei-Fei Li", handle: "drfeifei" },
-  { name: "Yann LeCun", handle: "ylecun" },
+  { name: "Mustafa Suleyman", handle: "mustafasuleyman" },
 ];
 
 export default function Stream({ initial, dailySummary, dailySources }: {initial: Feed; dailySummary: string[]; dailySources: DailySource[]}) {
