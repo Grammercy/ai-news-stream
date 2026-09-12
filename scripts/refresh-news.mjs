@@ -94,25 +94,15 @@ if (!items.length) throw new Error("No official releases were available; existin
 
 const existing = await getJson(summariesPath, {});
 const summaries = {};
-const failed = [];
 for (const item of items) {
-  try {
-    const { body, url } = await fetchText(item.url);
-    const sourceSummary = descriptions(body).map(firstSentence).find(Boolean);
-    if (!sourceSummary) throw new Error("No usable official description found");
-    summaries[canonical(url)] = sourceSummary;
-    summaries[item.url] = sourceSummary;
-  } catch (error) {
-    if (existing[item.url]) summaries[item.url] = existing[item.url];
-    else failed.push(`${item.source}: ${item.url} (${error.message})`);
-  }
+  const summary = existing[canonical(item.url)] ?? existing[item.url];
+  if (summary) summaries[canonical(item.url)] = summary;
 }
 
-const brief = items.slice(0, 2).map(item => summaries[item.url] ?? `${item.source} published "${item.title.replace(/[.!?]+$/, "")}."`);
-while (brief.length < 2) brief.push("No additional verified release is currently available.");
+const brief = await getJson(briefPath, []);
 
 await mkdir(dirname(snapshotPath), {recursive: true});
 await writeFile(snapshotPath, `${JSON.stringify(items, null, 2)}\n`);
 await writeFile(summariesPath, `${JSON.stringify(summaries, null, 2)}\n`);
 await writeFile(briefPath, `${JSON.stringify(brief, null, 2)}\n`);
-console.log(JSON.stringify({items: items.length, summaries: Object.keys(summaries).filter(url => items.some(item => item.url === url)).length, missing: failed.length, unavailable, failed, brief}, null, 2));
+console.log(JSON.stringify({items: items.length, summaries: Object.keys(summaries).length, missing: items.filter(item => !summaries[canonical(item.url)]).length, unavailable, brief}, null, 2));
