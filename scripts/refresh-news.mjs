@@ -6,10 +6,16 @@ import { clean, parseNews, sources } from "../app/news-parser.mjs";
 const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const snapshotPath = resolve(root, "app/news-snapshot.json");
 const summariesPath = resolve(root, "app/news-summaries.json");
+const reviewsPath = resolve(root, "app/news-summary-reviews.json");
 const briefPath = resolve(root, "app/daily-brief.json");
 const headers = {
   "User-Agent": "Mozilla/5.0 (compatible; AINewsReader/1.0)",
   Accept: "application/rss+xml, text/html, */*",
+};
+const NEWS_RETENTION_MS = 30 * 24 * 60 * 60 * 1000;
+const isRecent = (date) => {
+  const timestamp = Date.parse(date);
+  return timestamp >= Date.now() - NEWS_RETENTION_MS && timestamp <= Date.now();
 };
 
 function canonical(url) {
@@ -81,7 +87,7 @@ const unavailable = [];
 const sourceResults = await Promise.all(Object.entries(sources).map(async ([source, url]) => {
   try {
     const { body } = await fetchText(url);
-    return parseNews(body, source).filter(item => Date.parse(item.date) <= Date.now()).slice(0, 40);
+    return parseNews(body, source).filter(item => isRecent(item.date)).slice(0, 40);
   } catch (error) {
     unavailable.push(`${source} feed (${error.message})`);
     return [];
@@ -99,10 +105,16 @@ for (const item of items) {
   if (summary) summaries[canonical(item.url)] = summary;
 }
 
+const existingReviews = await getJson(reviewsPath, {});
+const reviews = Object.fromEntries(items
+  .map(item => [canonical(item.url), existingReviews[canonical(item.url)] ?? existingReviews[item.url]])
+  .filter(([, review]) => review && isRecent(review.date)));
+
 const brief = await getJson(briefPath, []);
 
 await mkdir(dirname(snapshotPath), {recursive: true});
 await writeFile(snapshotPath, `${JSON.stringify(items, null, 2)}\n`);
 await writeFile(summariesPath, `${JSON.stringify(summaries, null, 2)}\n`);
+await writeFile(reviewsPath, `${JSON.stringify(reviews, null, 2)}\n`);
 await writeFile(briefPath, `${JSON.stringify(brief, null, 2)}\n`);
 console.log(JSON.stringify({items: items.length, summaries: Object.keys(summaries).length, missing: items.filter(item => !summaries[canonical(item.url)]).length, unavailable, brief}, null, 2));
