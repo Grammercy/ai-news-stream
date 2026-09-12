@@ -9,6 +9,18 @@ import {
   DialogTitle,
   DialogTrigger,
 } from "@/components/ui/dialog";
+
+const aiPeople = [
+  { name: "Tibo", handle: "thsottiaux" },
+  { name: "Sam Altman", handle: "sama" },
+  { name: "Aravind Srinivas", handle: "AravSrinivas" },
+  { name: "Demis Hassabis", handle: "demishassabis" },
+  { name: "Andrej Karpathy", handle: "karpathy" },
+  { name: "Andrew Ng", handle: "AndrewYNg" },
+  { name: "Fei-Fei Li", handle: "drfeifei" },
+  { name: "Yann LeCun", handle: "ylecun" },
+];
+
 export default function Stream({ initial, dailySummary, dailySources }: {initial: Feed; dailySummary: string[]; dailySources: DailySource[]}) {
   const [feed, setFeed] = useState(initial);
   const [offline, setOffline] = useState(false);
@@ -28,6 +40,14 @@ export default function Stream({ initial, dailySummary, dailySources }: {initial
   }, []);
   return <main>
     <header><h1>AI News<span aria-hidden="true">/</span></h1></header>
+    <aside className="people-rail" aria-label="AI people on Twitter">
+      <span className="people-label">People</span>
+      <nav>
+        {aiPeople.map(person => <a key={person.handle} href={`https://x.com/${person.handle}`} target="_blank" rel="noopener noreferrer">
+          {person.name}<span className="sr-only"> on Twitter</span>
+        </a>)}
+      </nav>
+    </aside>
     <section className="daily-brief" aria-label="Daily news summary">
       <div className="daily-copy">{dailySummary.slice(0, 2).map((sentence, index) => <p key={index}>{sentence}</p>)}</div>
       {dailySources.length > 0 && <div className="brief-sources" aria-label="Sources for the daily news summary">
