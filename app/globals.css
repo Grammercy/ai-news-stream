@@ -4,13 +4,13 @@
 * { box-sizing: border-box; }
 body { margin: 0; background: var(--background); color: var(--foreground); font-family: "Helvetica Neue", Helvetica, sans-serif; -webkit-font-smoothing: antialiased; }
 main { max-width: 860px; margin: 0 auto; padding: 56px 32px 100px; }
-header { padding-bottom: 26px; border-bottom: 2px solid var(--foreground); }
+header { padding-bottom: 26px; }
 h1 { font-size: 26px; font-weight: 650; letter-spacing: -.9px; margin: 0; }
 h1 span { color: var(--primary); margin-left: 8px; font-weight: 400; }
 ul { list-style: none; margin: 0; padding: 0; }
-.daily-brief { height: 104px; padding: 24px 0 21px; border-bottom: 1px solid var(--border); }
-.daily-brief p { height: 17px; margin: 0 0 9px; border-bottom: 1px solid #dfe2e7; }
-.daily-brief p:last-child { width: 72%; }
+.daily-brief { padding: 24px 0 21px; }
+.daily-brief p { margin: 0 0 9px; }
+.daily-brief p:last-child { margin-bottom: 0; }
 li { border-bottom: 1px solid var(--border); }
 .news-row { display: block; width: 100%; padding: 20px 0; border: 0; background: transparent; color: inherit; text-align: left; cursor: pointer; }
 .headline { font-size: 18px; line-height: 1.45; letter-spacing: -.2px; }
@@ -24,4 +24,4 @@ time { color: #73777f; }
 .article-link { width: fit-content; color: var(--primary); font-size: 15px; font-weight: 600; text-decoration: none; }
 .article-link:hover { text-decoration: underline; text-underline-offset: 4px; }
 .notice { font-size: 14px; line-height: 1.6; color: #78551e; padding: 12px 0; }
-@media (max-width: 600px) { main { padding: 32px 22px 64px; } header { padding-bottom: 21px; } .daily-brief { height: 92px; padding: 20px 0 17px; } .news-row { padding: 18px 0; } .headline { font-size: 17px; } .news-card { padding: 25px 22px; } .news-card [data-slot="dialog-title"] { font-size: 21px; } }
+@media (max-width: 600px) { main { padding: 32px 22px 64px; } header { padding-bottom: 21px; } .daily-brief { padding: 20px 0 17px; } .news-row { padding: 18px 0; } .headline { font-size: 17px; } .news-card { padding: 25px 22px; } .news-card [data-slot="dialog-title"] { font-size: 21px; } }
