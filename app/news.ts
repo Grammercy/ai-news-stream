@@ -2,8 +2,10 @@ import { parseNews, sources } from "./news-parser.mjs";
 import snapshot from "./news-snapshot.json";
 import summaries from "./news-summaries.json";
 import dailyBrief from "./daily-brief.json";
+import dailyBriefSources from "./daily-brief-sources.json";
 export type Item = {title: string; url: string; date: string; source: string; summary?: string};
 export type Feed = {items: Item[]; unavailable: string[]};
+export type DailySource = {label: string; url: string};
 const cache = new Map<string, {items: Item[]; expires: number}>();
 const summaryByUrl = summaries as Record<string, string>;
 const canonical = (url: string) => {
@@ -14,6 +16,7 @@ const canonical = (url: string) => {
 };
 const withSummaries = (items: Item[]) => items.map(item => ({...item, summary: summaryByUrl[canonical(item.url)]}));
 export const dailySummary = dailyBrief as string[];
+export const dailySources = dailyBriefSources as DailySource[];
 export async function getNews(): Promise<Feed> {
   const unavailable: string[] = [];
   const results = await Promise.all(Object.entries(sources).map(async ([source, url]) => {

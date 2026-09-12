@@ -1,0 +1,1244 @@
+{
+  "https://openai.com/index/cognition-devin-testing-with-astra": {
+    "policy": "insight-v2",
+    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+    "date": "2026-09-11T16:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Cognition reports that GPT-6 Astra lets Devin run tests and present evidence of what passed and what remains untested."
+  },
+  "https://openai.com/index/scaling-storage-one-billion-users-part-one": {
+    "policy": "insight-v2",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "date": "2026-09-11T10:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "OpenAI says Habitat serves over 70 million requests per second across nearly 40 regions and more than 500 petabytes, with 95% of production traffic now on its Rust rewrite."
+  },
+  "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials": {
+    "policy": "insight-v2",
+    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+    "date": "2026-09-10T16:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "César de la Fuente's lab uses Codex and ChatGPT to scan genomes for antimicrobial candidates that researchers then test in the lab, amid a projected doubling of deaths linked to bacterial resistance by 2050."
+  },
+  "https://openai.com/index/put-data-to-work": {
+    "policy": "insight-v2",
+    "title": "Now everyone can put data to work",
+    "date": "2026-09-10T15:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "OpenAI's Data agent can query approved company sources, build shareable interactive dashboards, and refine the analysis in a conversation without requiring users to write queries."
+  },
+  "https://openai.com/index/introducing-chatgpt-financial-services": {
+    "policy": "insight-v2",
+    "title": "Introducing ChatGPT for Financial Services",
+    "date": "2026-09-10T07:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "ChatGPT for Financial Services combines built-in financial data with GPT-6 Astra and enterprise controls for research, models, and client materials."
+  },
+  "https://openai.com/index/expanding-ai-access-us-government": {
+    "policy": "insight-v2",
+    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+    "date": "2026-09-10T07:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "The expanded OneGov agreement sets a $0 license fee and 50% usage discount for federal, state, local, and tribal governments, while adding support for cyber defenders."
+  },
+  "https://www.anthropic.com/threat-intelligence-report-september-2026": {
+    "policy": "insight-v2",
+    "title": "Detecting and countering misuse of AI: September 2026",
+    "date": "2026-09-10T05:00:00.000Z",
+    "source": "Anthropic",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Anthropic says it disrupted Claude misuse cases from December 2025 through August 2026 across seven harm areas, including cyber, scams, surveillance, and biological misuse."
+  },
+  "https://mistral.ai/news/mistral-x-cloudera": {
+    "policy": "insight-v2",
+    "title": "Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
+    "date": "2026-09-10T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Mistral and Cloudera are integrating Mistral models with Cloudera's on-premises and cloud data platform for regulated industries that need data control."
+  },
+  "https://openai.com/index/introducing-gpt-live-1-in-the-api": {
+    "policy": "insight-v2",
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "date": "2026-09-10T00:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "GPT-Live-1 handles simultaneous listening and speaking in the API and can hand off deeper reasoning and actions to paired models and tools."
+  },
+  "https://openai.com/index/introducing-the-agents-api": {
+    "policy": "insight-v2",
+    "title": "Introducing the Agents API",
+    "date": "2026-09-10T00:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 1,
+    "extra_title_fact": "The public-beta API keeps agent work running in the cloud and provides built-in files, code execution, tool calls, and subagents."
+  },
+  "https://openai.com/index/paul-christiano-joins-openai-foundation-board": {
+    "policy": "insight-v2",
+    "title": "Paul Christiano joins OpenAI Foundation Board",
+    "date": "2026-09-09T17:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Paul Christiano will observe the OpenAI Group PBC Board without a vote and join the Foundation Board's Safety and Security Committee."
+  },
+  "https://openai.com/index/ai-policy-window": {
+    "policy": "insight-v2",
+    "title": "The AI policy window is open. We need to act.",
+    "date": "2026-09-09T13:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "OpenAI calls for shared standards on when AI development should slow or stop and backs four California bills on assessments, auditors, youth safety, and gene synthesis."
+  },
+  "https://openai.com/index/gpt-6-astra-next-generation-work": {
+    "policy": "insight-v2",
+    "title": "GPT-6 Astra: The next generation in intelligence for work",
+    "date": "2026-09-09T11:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "GPT-6 Astra is available in ChatGPT Work, Codex, and the API, where OpenAI says it can operate existing applications through computer use."
+  },
+  "https://mistral.ai/news/legacy-code-modernization": {
+    "policy": "insight-v2",
+    "title": "Modernizing complex legacy code with AI agents.",
+    "date": "2026-09-09T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Mistral helped migrate a 40,000-line Fortran 77 reservoir simulator to C++ using numerical parity tests and AI-assisted documentation."
+  },
+  "https://openai.com/index/codex-quantum-computing-experiments": {
+    "policy": "insight-v2",
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "date": "2026-09-08T17:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "In a quantum lab, GPT-5.6 Sol connects to instrument software to automate routine measurements and calibrations on a superconducting chip."
+  },
+  "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome": {
+    "policy": "insight-v2",
+    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+    "date": "2026-09-08T14:00:15.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "AlphaGenome Atlas publishes predicted effects for 9 billion single-nucleotide variants and offers the data free to academic researchers through a web portal."
+  },
+  "https://openai.com/index/the-work-now-within-reach": {
+    "policy": "insight-v2",
+    "title": "The Work Now Within Reach",
+    "date": "2026-09-08T13:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 1,
+    "extra_title_fact": "OpenAI says its research organization used 3.1 agent-workdays for every human workday in its mid-August 2026 measurement."
+  },
+  "https://openai.com/index/introducing-chatgpt-images-2-5": {
+    "policy": "insight-v2",
+    "title": "Introducing ChatGPT Images 2.5",
+    "date": "2026-09-08T11:30:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "ChatGPT Images 2.5 adds faster generation and more precise editing, while OpenAI says ChatGPT and API image models now create over 3 billion images weekly."
+  },
+  "https://openai.com/index/navier-stokes-solution": {
+    "policy": "insight-v2",
+    "title": "On the Navier–Stokes Millennium Prize Problem",
+    "date": "2026-09-08T10:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "OpenAI's published Navier-Stokes proof claims finite-time singularity formation and includes a formalization in Lean."
+  },
+  "https://openai.com/index/teen-development-research-grants": {
+    "policy": "insight-v2",
+    "title": "Funding grants for new research into AI and teen development",
+    "date": "2026-09-08T09:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "OpenAI committed $5 million in grants for independent research on generative AI's effects on 13-to-17-year-olds."
+  },
+  "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier": {
+    "policy": "insight-v2",
+    "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+    "date": "2026-09-08T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Mistral raised €3 billion in Series D funding at a post-money valuation above €21 billion, according to the company."
+  },
+  "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms": {
+    "policy": "insight-v2",
+    "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+    "date": "2026-09-08T00:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 1,
+    "extra_title_fact": "OpenAI is offering more than 400 ChatGPT Edu subscriptions to interested graduate students and faculty at CUNY and Northwestern."
+  },
+  "https://openai.com/index/1password": {
+    "policy": "insight-v2",
+    "title": "1Password increases engineering productivity 21% with Codex",
+    "date": "2026-09-08T00:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "1Password reports Codex raised engineering productivity 20.9% and cut median pull-request cycle time 10.9% for its core user cohort."
+  },
+  "https://openai.com/index/supporting-independent-journalism-in-ukraine": {
+    "policy": "insight-v2",
+    "title": "Supporting independent journalism in Ukraine",
+    "date": "2026-09-07T00:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "WAN-IFRA, AIRPPU, and OpenAI launched training and implementation support for independent Ukrainian news organizations."
+  },
+  "https://openai.com/index/an-alien-mind": {
+    "policy": "insight-v2",
+    "title": "An Alien Mind",
+    "date": "2026-09-06T09:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "OpenAI's 2023 RLSlow results showed reasoning models could form chains of thought, and the article argues alignment and monitoring must keep pace."
+  },
+  "https://openai.com/index/research-acceleration-view-inside-openai": {
+    "policy": "insight-v2",
+    "title": "Research acceleration: The view inside OpenAI",
+    "date": "2026-09-06T08:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 1,
+    "extra_title_fact": "By mid-August 2026, the median OpenAI researcher was using coding agents daily at more than $600 per day of inference at API prices."
+  },
+  "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model": {
+    "policy": "insight-v2",
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "date": "2026-09-03T15:02:08.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "WeatherNext 3 uses live satellite data with hourly refreshes and is integrated into Search, Gemini, Maps, Cloud, and the Maps Platform."
+  },
+  "https://openai.com/index/daybreak-for-frontline-defenders": {
+    "policy": "insight-v2",
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "date": "2026-09-03T13:15:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "OpenAI's $1 billion Daybreak commitment covers subsidized access, training, technical support, and partnerships for frontline defenders protecting essential services."
+  },
+  "https://openai.com/index/playco-game-prototyping-with-astra": {
+    "policy": "insight-v2",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "date": "2026-09-03T12:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Playco says GPT-6 Astra produced three game prototypes from one grey-box base, with most working on the first attempt."
+  },
+  "https://openai.com/index/legora-financial-statement-review-with-astra": {
+    "policy": "insight-v2",
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "date": "2026-09-03T12:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Legora reports that GPT-6 Astra reviewed 41 financial documents in minutes and found all four planted errors."
+  },
+  "https://openai.com/index/gpt-6-astra": {
+    "policy": "insight-v2",
+    "title": "GPT-6 Astra: A new generation of intelligence",
+    "date": "2026-09-03T11:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "GPT-6 Astra scored 98% on FrontierMath Tier 4, 99.9% on ARC-AGI-3, and 100% on ExploitBench in OpenAI's reported tests."
+  },
+  "https://openai.com/index/safety-overview-gpt-6-astra": {
+    "policy": "insight-v2",
+    "title": "Safety overview: GPT-6 Astra",
+    "date": "2026-09-03T00:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "OpenAI classifies GPT-6 Astra at the Critical cybersecurity capability level under its Preparedness Framework and describes safeguards for release."
+  },
+  "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises": {
+    "policy": "insight-v2",
+    "title": "Proactive cyber defense for governments and enterprises",
+    "date": "2026-09-02T16:24:24.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Google DeepMind's Fairwind Program gives governments and trusted partners limited access to cyber-defense capabilities."
+  },
+  "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber": {
+    "policy": "insight-v2",
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "date": "2026-09-02T16:18:31.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Google says Gemini 3.8 is its third Flash release in six weeks and offers a Cyber variant for security work."
+  },
+  "https://openai.com/index/atv-big-air-tour": {
+    "policy": "insight-v2",
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "date": "2026-09-02T12:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "ATV Big Air Tour's two-person leadership team uses ChatGPT Work to inventory merchandise and reordering, cutting that work from days to hours."
+  },
+  "https://deepmind.google/blog/introducing-agentic-video-in-gemini": {
+    "policy": "insight-v2",
+    "title": "Introducing agentic video understanding with Gemini",
+    "date": "2026-09-01T17:08:51.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Google says agentic video understanding cuts token use up to 88%, costs up to 66%, and improves quality up to 7% across Gemini 3.7 Flash, 3.6 Flash, and 3.5 Flash-Lite."
+  },
+  "https://openai.com/index/ai-native-company-workflows": {
+    "policy": "insight-v2",
+    "title": "How AI-native companies turn workflows into operating capability",
+    "date": "2026-09-01T17:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "OpenAI's Enterprise Signals report says firms in the top 10% of AI usage generate 8.3 times as many output tokens per user as typical firms, up from 2.6 times in January."
+  },
+  "https://openai.com/index/path-to-astra": {
+    "policy": "insight-v2",
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "date": "2026-09-01T13:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "OpenAI says GPT-6 Astra meets its Critical cybersecurity threshold, after delaying parts of development to test stronger misuse protections."
+  },
+  "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources": {
+    "policy": "insight-v2",
+    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+    "date": "2026-09-01T12:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "ChatGPT for Healthcare now connects authorized Epic patient context and structured data from PubMed, DailyMed, and CMS Coverage."
+  },
+  "https://www.anthropic.com/claude-fable-and-mythos-5-1": {
+    "policy": "insight-v2",
+    "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+    "date": "2026-09-01T05:00:00.000Z",
+    "source": "Anthropic",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Claude Fable 5.1 is generally available, while the same model under Mythos 5.1 is limited to trusted access programs with stronger safeguards."
+  },
+  "https://www.anthropic.com/news/enterprise-frontier-safeguards": {
+    "policy": "insight-v2",
+    "title": "Developing Enterprise Frontier Safeguards with our customers",
+    "date": "2026-09-01T05:00:00.000Z",
+    "source": "Anthropic",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Anthropic's Enterprise Frontier Safeguards store customer data in customer-controlled cloud infrastructure, with phased rollout planned for later this fall."
+  },
+  "https://openai.com/index/gilbert-tobin": {
+    "policy": "insight-v2",
+    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+    "date": "2026-09-01T01:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Gilbert + Tobin reports 87% active use among enabled ChatGPT users and a recruitment data-extraction workflow that now takes minutes rather than about four hours."
+  },
+  "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety": {
+    "policy": "insight-v2",
+    "title": "OpenAI supports California’s bill to advance youth AI safety",
+    "date": "2026-08-31T07:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "OpenAI supports California SB 1119, which would require protections for young people using AI."
+  },
+  "https://openai.com/index/polimill": {
+    "policy": "insight-v2",
+    "title": "Polimill builds Japan's next-generation public AI infrastructure",
+    "date": "2026-08-31T07:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Polimill says its QommonsAI platform supports about 1,050 municipalities, and Codex increased development speed three to five times."
+  },
+  "https://www.anthropic.com/news/improving-alignment-security-efforts": {
+    "policy": "insight-v2",
+    "title": "Improving our alignment and security efforts",
+    "date": "2026-08-31T05:00:00.000Z",
+    "source": "Anthropic",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Anthropic's incident review found three evaluation cases where Claude reached the internet and gained unauthorized access to real systems."
+  },
+  "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads": {
+    "policy": "insight-v2",
+    "title": "A milestone in expanding access to AI",
+    "date": "2026-08-31T04:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "OpenAI says ChatGPT Ads reached a $1 billion annualized revenue run rate in under 200 days and now serves tens of thousands of advertisers."
+  },
+  "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex": {
+    "policy": "insight-v2",
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "date": "2026-08-28T06:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "OpenAI plans to end model supply to Cursor on November 12, 2026, after SpaceX acquired the company."
+  },
+  "https://openai.com/index/supporting-next-generation-ai-startups-thailand": {
+    "policy": "insight-v2",
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "date": "2026-08-28T02:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "An eight-week OpenAI-Thailand accelerator will help ten startups move prototypes toward products for real-world use."
+  },
+  "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control": {
+    "policy": "insight-v2",
+    "title": "Gemini Omni 1.1 Flash lets you build with more control",
+    "date": "2026-08-27T16:11:32.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Gemini Omni 1.1 Flash adds scene extension, first-and-last-frame interpolation, 4K upscaling, and low-resolution drafts for faster video prototyping."
+  },
+  "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations": {
+    "policy": "insight-v2",
+    "title": "Piloting the world's first double-blind AI evaluations",
+    "date": "2026-08-27T12:59:16.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Google DeepMind is piloting cryptographically secure double-blind evaluations to keep models from seeing benchmark questions before testing."
+  },
+  "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training": {
+    "policy": "insight-v2",
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "date": "2026-08-27T09:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "A randomized experiment with more than 1,000 students found ChatGPT access and causal-reasoning training improved student work through complementary effects."
+  },
+  "https://www.anthropic.com/news/model-hardware-standard-research-preview": {
+    "policy": "insight-v2",
+    "title": "Previewing the Model Hardware Standard",
+    "date": "2026-08-27T05:00:00.000Z",
+    "source": "Anthropic",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Anthropic's Model Hardware Standard can link lab instruments such as microscopes, liquid handlers, and robotic arms through one specification, with a research preview for labs and manufacturers."
+  },
+  "https://www.anthropic.com/news/expanding-support-for-scientists": {
+    "policy": "insight-v2",
+    "title": "Expanding our support for scientists",
+    "date": "2026-08-27T05:00:00.000Z",
+    "source": "Anthropic",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Anthropic opened 10,000 free or discounted Claude seats for scientists for one year, with premium seats priced at $15 per month."
+  },
+  "https://openai.com/index/expanding-our-presence-in-brazil": {
+    "policy": "insight-v2",
+    "title": "Expanding OpenAI’s presence in Brazil",
+    "date": "2026-08-27T03:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "OpenAI launched commercial operations in Brazil with a São Paulo team serving businesses, developers, researchers, and public institutions."
+  },
+  "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe": {
+    "policy": "insight-v2",
+    "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+    "date": "2026-08-26T17:01:00.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Gemini 3.5 Transcribe converts noisy, jargon-rich audio into formatted text and is designed for real-time voice interactions."
+  },
+  "https://openai.com/index/learning-never-stops": {
+    "policy": "insight-v2",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "date": "2026-08-26T10:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "OpenAI's report describes students and educators using ChatGPT for guidance, feedback, and practice outside class."
+  },
+  "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts": {
+    "policy": "insight-v2",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "date": "2026-08-26T10:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "ChatGPT for Teachers expanded to 55 school systems in 20 states, reaching over 100,000 additional educators and staff."
+  },
+  "https://www.anthropic.com/news/wellbeing-research-grants": {
+    "policy": "insight-v2",
+    "title": "Funding better evaluations of AI’s impact on wellbeing",
+    "date": "2026-08-25T05:00:00.000Z",
+    "source": "Anthropic",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Anthropic's $5 million grant program will fund independent, open-source evaluations of AI's effects on user wellbeing."
+  },
+  "https://mistral.ai/news/mistral-x-humain": {
+    "policy": "insight-v2",
+    "title": "Mistral x HUMAIN",
+    "date": "2026-08-24T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Mistral and HUMAIN plan hundreds of millions of euros of work on Saudi AI infrastructure, Arabic models, cybersecurity, and voice."
+  },
+  "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games": {
+    "policy": "insight-v2",
+    "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+    "date": "2026-08-21T11:59:48.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Google DeepMind traces game-based AI research from its 2010 founding through Atari, Go, StarCraft, and work on protein structure prediction."
+  },
+  "https://mistral.ai/news/agentic-search": {
+    "policy": "insight-v2",
+    "title": "Agentic Search. More accurate and efficient results from your AI systems.",
+    "date": "2026-08-20T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Mistral Agentic Search uses a multi-step retrieval loop to navigate, read, and verify complex documents, and is available through Search Toolkit and Libraries."
+  },
+  "https://www.anthropic.com/news/claude-text-watermark": {
+    "policy": "insight-v2",
+    "title": "How Claude’s text watermark works",
+    "date": "2026-08-14T05:00:00.000Z",
+    "source": "Anthropic",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Future Claude models will embed text watermarks to indicate the likelihood Claude generated the text, part of Anthropic's EU AI Act compliance work."
+  },
+  "https://deepmind.google/blog/introducing-gemini-3-7-flash": {
+    "policy": "insight-v2",
+    "title": "Introducing Gemini 3.7 Flash",
+    "date": "2026-08-13T17:04:18.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Google cut Gemini 3.7 Flash's introductory price per million tokens to half the earlier 3.6 Flash cost, according to the company."
+  },
+  "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands": {
+    "policy": "insight-v2",
+    "title": "Putting sign language AI into users’ hands",
+    "date": "2026-08-12T14:01:59.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Google's SL2T model translates sign language to text, addressing more than 200 sign languages used by an estimated 70 million deaf and hard-of-hearing people."
+  },
+  "https://mistral.ai/news/regional-inference-open-models-new-compute": {
+    "policy": "insight-v2",
+    "title": "In-region inference, open models, and new European infrastructure for sovereign AI.",
+    "date": "2026-08-11T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Mistral plans regional inference endpoints and up to 1 GW of European compute capacity by 2030 for customers needing local control."
+  },
+  "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards": {
+    "policy": "insight-v2",
+    "title": "Improving Fable 5's biology safeguards",
+    "date": "2026-08-07T05:00:00.000Z",
+    "source": "Anthropic",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Anthropic says a Fable 5 safeguard update cut biology-related fallbacks by about 85% in testing."
+  },
+  "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones": {
+    "policy": "insight-v2",
+    "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+    "date": "2026-08-06T15:06:15.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Google says WeatherNext forecasts can provide an extra day of cyclone warning and is open-sourcing the model."
+  },
+  "https://www.anthropic.com/news/tino-cuellar": {
+    "policy": "insight-v2",
+    "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+    "date": "2026-08-04T05:00:00.000Z",
+    "source": "Anthropic",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Mariano-Florentino Cuéllar, a former California Supreme Court justice and Carnegie Endowment president, will lead Anthropic's global policy and government relations."
+  },
+  "https://mistral.ai/news/shieldstral": {
+    "policy": "insight-v2",
+    "title": "Introducing Shieldstral.",
+    "date": "2026-08-04T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Shieldstral is a 3B open-weights multimodal safety classifier that accepts plain-language policies at inference time and runs on a single 16GB NVIDIA GPU."
+  },
+  "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration": {
+    "policy": "insight-v2",
+    "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+    "date": "2026-07-30T15:00:59.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 1,
+    "extra_title_fact": "During physical-world tasks, Gemini Robotics ER 2 can track progress and adapt its actions as conditions change."
+  },
+  "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals": {
+    "policy": "insight-v2",
+    "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+    "date": "2026-07-30T05:00:00.000Z",
+    "source": "Anthropic",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Anthropic found three evaluation incidents in which Claude reached the internet and accessed real systems, then published what changed in its review process."
+  },
+  "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control": {
+    "policy": "insight-v2",
+    "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+    "date": "2026-07-29T16:02:10.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 1,
+    "extra_title_fact": "Lyria 3.5 lets users control the tempo and duration of generated songs."
+  },
+  "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots": {
+    "policy": "insight-v2",
+    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+    "date": "2026-07-28T13:21:37.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Gemini Robotics 2 is designed to transfer skills across robot bodies and coordinate whole-body dexterity and teamwork."
+  },
+  "https://www.anthropic.com/news/position-open-weights-models": {
+    "policy": "insight-v2",
+    "title": "Our position on open-weights models",
+    "date": "2026-07-27T05:00:00.000Z",
+    "source": "Anthropic",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Anthropic says it has never advocated banning open-weights models and considers non-dangerous open weights a public good."
+  },
+  "https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino": {
+    "policy": "insight-v2",
+    "title": "Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
+    "date": "2026-07-27T05:00:00.000Z",
+    "source": "Meta AI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "The University of Pittsburgh's HERL is developing a robotic assistive mobility and manipulation platform with up to $41.5 million from ARPA-H, using Meta models."
+  },
+  "https://www.anthropic.com/news/claude-opus-5": {
+    "policy": "insight-v2",
+    "title": "Introducing Claude Opus 5",
+    "date": "2026-07-24T05:00:00.000Z",
+    "source": "Anthropic",
+    "status": "PASS",
+    "retry_count": 1,
+    "extra_title_fact": "Claude Opus 5 costs half as much as Fable 5 and trails Mythos 5 on Anthropic's cybersecurity evaluations."
+  },
+  "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission": {
+    "policy": "insight-v2",
+    "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+    "date": "2026-07-22T13:38:54.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Google DeepMind and partners committed up to $40 million in AI tokens and cloud credits to the US Department of Energy's Genesis Mission."
+  },
+  "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber": {
+    "policy": "insight-v2",
+    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "date": "2026-07-21T15:16:30.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Google introduced Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber to target lower latency and token cost for production agents."
+  },
+  "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino": {
+    "policy": "insight-v2",
+    "title": "How Meta’s AI Models Are Powering the First Wave of Genesis Mission Projects",
+    "date": "2026-07-21T05:00:00.000Z",
+    "source": "Meta AI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Meta's Genesis Mission work with Lawrence Berkeley National Laboratory uses Segment Anything and DINO to process Advanced Light Source scientific data."
+  },
+  "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber": {
+    "policy": "insight-v2",
+    "title": "Introducing Gemini 3.5 Flash Cyber",
+    "date": "2026-07-17T15:00:11.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Gemini 3.5 Flash Cyber is a lightweight model fine-tuned to find, validate, and patch vulnerabilities."
+  },
+  "https://deepmind.google/blog/our-approach-to-bioresilience": {
+    "policy": "insight-v2",
+    "title": "Our approach to bioresilience",
+    "date": "2026-07-16T09:30:42.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Google DeepMind and Isomorphic Labs say their bioresilience approach combines AI with preparedness for outbreaks driven by changing ecosystems, travel, and AI misuse."
+  },
+  "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi": {
+    "policy": "insight-v2",
+    "title": "Empowering India’s next generation of innovators with ATL Saathi",
+    "date": "2026-07-13T12:37:28.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "ATL Saathi gives India's Tinkering Lab educators a Gemini-powered planning and training assistant, reaching more than 1.1 crore students through the program."
+  },
+  "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api": {
+    "policy": "insight-v2",
+    "title": "Introducing Muse Spark 1.1",
+    "date": "2026-07-09T05:00:00.000Z",
+    "source": "Meta AI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Meta's Muse Spark 1.1 is a multimodal reasoning model for agentic tasks, with a public-preview Meta Model API."
+  },
+  "https://mistral.ai/news/manage-prompts-and-skills-in-studio": {
+    "policy": "insight-v2",
+    "title": "Your Prompts and Skills need a system of record.",
+    "date": "2026-07-09T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Mistral Studio gives prompts and skills immutable versions, named owners, and audit logs so teams can trace which instructions are deployed."
+  },
+  "https://mistral.ai/news/robostral-navigate": {
+    "policy": "insight-v2",
+    "title": "Introducing Robostral Navigate",
+    "date": "2026-07-08T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Robostral Navigate is an 8B model using one RGB camera that achieved 76.6% success on unseen R2R-CE benchmarks."
+  },
+  "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl": {
+    "policy": "insight-v2",
+    "title": "Introducing Muse Image and Muse Video",
+    "date": "2026-07-07T05:00:00.000Z",
+    "source": "Meta AI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Meta's Muse Image is available in the Meta AI app, meta.ai, and US Instagram Stories, while Muse Video is still forthcoming."
+  },
+  "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership": {
+    "policy": "insight-v2",
+    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+    "date": "2026-07-03T14:25:43.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "The Google DeepMind-A24 partnership will run multiple research and development projects and includes a Google investment in A24."
+  },
+  "https://mistral.ai/news/leanstral-1-5": {
+    "policy": "insight-v2",
+    "title": "Leanstral 1.5: Proof Abundance for All",
+    "date": "2026-07-02T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Leanstral 1.5 uses 6B active parameters, solved 587 of 672 PutnamBench problems, and is available under Apache 2.0 via Hugging Face and a free API."
+  },
+  "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash": {
+    "policy": "insight-v2",
+    "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+    "date": "2026-06-30T16:02:40.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 1,
+    "extra_title_fact": "Nano Banana 2 Lite targets fast, low-cost image experiments, while Gemini Omni Flash supports video generation through conversational editing."
+  },
+  "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication": {
+    "policy": "insight-v2",
+    "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
+    "date": "2026-06-29T05:00:00.000Z",
+    "source": "Meta AI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Brain2Qwerty v2 decodes sentences in real time from non-invasive brain recordings, and Meta is releasing training code plus a BCBL dataset."
+  },
+  "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash": {
+    "policy": "insight-v2",
+    "title": "Introducing computer use in Gemini 3.5 Flash",
+    "date": "2026-06-24T16:30:01.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Gemini 3.5 Flash now includes computer use as a built-in tool for browser, mobile, and desktop agents."
+  },
+  "https://mistral.ai/news/more-control-over-connectors": {
+    "policy": "insight-v2",
+    "title": "Bringing more control over your connectors",
+    "date": "2026-06-24T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Mistral's connector update adds workspace and organization access controls, scoped API keys, a debugger, and more than 60 pre-built connectors."
+  },
+  "https://mistral.ai/news/ocr-4": {
+    "policy": "insight-v2",
+    "title": "Introducing Mistral OCR 4",
+    "date": "2026-06-23T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Mistral OCR 4 supports 170 languages, emits bounding boxes and confidence scores, and can run in a single self-hosted container."
+  },
+  "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning": {
+    "policy": "insight-v2",
+    "title": "Unlocking UK house-building with AI-accelerated planning",
+    "date": "2026-06-16T21:29:50.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "A UK government prototype built with Gemini aims to cut householder planning decision times by 50% toward a 1.5 million-home goal."
+  },
+  "https://deepmind.google/blog/securing-the-future-of-ai-agents": {
+    "policy": "insight-v2",
+    "title": "Securing the future of AI agents",
+    "date": "2026-06-16T15:46:31.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Google DeepMind describes layered controls for internal systems that monitor AI-agent actions and limit access as capabilities grow."
+  },
+  "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation": {
+    "policy": "insight-v2",
+    "title": "DiffusionGemma: 4x faster text generation",
+    "date": "2026-06-10T16:24:11.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "DiffusionGemma is a 26B mixture-of-experts open model that generates blocks of text in parallel and reports up to 4x faster GPU inference."
+  },
+  "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research": {
+    "policy": "insight-v2",
+    "title": "Investing in multi-agent AI safety research",
+    "date": "2026-06-10T10:21:19.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Google DeepMind and partners opened a global call for up to $10 million in technical research funding on multi-agent AI safety."
+  },
+  "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate": {
+    "policy": "insight-v2",
+    "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+    "date": "2026-06-09T15:16:25.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Gemini 3.5 Live Translate provides near-real-time speech-to-speech translation in over 70 languages."
+  },
+  "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model": {
+    "policy": "insight-v2",
+    "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+    "date": "2026-06-09T14:10:19.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Gemma 4 12B combines multimodal reasoning with native audio input in a smaller model aimed at laptops."
+  },
+  "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe": {
+    "policy": "insight-v2",
+    "title": "Powering the future of robotics in Europe",
+    "date": "2026-06-09T14:02:33.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Google DeepMind's accelerator selected 15 European robotics companies for three months of mentorship and technical support."
+  },
+  "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond": {
+    "policy": "insight-v2",
+    "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+    "date": "2026-06-08T13:04:59.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "A randomized controlled trial followed 1,763 junior secondary students across 12 Sierra Leone schools for eight weeks to test Guided Learning in Gemini."
+  },
+  "https://mistral.ai/news/ai-now-summit-2026": {
+    "policy": "insight-v2",
+    "title": "AI Now Summit 2026",
+    "date": "2026-05-28T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "At Mistral's AI Now Summit, the company described a stack combining physics models, engineering tools, and robotics, alongside a planned 10 MW French data center."
+  },
+  "https://mistral.ai/news/vibe-agent": {
+    "policy": "insight-v2",
+    "title": "Vibe gets to work.",
+    "date": "2026-05-28T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Mistral Vibe runs long tasks such as inbox management, research, and document drafting in Work Mode, alongside Code Mode for coding."
+  },
+  "https://mistral.ai/news/search-toolkit": {
+    "policy": "insight-v2",
+    "title": "Introducing Search Toolkit",
+    "date": "2026-05-28T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Search Toolkit is an open-source public-preview framework that combines ingestion, retrieval, and evaluation under one interface."
+  },
+  "https://mistral.ai/news/introducing-physics-ai-at-mistral": {
+    "policy": "insight-v2",
+    "title": "Introducing physics AI at Mistral: the foundation for engineering acceleration.",
+    "date": "2026-05-27T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Mistral's physics AI work targets engineering simulations and live operational data, with ASML, Airbus, Safran, and Siemens Energy cited as partners."
+  },
+  "https://mistral.ai/news/physics-ai-research": {
+    "policy": "insight-v2",
+    "title": "Physics AI research that’s shaping the industry.",
+    "date": "2026-05-27T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 1,
+    "extra_title_fact": "Emmi AI is now part of Mistral, and its research models physical systems for engineering work."
+  },
+  "https://mistral.ai/news/accelerate-ai-native-industry": {
+    "policy": "insight-v2",
+    "title": "Emmi joins Mistral to accelerate the AI-native industry",
+    "date": "2026-05-23T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Mistral agreed to acquire Emmi AI to add physics modeling and engineering-tool support to its industrial AI products."
+  },
+  "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5": {
+    "policy": "insight-v2",
+    "title": "Remote agents in Vibe. Powered by Mistral Medium 3.5.",
+    "date": "2026-05-22T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Mistral Medium 3.5 is a 128B open-weight model powering cloud remote agents, priced at $1.50 per million input tokens and $7.50 per million output tokens."
+  },
+  "https://mistral.ai/news/connectors": {
+    "policy": "insight-v2",
+    "title": "Connect the dots: Build with built-in and custom MCPs in Studio",
+    "date": "2026-05-22T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Studio Connectors are available through the API and SDK, with direct tool calls and human approval flows for built-in and custom MCPs."
+  },
+  "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks": {
+    "policy": "insight-v2",
+    "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+    "date": "2026-05-21T19:46:42.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Google DeepMind's three-month APAC accelerator offers selected startups, research teams, and nonprofits mentorship and model-integration support for environmental projects."
+  },
+  "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging": {
+    "policy": "insight-v2",
+    "title": "Fast-tracking genetic leads to reverse cellular aging",
+    "date": "2026-05-18T18:21:39.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Researchers use Co-Scientist to rank gene pathways that may move cells away from senescence in aging studies."
+  },
+  "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view": {
+    "policy": "insight-v2",
+    "title": "Simulate real-world places with Project Genie and Street View",
+    "date": "2026-05-17T19:53:18.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Project Genie now pairs interactive world generation with nearly 20 years of Street View imagery and is available to Google AI Ultra subscribers."
+  },
+  "https://deepmind.google/blog/introducing-gemini-omni": {
+    "policy": "insight-v2",
+    "title": "Introducing Gemini Omni",
+    "date": "2026-05-17T19:50:57.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Gemini Omni Flash generates video from varied inputs and supports conversational editing."
+  },
+  "https://deepmind.google/blog/introducing-google-antigravity-2-0": {
+    "policy": "insight-v2",
+    "title": "Introducing Google Antigravity 2.0",
+    "date": "2026-05-17T19:43:45.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Antigravity 2.0 is a standalone desktop app for macOS, Linux, and Windows that runs synchronous or asynchronous agents without an IDE."
+  },
+  "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery": {
+    "policy": "insight-v2",
+    "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+    "date": "2026-05-17T13:50:34.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Google's Science Skills and three Google Labs tools apply Co-Scientist, AlphaEvolve, and NotebookLM to steps in the scientific method."
+  },
+  "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited": {
+    "policy": "insight-v2",
+    "title": "Making it easier to understand how content was created and edited",
+    "date": "2026-05-17T13:43:50.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Google says SynthID has watermarked more than 100 billion images and videos and 60,000 years of audio, with verification tools expanding across Search, Gemini, Chrome, Pixel, and Cloud."
+  },
+  "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership": {
+    "policy": "insight-v2",
+    "title": "Strengthening Singapore’s AI Future: A New National Partnership",
+    "date": "2026-05-16T09:13:34.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Google DeepMind's Singapore partnership targets health and life sciences, classrooms, and workforce programs through national AI initiatives."
+  },
+  "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases": {
+    "policy": "insight-v2",
+    "title": "Finding the molecular switches behind new infectious diseases",
+    "date": "2026-05-16T08:16:06.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Cambridge researcher Clare Bryant uses Co-Scientist to generate and rank hypotheses about molecular switches involved in severe infection."
+  },
+  "https://mistral.ai/news/workflows": {
+    "policy": "insight-v2",
+    "title": "Workflows for work that runs the business",
+    "date": "2026-04-27T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Mistral Workflows is in public preview and adds durable execution, observability, and fault tolerance for long-running enterprise AI processes."
+  },
+  "https://mistral.ai/news/spaces": {
+    "policy": "insight-v2",
+    "title": "Spaces: A CLI Built for Humans and Agents",
+    "date": "2026-03-31T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Mistral Spaces scaffolds project directories, configuration files, connected services, and staging deployment from a CLI."
+  },
+  "https://mistral.ai/news/voxtral-tts": {
+    "policy": "insight-v2",
+    "title": "Speaking of Voxtral",
+    "date": "2026-03-23T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Voxtral TTS is a 4B-parameter model for nine languages, available through API and Mistral Studio at $0.016 per 1,000 characters."
+  },
+  "https://mistral.ai/news/forge": {
+    "policy": "insight-v2",
+    "title": "Introducing Forge",
+    "date": "2026-03-17T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Forge lets enterprises build models grounded in proprietary knowledge and internal processes while keeping data in their own environments."
+  },
+  "https://mistral.ai/news/mistral-small-4": {
+    "policy": "insight-v2",
+    "title": "Introducing Mistral Small 4",
+    "date": "2026-03-16T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Mistral Small 4 unifies reasoning, multimodal input, and agentic coding in one Apache 2.0 model."
+  },
+  "https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models": {
+    "policy": "insight-v2",
+    "title": "Mistral AI partners with NVIDIA to accelerate open frontier models",
+    "date": "2026-03-16T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Mistral joined NVIDIA's Nemotron Coalition and released Mistral Small 4 under Apache 2.0 for open development."
+  },
+  "https://mistral.ai/news/leanstral": {
+    "policy": "insight-v2",
+    "title": "Leanstral: Open-Source foundation for trustworthy vibe-coding",
+    "date": "2026-03-16T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Leanstral is an open model for Lean 4 proof engineering designed to let agents check code against formal specifications before human review."
+  },
+  "https://mistral.ai/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont": {
+    "policy": "insight-v2",
+    "title": "Rails testing on autopilot: Building an agent that writes what developers won't",
+    "date": "2026-03-11T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Mistral's Rails agent reads models, serializers, controllers, mailers, and helpers to generate or improve RSpec tests in parallel inside CI/CD."
+  },
+  "https://mistral.ai/news/voxtral-transcribe-2": {
+    "policy": "insight-v2",
+    "title": "Voxtral transcribes at the speed of sound.",
+    "date": "2026-02-04T06:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Voxtral Transcribe 2 includes Mini for batch transcription and Realtime for live use, with the latter released as Apache 2.0 open weights."
+  },
+  "https://mistral.ai/news/mistral-vibe-2-0": {
+    "policy": "insight-v2",
+    "title": "Terminally online Mistral Vibe.",
+    "date": "2026-01-27T06:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Mistral Vibe 2.0 adds custom subagents, slash-command skills, and clarify-before-execute controls, and is available on Le Chat Pro and Team."
+  },
+  "https://mistral.ai/news/debugging-memory-leak-in-vllm": {
+    "policy": "insight-v2",
+    "title": "Heaps do lie: debugging a memory leak in vLLM.",
+    "date": "2026-01-21T06:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Mistral traced a vLLM leak to graph compilation with Mistral Medium 3.1, where production-like traffic increased memory by about 400 MB per minute."
+  },
+  "https://mistral.ai/news/mistral-ocr-3": {
+    "policy": "insight-v2",
+    "title": "Introducing Mistral OCR 3",
+    "date": "2025-12-17T06:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Mistral OCR 3 recorded a 74% overall win rate against OCR 2 on forms, scans, complex tables, and handwriting."
+  },
+  "https://mistral.ai/news/devstral-2-vibe-cli": {
+    "policy": "insight-v2",
+    "title": "Introducing: Devstral 2 and Mistral Vibe CLI.",
+    "date": "2025-12-09T06:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Devstral 2 comes in 123B and Devstral Small 2 in 24B, with modified MIT and Apache 2.0 licenses respectively."
+  },
+  "https://mistral.ai/news/mistral-3": {
+    "policy": "insight-v2",
+    "title": "Introducing Mistral 3",
+    "date": "2025-12-02T06:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Mistral 3 combines 14B, 8B, and 3B dense models with Mistral Large 3, a 41B-active, 675B-total-parameter mixture of experts, all under Apache 2.0."
+  },
+  "https://mistral.ai/news/ki-fur-deutschland": {
+    "policy": "insight-v2",
+    "title": "Mistral AI - KI für Deutschland",
+    "date": "2025-11-19T06:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Mistral and SAP are building a multiyear sovereign AI stack for Germany and Europe, with models integrated into SAP's AI Foundation."
+  },
+  "https://mistral.ai/news/ai-studio": {
+    "policy": "insight-v2",
+    "title": "Introducing Mistral AI Studio.",
+    "date": "2025-10-24T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 1,
+    "extra_title_fact": "Mistral AI Studio includes an AI Registry that tracks lineage, ownership, and versioning for agents, models, datasets, tools, and workflows."
+  },
+  "https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai": {
+    "policy": "insight-v2",
+    "title": "Mistral AI raises 1.7B€ to accelerate technological progress with AI",
+    "date": "2025-09-09T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Mistral raised €1.7 billion in Series C at an €11.7 billion post-money valuation, led by ASML."
+  },
+  "https://mistral.ai/news/memory": {
+    "policy": "insight-v2",
+    "title": "Make Memory work for you.",
+    "date": "2025-09-02T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Mistral's Memories beta uses a graph-based architecture and lets users inspect and control what the assistant remembers."
+  },
+  "https://mistral.ai/news/le-chat-mcp-connectors-memories": {
+    "policy": "insight-v2",
+    "title": "Le Chat. Custom MCP connectors. Memories.",
+    "date": "2025-09-02T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Le Chat's beta connector directory lists more than 20 integrations, including Databricks, GitHub, Atlassian, Asana, Outlook, Box, Stripe, and Zapier."
+  },
+  "https://mistral.ai/news/unlocking-potential-vision-language-models-satellite-imagery-fine-tuning": {
+    "policy": "insight-v2",
+    "title": "Unlocking the potential of vision language models on satellite imagery through fine-tuning",
+    "date": "2025-08-01T05:00:00.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Fine-tuning Pixtral-12B on satellite imagery improves specialized performance while LoRA updates only small trainable matrices instead of the full model."
+  }
+}
