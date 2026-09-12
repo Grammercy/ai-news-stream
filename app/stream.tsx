@@ -9,7 +9,7 @@ import {
   DialogTitle,
   DialogTrigger,
 } from "@/components/ui/dialog";
-export default function Stream({ initial }: {initial: Feed}) {
+export default function Stream({ initial, dailySummary }: {initial: Feed; dailySummary: string[]}) {
   const [feed, setFeed] = useState(initial);
   const [offline, setOffline] = useState(false);
   useEffect(() => {
@@ -29,8 +29,7 @@ export default function Stream({ initial }: {initial: Feed}) {
   return <main>
     <header><h1>AI News<span aria-hidden="true">/</span></h1></header>
     <section className="daily-brief" aria-label="Daily news summary">
-      <p aria-hidden="true" />
-      <p aria-hidden="true" />
+      {dailySummary.slice(0, 2).map((sentence, index) => <p key={index}>{sentence}</p>)}
     </section>
     {(offline || feed.unavailable.length > 0) && <p className="notice" role="status">{offline ? "Update failed." : feed.unavailable.join(" and ") + " could not be updated."} Showing saved links.</p>}
     <ul aria-label="Latest AI news">
@@ -47,7 +46,7 @@ export default function Stream({ initial }: {initial: Feed}) {
               <DialogTitle>{item.title}</DialogTitle>
               <span className="meta"><span>{item.source}</span><time dateTime={item.date}>{new Date(item.date).toLocaleDateString("en-US", {month:"short", day:"numeric", year: "numeric", timeZone:"UTC"})}</time></span>
             </DialogHeader>
-            <DialogDescription>sorry, no summary yet.</DialogDescription>
+            <DialogDescription>{item.summary ?? "sorry, no summary yet."}</DialogDescription>
             <a className="article-link" href={item.url} target="_blank" rel="noopener noreferrer">Open article <span aria-hidden="true">↗</span></a>
           </DialogContent>
         </Dialog>
