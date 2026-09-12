@@ -1,0 +1,830 @@
+[
+  {
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "date": "2026-09-14T00:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+    "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+    "date": "2026-09-11T16:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "date": "2026-09-11T10:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+    "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "date": "2026-09-10T16:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Now everyone can put data to work",
+    "url": "https://openai.com/index/put-data-to-work",
+    "date": "2026-09-10T15:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Introducing ChatGPT for Financial Services",
+    "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+    "date": "2026-09-10T07:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+    "url": "https://openai.com/index/expanding-ai-access-us-government",
+    "date": "2026-09-10T07:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "date": "2026-09-10T00:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Introducing the Agents API",
+    "url": "https://openai.com/index/introducing-the-agents-api",
+    "date": "2026-09-10T00:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Paul Christiano joins OpenAI Foundation Board",
+    "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+    "date": "2026-09-09T17:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "The AI policy window is open. We need to act.",
+    "url": "https://openai.com/index/ai-policy-window",
+    "date": "2026-09-09T13:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "GPT-6 Astra: The next generation in intelligence for work",
+    "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+    "date": "2026-09-09T11:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "url": "https://openai.com/index/codex-quantum-computing-experiments",
+    "date": "2026-09-08T17:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "The Work Now Within Reach",
+    "url": "https://openai.com/index/the-work-now-within-reach",
+    "date": "2026-09-08T13:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Introducing ChatGPT Images 2.5",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+    "date": "2026-09-08T11:30:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "On the Navier–Stokes Millennium Prize Problem",
+    "url": "https://openai.com/index/navier-stokes-solution",
+    "date": "2026-09-08T10:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Funding grants for new research into AI and teen development",
+    "url": "https://openai.com/index/teen-development-research-grants",
+    "date": "2026-09-08T09:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+    "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+    "date": "2026-09-08T00:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "1Password increases engineering productivity 21% with Codex",
+    "url": "https://openai.com/index/1password",
+    "date": "2026-09-08T00:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Supporting independent journalism in Ukraine",
+    "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "date": "2026-09-07T00:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "An Alien Mind",
+    "url": "https://openai.com/index/an-alien-mind",
+    "date": "2026-09-06T09:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Research acceleration: The view inside OpenAI",
+    "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "date": "2026-09-06T08:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "date": "2026-09-03T13:15:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "date": "2026-09-03T12:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "date": "2026-09-03T12:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "GPT-6 Astra: A new generation of intelligence",
+    "url": "https://openai.com/index/gpt-6-astra",
+    "date": "2026-09-03T11:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Safety overview: GPT-6 Astra",
+    "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+    "date": "2026-09-03T00:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "url": "https://openai.com/index/atv-big-air-tour",
+    "date": "2026-09-02T12:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "How AI-native companies turn workflows into operating capability",
+    "url": "https://openai.com/index/ai-native-company-workflows",
+    "date": "2026-09-01T17:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "url": "https://openai.com/index/path-to-astra",
+    "date": "2026-09-01T13:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+    "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+    "date": "2026-09-01T12:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+    "url": "https://openai.com/index/gilbert-tobin",
+    "date": "2026-09-01T01:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "OpenAI supports California’s bill to advance youth AI safety",
+    "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "date": "2026-08-31T07:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Polimill builds Japan's next-generation public AI infrastructure",
+    "url": "https://openai.com/index/polimill",
+    "date": "2026-08-31T07:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "A milestone in expanding access to AI",
+    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "date": "2026-08-31T04:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "date": "2026-08-28T06:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "date": "2026-08-28T02:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "date": "2026-08-27T09:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Expanding OpenAI’s presence in Brazil",
+    "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "date": "2026-08-27T03:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Learning never stops: How AI makes learning continuous",
+    "url": "https://openai.com/index/learning-never-stops",
+    "date": "2026-08-26T10:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Detecting and countering misuse of AI: September 2026",
+    "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+    "date": "2026-09-10T05:00:00.000Z",
+    "source": "Anthropic"
+  },
+  {
+    "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "date": "2026-09-01T05:00:00.000Z",
+    "source": "Anthropic"
+  },
+  {
+    "title": "Developing Enterprise Frontier Safeguards with our customers",
+    "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+    "date": "2026-09-01T05:00:00.000Z",
+    "source": "Anthropic"
+  },
+  {
+    "title": "Improving our alignment and security efforts",
+    "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+    "date": "2026-08-31T05:00:00.000Z",
+    "source": "Anthropic"
+  },
+  {
+    "title": "Previewing the Model Hardware Standard",
+    "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+    "date": "2026-08-27T05:00:00.000Z",
+    "source": "Anthropic"
+  },
+  {
+    "title": "Expanding our support for scientists",
+    "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
+    "date": "2026-08-27T05:00:00.000Z",
+    "source": "Anthropic"
+  },
+  {
+    "title": "Funding better evaluations of AI’s impact on wellbeing",
+    "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+    "date": "2026-08-25T05:00:00.000Z",
+    "source": "Anthropic"
+  },
+  {
+    "title": "How Claude’s text watermark works",
+    "url": "https://www.anthropic.com/news/claude-text-watermark",
+    "date": "2026-08-14T05:00:00.000Z",
+    "source": "Anthropic"
+  },
+  {
+    "title": "Improving Fable 5's biology safeguards",
+    "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+    "date": "2026-08-07T05:00:00.000Z",
+    "source": "Anthropic"
+  },
+  {
+    "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+    "url": "https://www.anthropic.com/news/tino-cuellar",
+    "date": "2026-08-04T05:00:00.000Z",
+    "source": "Anthropic"
+  },
+  {
+    "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+    "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+    "date": "2026-07-30T05:00:00.000Z",
+    "source": "Anthropic"
+  },
+  {
+    "title": "Our position on open-weights models",
+    "url": "https://www.anthropic.com/news/position-open-weights-models",
+    "date": "2026-07-27T05:00:00.000Z",
+    "source": "Anthropic"
+  },
+  {
+    "title": "Introducing Claude Opus 5",
+    "url": "https://www.anthropic.com/news/claude-opus-5",
+    "date": "2026-07-24T05:00:00.000Z",
+    "source": "Anthropic"
+  },
+  {
+    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+    "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "date": "2026-09-08T14:00:15.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "date": "2026-09-03T15:02:08.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Proactive cyber defense for governments and enterprises",
+    "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+    "date": "2026-09-02T16:24:24.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "date": "2026-09-02T16:18:31.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Introducing agentic video understanding with Gemini",
+    "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "date": "2026-09-01T17:08:51.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Gemini Omni 1.1 Flash lets you build with more control",
+    "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+    "date": "2026-08-27T16:11:32.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Piloting the world's first double-blind AI evaluations",
+    "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+    "date": "2026-08-27T12:59:16.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+    "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+    "date": "2026-08-26T17:01:00.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+    "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+    "date": "2026-08-21T11:59:48.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Introducing Gemini 3.7 Flash",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "date": "2026-08-13T17:04:18.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Putting sign language AI into users’ hands",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "date": "2026-08-12T14:01:59.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "date": "2026-08-06T15:06:15.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+    "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "date": "2026-07-30T15:00:59.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+    "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "date": "2026-07-29T16:02:10.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+    "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "date": "2026-07-28T13:21:37.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+    "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "date": "2026-07-22T13:38:54.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+    "date": "2026-07-21T15:16:30.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Introducing Gemini 3.5 Flash Cyber",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+    "date": "2026-07-17T15:00:11.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Our approach to bioresilience",
+    "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+    "date": "2026-07-16T09:30:42.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Empowering India’s next generation of innovators with ATL Saathi",
+    "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "date": "2026-07-13T12:37:28.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+    "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "date": "2026-07-03T14:25:43.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+    "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+    "date": "2026-06-30T16:02:40.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Introducing computer use in Gemini 3.5 Flash",
+    "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "date": "2026-06-24T16:30:01.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Unlocking UK house-building with AI-accelerated planning",
+    "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "date": "2026-06-16T21:29:50.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Securing the future of AI agents",
+    "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+    "date": "2026-06-16T15:46:31.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "DiffusionGemma: 4x faster text generation",
+    "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+    "date": "2026-06-10T16:24:11.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Investing in multi-agent AI safety research",
+    "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "date": "2026-06-10T10:21:19.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+    "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+    "date": "2026-06-09T15:16:25.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+    "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+    "date": "2026-06-09T14:10:19.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Powering the future of robotics in Europe",
+    "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+    "date": "2026-06-09T14:02:33.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+    "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+    "date": "2026-06-08T13:04:59.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+    "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "date": "2026-05-21T19:46:42.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Fast-tracking genetic leads to reverse cellular aging",
+    "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+    "date": "2026-05-18T18:21:39.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Simulate real-world places with Project Genie and Street View",
+    "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+    "date": "2026-05-17T19:53:18.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Introducing Gemini Omni",
+    "url": "https://deepmind.google/blog/introducing-gemini-omni/",
+    "date": "2026-05-17T19:50:57.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Introducing Google Antigravity 2.0",
+    "url": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+    "date": "2026-05-17T19:43:45.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+    "url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+    "date": "2026-05-17T13:50:34.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Making it easier to understand how content was created and edited",
+    "url": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
+    "date": "2026-05-17T13:43:50.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Strengthening Singapore’s AI Future: A New National Partnership",
+    "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+    "date": "2026-05-16T09:13:34.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Finding the molecular switches behind new infectious diseases",
+    "url": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/",
+    "date": "2026-05-16T08:16:06.000Z",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
+    "url": "https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino/",
+    "date": "2026-07-27T05:00:00.000Z",
+    "source": "Meta AI"
+  },
+  {
+    "title": "How Meta’s AI Models Are Powering the First Wave of Genesis Mission Projects",
+    "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/",
+    "date": "2026-07-21T05:00:00.000Z",
+    "source": "Meta AI"
+  },
+  {
+    "title": "Introducing Muse Spark 1.1",
+    "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+    "date": "2026-07-09T05:00:00.000Z",
+    "source": "Meta AI"
+  },
+  {
+    "title": "Introducing Muse Image and Muse Video",
+    "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/",
+    "date": "2026-07-07T05:00:00.000Z",
+    "source": "Meta AI"
+  },
+  {
+    "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
+    "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/",
+    "date": "2026-06-29T05:00:00.000Z",
+    "source": "Meta AI"
+  },
+  {
+    "title": "Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
+    "url": "https://mistral.ai/news/mistral-x-cloudera/",
+    "date": "2026-09-10T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Modernizing complex legacy code with AI agents.",
+    "url": "https://mistral.ai/news/legacy-code-modernization/",
+    "date": "2026-09-09T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+    "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+    "date": "2026-09-08T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Mistral x HUMAIN",
+    "url": "https://mistral.ai/news/mistral-x-humain/",
+    "date": "2026-08-24T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Agentic Search. More accurate and efficient results from your AI systems.",
+    "url": "https://mistral.ai/news/agentic-search/",
+    "date": "2026-08-20T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "In-region inference, open models, and new European infrastructure for sovereign AI.",
+    "url": "https://mistral.ai/news/regional-inference-open-models-new-compute/",
+    "date": "2026-08-11T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Introducing Shieldstral.",
+    "url": "https://mistral.ai/news/shieldstral/",
+    "date": "2026-08-04T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Your Prompts and Skills need a system of record.",
+    "url": "https://mistral.ai/news/manage-prompts-and-skills-in-studio/",
+    "date": "2026-07-09T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Introducing Robostral Navigate",
+    "url": "https://mistral.ai/news/robostral-navigate/",
+    "date": "2026-07-08T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Leanstral 1.5: Proof Abundance for All",
+    "url": "https://mistral.ai/news/leanstral-1-5/",
+    "date": "2026-07-02T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Bringing more control over your connectors",
+    "url": "https://mistral.ai/news/more-control-over-connectors/",
+    "date": "2026-06-24T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Introducing Mistral OCR 4",
+    "url": "https://mistral.ai/news/ocr-4/",
+    "date": "2026-06-23T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "AI Now Summit 2026",
+    "url": "https://mistral.ai/news/ai-now-summit-2026/",
+    "date": "2026-05-28T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Vibe gets to work.",
+    "url": "https://mistral.ai/news/vibe-agent/",
+    "date": "2026-05-28T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Introducing Search Toolkit",
+    "url": "https://mistral.ai/news/search-toolkit/",
+    "date": "2026-05-28T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Introducing physics AI at Mistral: the foundation for engineering acceleration.",
+    "url": "https://mistral.ai/news/introducing-physics-ai-at-mistral/",
+    "date": "2026-05-27T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Physics AI research that’s shaping the industry.",
+    "url": "https://mistral.ai/news/physics-ai-research/",
+    "date": "2026-05-27T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Emmi joins Mistral to accelerate the AI-native industry",
+    "url": "https://mistral.ai/news/accelerate-ai-native-industry/",
+    "date": "2026-05-23T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Remote agents in Vibe. Powered by Mistral Medium 3.5.",
+    "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5/",
+    "date": "2026-05-22T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Connect the dots: Build with built-in and custom MCPs in Studio",
+    "url": "https://mistral.ai/news/connectors/",
+    "date": "2026-05-22T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Workflows for work that runs the business",
+    "url": "https://mistral.ai/news/workflows/",
+    "date": "2026-04-27T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Spaces: A CLI Built for Humans and Agents",
+    "url": "https://mistral.ai/news/spaces/",
+    "date": "2026-03-31T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Speaking of Voxtral",
+    "url": "https://mistral.ai/news/voxtral-tts/",
+    "date": "2026-03-23T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Introducing Forge",
+    "url": "https://mistral.ai/news/forge/",
+    "date": "2026-03-17T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Introducing Mistral Small 4",
+    "url": "https://mistral.ai/news/mistral-small-4/",
+    "date": "2026-03-16T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Mistral AI partners with NVIDIA to accelerate open frontier models",
+    "url": "https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models/",
+    "date": "2026-03-16T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Leanstral: Open-Source foundation for trustworthy vibe-coding",
+    "url": "https://mistral.ai/news/leanstral/",
+    "date": "2026-03-16T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Rails testing on autopilot: Building an agent that writes what developers won't",
+    "url": "https://mistral.ai/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont/",
+    "date": "2026-03-11T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Voxtral transcribes at the speed of sound.",
+    "url": "https://mistral.ai/news/voxtral-transcribe-2/",
+    "date": "2026-02-04T06:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Terminally online Mistral Vibe.",
+    "url": "https://mistral.ai/news/mistral-vibe-2-0/",
+    "date": "2026-01-27T06:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Heaps do lie: debugging a memory leak in vLLM.",
+    "url": "https://mistral.ai/news/debugging-memory-leak-in-vllm/",
+    "date": "2026-01-21T06:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Introducing Mistral OCR 3",
+    "url": "https://mistral.ai/news/mistral-ocr-3/",
+    "date": "2025-12-17T06:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Introducing: Devstral 2 and Mistral Vibe CLI.",
+    "url": "https://mistral.ai/news/devstral-2-vibe-cli/",
+    "date": "2025-12-09T06:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Introducing Mistral 3",
+    "url": "https://mistral.ai/news/mistral-3/",
+    "date": "2025-12-02T06:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Mistral AI - KI für Deutschland",
+    "url": "https://mistral.ai/news/ki-fur-deutschland/",
+    "date": "2025-11-19T06:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Introducing Mistral AI Studio.",
+    "url": "https://mistral.ai/news/ai-studio/",
+    "date": "2025-10-24T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Mistral AI raises 1.7B€ to accelerate technological progress with AI",
+    "url": "https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai/",
+    "date": "2025-09-09T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Make Memory work for you.",
+    "url": "https://mistral.ai/news/memory/",
+    "date": "2025-09-02T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Le Chat. Custom MCP connectors. Memories.",
+    "url": "https://mistral.ai/news/le-chat-mcp-connectors-memories/",
+    "date": "2025-09-02T05:00:00.000Z",
+    "source": "Mistral"
+  },
+  {
+    "title": "Unlocking the potential of vision language models on satellite imagery through fine-tuning",
+    "url": "https://mistral.ai/news/unlocking-potential-vision-language-models-satellite-imagery-fine-tuning/",
+    "date": "2025-08-01T05:00:00.000Z",
+    "source": "Mistral"
+  }
+]
