@@ -9,15 +9,19 @@ h1 { font-size: 26px; font-weight: 650; letter-spacing: -.9px; margin: 0; }
 h1 span { color: var(--primary); margin-left: 8px; font-weight: 400; }
 ul { list-style: none; margin: 0; padding: 0; }
 .daily-brief { padding: 24px 0 21px; }
-.daily-brief p { margin: 0 0 9px; }
-.daily-brief p:last-child { margin-bottom: 0; }
+.daily-copy p { margin: 0 0 9px; }
+.daily-copy p:last-child { margin-bottom: 0; }
+.brief-sources { display: inline-flex; flex-wrap: wrap; align-items: center; gap: 4px 8px; margin-top: 11px; padding: 5px 7px; border-radius: 3px; background: #f3f4f6; font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace; font-size: 11px; line-height: 1.35; color: #73777f; }
+.brief-sources a { color: #555c68; text-decoration: none; }
+.brief-sources a::before { content: "·"; margin-right: 8px; color: #a1a6af; }
+.brief-sources a:hover { color: var(--primary); text-decoration: underline; text-underline-offset: 3px; }
 li { border-bottom: 1px solid var(--border); }
 .news-row { display: block; width: 100%; padding: 20px 0; border: 0; background: transparent; color: inherit; text-align: left; cursor: pointer; }
 .headline { font-size: 18px; line-height: 1.45; letter-spacing: -.2px; }
 .meta { display: flex; gap: 15px; margin-top: 7px; font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace; font-size: 12px; line-height: 1.5; color: #555c68; }
 time { color: #73777f; }
 .news-row:hover .headline { color: var(--primary); text-decoration: underline; text-underline-offset: 4px; }
-.news-row:focus-visible, .article-link:focus-visible { outline: 2px solid var(--primary); outline-offset: 5px; }
+.news-row:focus-visible, .article-link:focus-visible, .brief-sources a:focus-visible { outline: 2px solid var(--primary); outline-offset: 3px; }
 .news-card { border: 1px solid #dfe2e7; border-radius: 2px; background: #fff; padding: 30px; box-shadow: 0 24px 80px rgb(21 29 48 / 18%); }
 .news-card [data-slot="dialog-title"] { max-width: 92%; font-size: 24px; line-height: 1.25; letter-spacing: -.45px; }
 .news-card [data-slot="dialog-description"] { margin: 10px 0 18px; color: #555c68; font-size: 16px; line-height: 1.6; }

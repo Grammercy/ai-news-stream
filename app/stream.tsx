@@ -1,6 +1,6 @@
 "use client";
 import { useEffect, useState } from "react";
-import type { Feed } from "./news";
+import type { DailySource, Feed } from "./news";
 import {
   Dialog,
   DialogContent,
@@ -9,7 +9,7 @@ import {
   DialogTitle,
   DialogTrigger,
 } from "@/components/ui/dialog";
-export default function Stream({ initial, dailySummary }: {initial: Feed; dailySummary: string[]}) {
+export default function Stream({ initial, dailySummary, dailySources }: {initial: Feed; dailySummary: string[]; dailySources: DailySource[]}) {
   const [feed, setFeed] = useState(initial);
   const [offline, setOffline] = useState(false);
   useEffect(() => {
@@ -29,7 +29,11 @@ export default function Stream({ initial, dailySummary }: {initial: Feed; dailyS
   return <main>
     <header><h1>AI News<span aria-hidden="true">/</span></h1></header>
     <section className="daily-brief" aria-label="Daily news summary">
-      {dailySummary.slice(0, 2).map((sentence, index) => <p key={index}>{sentence}</p>)}
+      <div className="daily-copy">{dailySummary.slice(0, 2).map((sentence, index) => <p key={index}>{sentence}</p>)}</div>
+      {dailySources.length > 0 && <div className="brief-sources" aria-label="Sources for the daily news summary">
+        <span>Sources</span>
+        {dailySources.map(source => <a key={source.url} href={source.url} target="_blank" rel="noopener noreferrer">{source.label}</a>)}
+      </div>}
     </section>
     {(offline || feed.unavailable.length > 0) && <p className="notice" role="status">{offline ? "Update failed." : feed.unavailable.join(" and ") + " could not be updated."} Showing saved links.</p>}
     <ul aria-label="Latest AI news">
