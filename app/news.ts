@@ -7,6 +7,11 @@ export type Item = {title: string; url: string; date: string; source: string; su
 export type Feed = {items: Item[]; unavailable: string[]};
 export type DailySource = {label: string; url: string};
 const cache = new Map<string, {items: Item[]; expires: number}>();
+const NEWS_RETENTION_MS = 30 * 24 * 60 * 60 * 1000;
+const isRecent = (date: string) => {
+  const timestamp = Date.parse(date);
+  return timestamp >= Date.now() - NEWS_RETENTION_MS && timestamp <= Date.now();
+};
 const summaryByUrl = summaries as Record<string, string>;
 const canonical = (url: string) => {
   const value = new URL(url);
@@ -25,14 +30,14 @@ export async function getNews(): Promise<Feed> {
     try {
       const response = await fetch(url as string, {headers: {"User-Agent": "Mozilla/5.0 (compatible; AINewsReader/1.0)", Accept: "application/rss+xml, text/html, */*"}, signal: AbortSignal.timeout(12000)});
       if (!response.ok) throw new Error("Source unavailable");
-      const items: Item[] = withSummaries(parseNews(await response.text(), source).filter(item => Date.parse(item.date) <= Date.now()).slice(0, 40));
+      const items: Item[] = withSummaries(parseNews(await response.text(), source).filter(item => isRecent(item.date)).slice(0, 40));
       if (!items.length) throw new Error("Source format changed");
       cache.set(source, {items, expires: Date.now() + 300000});
       return items;
     } catch {
       unavailable.push(source);
-      return saved?.items ?? withSummaries(snapshot.filter(item => item.source === source));
+      return saved?.items.filter(item => isRecent(item.date)) ?? withSummaries(snapshot.filter(item => item.source === source && isRecent(item.date)));
     }
   }));
-  return {items: results.flat().filter(item => Date.parse(item.date) <= Date.now()).sort((a,b) => b.date.localeCompare(a.date)), unavailable};
+  return {items: results.flat().filter(item => isRecent(item.date)).sort((a,b) => b.date.localeCompare(a.date)), unavailable};
 }
