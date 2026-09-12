@@ -19,6 +19,7 @@ const canonical = (url: string) => {
   value.search = "";
   return value.href.replace(/\/$/, "");
 };
+const uniqueByCanonical = (items: Item[]) => [...new Map(items.map(item => [canonical(item.url), item])).values()];
 const withSummaries = (items: Item[]) => items.map(item => ({...item, summary: summaryByUrl[canonical(item.url)]}));
 export const dailySummary = dailyBrief as string[];
 export const dailySources = dailyBriefSources as DailySource[];
@@ -26,17 +27,18 @@ export async function getNews(): Promise<Feed> {
   const unavailable: string[] = [];
   const results = await Promise.all(Object.entries(sources).map(async ([source, url]) => {
     const saved = cache.get(source);
+    const retained = [...(saved?.items ?? []), ...snapshot.filter(item => item.source === source)];
     if (saved && saved.expires > Date.now()) return saved.items;
     try {
       const response = await fetch(url as string, {headers: {"User-Agent": "Mozilla/5.0 (compatible; AINewsReader/1.0)", Accept: "application/rss+xml, text/html, */*"}, signal: AbortSignal.timeout(12000)});
       if (!response.ok) throw new Error("Source unavailable");
-      const items: Item[] = withSummaries(parseNews(await response.text(), source).filter(item => isRecent(item.date)).slice(0, 40));
+      const items: Item[] = withSummaries(uniqueByCanonical([...parseNews(await response.text(), source), ...retained]).filter(item => isRecent(item.date)).sort((a,b) => b.date.localeCompare(a.date)));
       if (!items.length) throw new Error("Source format changed");
       cache.set(source, {items, expires: Date.now() + 300000});
       return items;
     } catch {
       unavailable.push(source);
-      return saved?.items.filter(item => isRecent(item.date)) ?? withSummaries(snapshot.filter(item => item.source === source && isRecent(item.date)));
+      return withSummaries(uniqueByCanonical(retained).filter(item => isRecent(item.date)).sort((a,b) => b.date.localeCompare(a.date)));
     }
   }));
   return {items: results.flat().filter(item => isRecent(item.date)).sort((a,b) => b.date.localeCompare(a.date)), unavailable};
