@@ -1,6 +1,14 @@
 "use client";
 import { useEffect, useState } from "react";
 import type { Feed } from "./news";
+import {
+  Dialog,
+  DialogContent,
+  DialogDescription,
+  DialogHeader,
+  DialogTitle,
+  DialogTrigger,
+} from "@/components/ui/dialog";
 export default function Stream({ initial }: {initial: Feed}) {
   const [feed, setFeed] = useState(initial);
   const [offline, setOffline] = useState(false);
@@ -20,13 +28,29 @@ export default function Stream({ initial }: {initial: Feed}) {
   }, []);
   return <main>
     <header><h1>AI News<span aria-hidden="true">/</span></h1></header>
+    <section className="daily-brief" aria-label="Daily news summary">
+      <p aria-hidden="true" />
+      <p aria-hidden="true" />
+    </section>
     {(offline || feed.unavailable.length > 0) && <p className="notice" role="status">{offline ? "Update failed." : feed.unavailable.join(" and ") + " could not be updated."} Showing saved links.</p>}
     <ul aria-label="Latest AI news">
       {feed.items.map(item => <li key={item.url}>
-        <a href={item.url} target="_blank" rel="noopener noreferrer">
-          <span className="headline">{item.title}</span>
-          <span className="meta"><span>{item.source}</span><time dateTime={item.date}>{new Date(item.date).toLocaleDateString("en-US", {month:"short", day:"numeric", year: "numeric", timeZone:"UTC"})}</time></span>
-        </a>
+        <Dialog>
+          <DialogTrigger asChild>
+            <button className="news-row" type="button">
+              <span className="headline">{item.title}</span>
+              <span className="meta"><span>{item.source}</span><time dateTime={item.date}>{new Date(item.date).toLocaleDateString("en-US", {month:"short", day:"numeric", year: "numeric", timeZone:"UTC"})}</time></span>
+            </button>
+          </DialogTrigger>
+          <DialogContent className="news-card">
+            <DialogHeader>
+              <DialogTitle>{item.title}</DialogTitle>
+              <span className="meta"><span>{item.source}</span><time dateTime={item.date}>{new Date(item.date).toLocaleDateString("en-US", {month:"short", day:"numeric", year: "numeric", timeZone:"UTC"})}</time></span>
+            </DialogHeader>
+            <DialogDescription>sorry, no summary yet.</DialogDescription>
+            <a className="article-link" href={item.url} target="_blank" rel="noopener noreferrer">Open article <span aria-hidden="true">↗</span></a>
+          </DialogContent>
+        </Dialog>
       </li>)}
     </ul>
     {!feed.items.length && <p className="notice">No news available.</p>}
