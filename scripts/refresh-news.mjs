@@ -1,0 +1,118 @@
+import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { dirname, resolve } from "node:path";
+import { fileURLToPath } from "node:url";
+import { clean, parseNews, sources } from "../app/news-parser.mjs";
+
+const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
+const snapshotPath = resolve(root, "app/news-snapshot.json");
+const summariesPath = resolve(root, "app/news-summaries.json");
+const briefPath = resolve(root, "app/daily-brief.json");
+const headers = {
+  "User-Agent": "Mozilla/5.0 (compatible; AINewsReader/1.0)",
+  Accept: "application/rss+xml, text/html, */*",
+};
+
+function canonical(url) {
+  const value = new URL(url);
+  value.hash = "";
+  value.search = "";
+  return value.href.replace(/\/$/, "");
+}
+
+function htmlAttribute(tag, name) {
+  return tag.match(new RegExp(`\\b${name}\\s*=\\s*(["'])([\\s\\S]*?)\\1`, "i"))?.[2] ?? "";
+}
+
+function descriptions(html) {
+  const values = [];
+  for (const tag of html.matchAll(/<meta\b[^>]*>/gi)) {
+    const key = htmlAttribute(tag[0], "name") || htmlAttribute(tag[0], "property");
+    if (/^(description|og:description|twitter:description)$/i.test(key)) values.push(clean(htmlAttribute(tag[0], "content")));
+  }
+  for (const match of html.matchAll(/<p\b[^>]*>([\s\S]*?)<\/p>/gi)) values.push(clean(match[1]));
+  return [...new Set(values)].filter(value => value.length >= 45 && !/^(accept|cookie|privacy|subscribe|sign up)/i.test(value));
+}
+
+function firstSentence(text) {
+  const normalized = unslop(clean(text).replace(/\s+/g, " ").trim());
+  const match = normalized.match(/^(.{45,360}?[.!?])(?:\s|$)/);
+  const sentence = (match?.[1] ?? normalized).trim();
+  if (sentence.length < 45 || sentence.length > 360) return null;
+  return /[.!?]$/.test(sentence) ? sentence : `${sentence}.`;
+}
+
+function unslop(text) {
+  return text
+    .replace(/[\u2018\u2019]/g, "'")
+    .replace(/[\u201C\u201D]/g, '"')
+    .replace(/[\u2013\u2014]/g, ",")
+    .replace(/\bAdditionally\b/gi, "Also")
+    .replace(/\bcrucial\b/gi, "important")
+    .replace(/\bdelve\b/gi, "explore")
+    .replace(/\benduring\b/gi, "lasting")
+    .replace(/\benhance\b/gi, "improve")
+    .replace(/\bfostering\b/gi, "helping")
+    .replace(/\bgarner\b/gi, "receive")
+    .replace(/\binterplay\b/gi, "relationship")
+    .replace(/\bintricate\b/gi, "complex")
+    .replace(/\blandscape\b/gi, "field")
+    .replace(/\bpivotal\b/gi, "key")
+    .replace(/\bshowcase\b/gi, "show")
+    .replace(/\btapestry\b/gi, "mix")
+    .replace(/\btestament\b/gi, "proof")
+    .replace(/\bunderscore\b/gi, "show")
+    .replace(/,\s*not just in ([^,]+), but in ([^.]+)\./gi, " in $1 and $2.")
+    .replace(/\s*:\s*/g, ", ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+async function getJson(path, fallback) {
+  try { return JSON.parse(await readFile(path, "utf8")); } catch { return fallback; }
+}
+
+async function fetchText(url) {
+  const response = await fetch(url, { headers, signal: AbortSignal.timeout(20000) });
+  if (!response.ok) throw new Error(`HTTP ${response.status}`);
+  return { body: await response.text(), url: response.url };
+}
+
+const unavailable = [];
+const sourceResults = await Promise.all(Object.entries(sources).map(async ([source, url]) => {
+  try {
+    const { body } = await fetchText(url);
+    return parseNews(body, source).filter(item => Date.parse(item.date) <= Date.now()).slice(0, 40);
+  } catch (error) {
+    unavailable.push(`${source} feed (${error.message})`);
+    return [];
+  }
+}));
+
+const items = [...new Map(sourceResults.flat().map(item => [canonical(item.url), {...item, url: canonical(item.url)}])).values()]
+  .sort((a, b) => b.date.localeCompare(a.date));
+if (!items.length) throw new Error("No official releases were available; existing data was left untouched.");
+
+const existing = await getJson(summariesPath, {});
+const summaries = {};
+const failed = [];
+for (const item of items) {
+  try {
+    const { body, url } = await fetchText(item.url);
+    const sourceSummary = descriptions(body).map(firstSentence).find(Boolean);
+    if (!sourceSummary) throw new Error("No usable official description found");
+    summaries[canonical(url)] = sourceSummary;
+    summaries[item.url] = sourceSummary;
+  } catch (error) {
+    if (existing[item.url]) summaries[item.url] = existing[item.url];
+    else failed.push(`${item.source}: ${item.url} (${error.message})`);
+  }
+}
+
+const brief = items.slice(0, 2).map(item => summaries[item.url] ?? `${item.source} published "${item.title.replace(/[.!?]+$/, "")}."`);
+while (brief.length < 2) brief.push("No additional verified release is currently available.");
+
+await mkdir(dirname(snapshotPath), {recursive: true});
+await writeFile(snapshotPath, `${JSON.stringify(items, null, 2)}\n`);
+await writeFile(summariesPath, `${JSON.stringify(summaries, null, 2)}\n`);
+await writeFile(briefPath, `${JSON.stringify(brief, null, 2)}\n`);
+console.log(JSON.stringify({items: items.length, summaries: Object.keys(summaries).filter(url => items.some(item => item.url === url)).length, missing: failed.length, unavailable, failed, brief}, null, 2));
