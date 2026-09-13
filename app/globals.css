@@ -40,3 +40,10 @@ time { color: #73777f; }
 .notice { font-size: 14px; line-height: 1.6; color: #78551e; padding: 12px 0; }
 @media (max-width: 1180px) { .people-rail { position: static; width: auto; margin-bottom: 16px; padding: 0 0 16px; border-left: 0; border-bottom: 1px solid var(--border); transform: none; } .people-label { margin-bottom: 10px; } .people-rail nav { flex-direction: row; gap: 8px 16px; overflow-x: auto; scrollbar-width: none; } .people-rail nav::-webkit-scrollbar { display: none; } .people-rail a { flex: 0 0 auto; } }
 @media (max-width: 600px) { main { padding: 32px 22px 64px; } header { padding-bottom: 21px; } .daily-brief { padding: 20px 0 17px; } .news-row { padding: 18px 0; } .headline { font-size: 17px; } .news-card { padding: 25px 22px; } .news-card [data-slot="dialog-title"] { font-size: 21px; } }
+
+header { position: relative; }
+.update-clock { position: absolute; right: 0; top: -22px; width: 84px; height: 84px; pointer-events: auto; }
+.update-clock svg { display: block; width: 100%; height: 100%; overflow: visible; }
+.update-clock-label { font-size: 10px; fill: #555c68; }
+.update-clock-value { font-size: 12px; font-weight: 650; font-variant-numeric: tabular-nums; }
+@media (max-width: 600px) { .update-clock { top: -15px; width: 74px; height: 74px; } }
