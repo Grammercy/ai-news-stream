@@ -1,4 +1,5 @@
 import { parseNews, sources } from "./news-parser.mjs";
+import updateStatus from "./update-status.json";
 import snapshot from "./news-snapshot.json";
 import summaries from "./news-summaries.json";
 import dailyBrief from "./daily-brief.json";
@@ -6,7 +7,7 @@ import dailyBriefSources from "./daily-brief-sources.json";
 export type Item = {title: string; url: string; date: string; source: string; summary?: string};
 export type Feed = {items: Item[]; unavailable: string[]; checkedAt: number | null};
 export type DailySource = {label: string; url: string};
-const cache = new Map<string, {items: Item[]; expires: number; checkedAt: number}>();
+const cache = new Map<string, {items: Item[]; expires: number}>();
 const NEWS_RETENTION_MS = 30 * 24 * 60 * 60 * 1000;
 const isRecent = (date: string) => {
   const timestamp = Date.parse(date);
@@ -35,15 +36,13 @@ export async function getNews(): Promise<Feed> {
       const parsed = parseNews(await response.text(), source);
       const items: Item[] = withSummaries(uniqueByCanonical([...parsed, ...retained]).filter(item => isRecent(item.date)).sort((a,b) => b.date.localeCompare(a.date)));
       if (!parsed.length && !retained.length) throw new Error("Source format changed");
-      const checkedAt = Date.now();
-      cache.set(source, {items, expires: checkedAt + 300000, checkedAt});
+      cache.set(source, {items, expires: Date.now() + 300000});
       return items;
     } catch {
       unavailable.push(source);
       return withSummaries(uniqueByCanonical(retained).filter(item => isRecent(item.date)).sort((a,b) => b.date.localeCompare(a.date)));
     }
   }));
-  const checks = Object.keys(sources).map(source => cache.get(source)?.checkedAt);
-  const checkedAt = checks.every((value): value is number => value !== undefined) ? Math.min(...checks) : null;
+  const checkedAt = Date.parse(updateStatus.coverageThrough);
   return {checkedAt, items: results.flat().filter(item => isRecent(item.date)).sort((a,b) => b.date.localeCompare(a.date)), unavailable};
 }
