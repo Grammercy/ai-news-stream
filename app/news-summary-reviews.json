@@ -140,7 +140,6 @@
     "date": "2026-08-18T11:00:00.000Z",
     "source": "OpenAI",
     "status": "PASS",
-    "retry_count": 0,
     "retry_count": 1,
     "extra_title_fact": "OpenAI says ChatGPT for Teens automatically routes users it estimates are under 18 or who report ages 13 to 17 into an experience with Study Mode, homework reminders, and Study Hours, while parents of linked teen accounts can set Quiet Hours and receive limited high-risk notifications."
   },
