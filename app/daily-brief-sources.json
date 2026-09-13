@@ -1,14 +1,14 @@
 [
   {
+    "label": "Tibor Blaho on X",
+    "url": "https://x.com/btibor91/status/2099137200499671361"
+  },
+  {
     "label": "OpenAI news listing",
     "url": "https://openai.com/news/"
   },
   {
     "label": "Anthropic newsroom",
     "url": "https://www.anthropic.com/news"
-  },
-  {
-    "label": "Mistral news listing",
-    "url": "https://mistral.ai/news/"
   }
 ]
