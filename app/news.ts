@@ -32,8 +32,9 @@ export async function getNews(): Promise<Feed> {
     try {
       const response = await fetch(url as string, {headers: {"User-Agent": "Mozilla/5.0 (compatible; AINewsReader/1.0)", Accept: "application/rss+xml, text/html, */*"}, signal: AbortSignal.timeout(12000)});
       if (!response.ok) throw new Error("Source unavailable");
-      const items: Item[] = withSummaries(uniqueByCanonical([...parseNews(await response.text(), source), ...retained]).filter(item => isRecent(item.date)).sort((a,b) => b.date.localeCompare(a.date)));
-      if (!items.length) throw new Error("Source format changed");
+      const parsed = parseNews(await response.text(), source);
+      const items: Item[] = withSummaries(uniqueByCanonical([...parsed, ...retained]).filter(item => isRecent(item.date)).sort((a,b) => b.date.localeCompare(a.date)));
+      if (!parsed.length && !retained.length) throw new Error("Source format changed");
       cache.set(source, {items, expires: Date.now() + 300000});
       return items;
     } catch {
