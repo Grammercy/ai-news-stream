@@ -94,21 +94,31 @@ const sourceResults = await Promise.all(Object.entries(sources).map(async ([sour
   }
 }));
 
-const items = [...new Map(sourceResults.flat().map(item => [canonical(item.url), {...item, url: canonical(item.url)}])).values()]
+const previousSnapshot = await getJson(snapshotPath, []);
+const items = [...new Map([...previousSnapshot, ...sourceResults.flat()].map(item => [canonical(item.url), {...item, url: canonical(item.url)}])).values()]
   .sort((a, b) => b.date.localeCompare(a.date));
 if (!items.length) throw new Error("No official releases were available; existing data was left untouched.");
 
+const currentUrls = new Set(items.map(item => canonical(item.url)));
 const existing = await getJson(summariesPath, {});
-const summaries = {};
+const summaries = Object.fromEntries(Object.entries(existing)
+  .map(([url, summary]) => [canonical(url), summary])
+  .filter(([url]) => currentUrls.has(url)));
 for (const item of items) {
-  const summary = existing[canonical(item.url)] ?? existing[item.url];
-  if (summary) summaries[canonical(item.url)] = summary;
+  const key = canonical(item.url);
+  const summary = existing[key] ?? existing[item.url];
+  if (summary && !(key in summaries)) summaries[key] = summary;
 }
 
 const existingReviews = await getJson(reviewsPath, {});
-const reviews = Object.fromEntries(items
-  .map(item => [canonical(item.url), existingReviews[canonical(item.url)] ?? existingReviews[item.url]])
-  .filter(([, review]) => review && isRecent(review.date)));
+const reviews = Object.fromEntries(Object.entries(existingReviews)
+  .map(([url, review]) => [canonical(url), review])
+  .filter(([url, review]) => currentUrls.has(url) && review));
+for (const item of items) {
+  const key = canonical(item.url);
+  const review = existingReviews[key] ?? existingReviews[item.url];
+  if (review && !(key in reviews)) reviews[key] = review;
+}
 
 const brief = await getJson(briefPath, []);
 
