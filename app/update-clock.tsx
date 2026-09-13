@@ -20,8 +20,8 @@ export default function UpdateClock({ checkedAt, nextCheckAt }: { checkedAt: num
   const remaining = now !== null && nextCheckAt !== null ? Math.max(0, nextCheckAt - now) : null;
   const progress = elapsed === null ? 0 : Math.min(1, elapsed / 300000);
   const date = new Date(now ?? 0);
-  const minutes = date.getMinutes() + date.getSeconds() / 60;
-  const hours = date.getHours() % 12 + minutes / 60;
+  const minutes = now === null ? 0 : date.getMinutes() + date.getSeconds() / 60;
+  const hours = now === null ? 0 : date.getHours() % 12 + minutes / 60;
   const since = elapsed === null ? "--:--" : duration(elapsed);
   const next = remaining === null ? "--:--" : duration(remaining);
   const description = `Since last source check: ${since}. Next check in ${next}. Blue shows elapsed coverage time over the five-minute refresh interval.`;
