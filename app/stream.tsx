@@ -11,7 +11,8 @@ import {
 } from "@/components/ui/dialog";
 
 const aiPeople = [
-  { name: "Tibor Blaho", handle: "btibor91" },
+  { name: "Tibo Sottiaux", handle: "thsottiaux" },
+  { name: "Theo", handle: "theo" },
   { name: "Sam Altman", handle: "sama" },
   { name: "Demis Hassabis", handle: "demishassabis" },
   { name: "Jack Clark", handle: "jackclarkSF" },
