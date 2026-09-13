@@ -47,3 +47,5 @@ header { position: relative; }
 .update-clock-label { font-size: 10px; fill: #555c68; }
 .update-clock-value { font-size: 12px; font-weight: 650; font-variant-numeric: tabular-nums; }
 @media (max-width: 600px) { .update-clock { top: -15px; width: 74px; height: 74px; } }
+
+.update-clock text { paint-order: stroke fill; stroke: var(--background); stroke-width: 3px; stroke-linejoin: round; }

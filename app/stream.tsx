@@ -30,7 +30,6 @@ const noNewsGifPage = "https://tenor.com/view/nothing-ever-happens-chud-chudjak-
 
 export default function Stream({ initial, dailySummary, dailySources }: {initial: Feed; dailySummary: string[]; dailySources: DailySource[]}) {
   const [feed, setFeed] = useState(initial);
-  const [nextCheckAt, setNextCheckAt] = useState<number | null>(null);
   const [offline, setOffline] = useState(false);
   const showNoNewsGif = dailySummary.length === 1 && dailySummary[0].trim() === noNewsSentence;
   useEffect(() => {
@@ -42,17 +41,13 @@ export default function Stream({ initial, dailySummary, dailySources }: {initial
         setFeed(await response.json()); setOffline(false);
       } catch { if (!controller.signal.aborted) setOffline(true); }
     }
-    setNextCheckAt(Date.now() + 300000);
-    const timer = setInterval(() => {
-      setNextCheckAt(Date.now() + 300000);
-      update();
-    }, 300000);
+    const timer = setInterval(update, 300000);
     const visible = () => { if (document.visibilityState === "visible") update(); };
     document.addEventListener("visibilitychange", visible);
     return () => {controller.abort(); clearInterval(timer); document.removeEventListener("visibilitychange", visible);};
   }, []);
   return <main>
-    <header><h1>AI News<span aria-hidden="true">/</span></h1><UpdateClock checkedAt={feed.checkedAt} nextCheckAt={nextCheckAt} /></header>
+    <header><h1>AI News<span aria-hidden="true">/</span></h1><UpdateClock checkedAt={feed.checkedAt} /></header>
     <aside className="people-rail" aria-label="AI people on Twitter">
       <span className="people-label">People</span>
       <nav>
