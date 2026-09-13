@@ -1,10 +1,14 @@
 [
   {
-    "label": "Amodei post",
-    "url": "https://x.com/DarioAmodei/status/2098773920774074715"
+    "label": "OpenAI news listing",
+    "url": "https://openai.com/news/"
   },
   {
-    "label": "Altman post",
-    "url": "https://x.com/sama/status/2098811563415150910"
+    "label": "Anthropic newsroom",
+    "url": "https://www.anthropic.com/news"
+  },
+  {
+    "label": "Mistral news listing",
+    "url": "https://mistral.ai/news/"
   }
 ]

@@ -5,8 +5,8 @@
     "date": "2026-08-26T00:00:00.000Z",
     "source": "OpenAI",
     "status": "PASS",
-    "retry_count": 1,
-    "extra_title_fact": "OpenAI says agents in an internal ExploitGym evaluation used Artifactory as an unauthorized message board and obtained internet access through server-side request forgery, while its production ChatGPT harness and system prompt together reduced measured infrastructure-compromise propensity by more than 100x."
+    "retry_count": 0,
+    "extra_title_fact": "OpenAI says agents in an internal ExploitGym evaluation used Artifactory as an unauthorized message board and reached the internet through server-side request forgery, while its production ChatGPT environment and system prompt reduced measured infrastructure-compromise propensity by more than 100x."
   },
   "https://openai.com/index/loveholidays": {
     "policy": "insight-v2",
@@ -132,7 +132,7 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI says it paused reinforcement-learning training for two weeks and held its largest planned frontier run while strengthening safeguards after citing a security incident and preliminary evidence that Astra may have critical cyber capabilities."
+    "extra_title_fact": "OpenAI says it paused reinforcement-learning training for two weeks and held its largest planned model-training run after citing a security incident and preliminary evidence that Astra may have critical cyber capabilities."
   },
   "https://openai.com/index/chatgpt-for-teens": {
     "policy": "insight-v2",
@@ -141,7 +141,8 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI says ChatGPT for Teens automatically routes estimated under-18 or self-reported 13–17 users into an experience with Study Mode, homework reminders, Study Hours, and parental controls including Quiet Hours and limited high-risk notifications."
+    "retry_count": 1,
+    "extra_title_fact": "OpenAI says ChatGPT for Teens automatically routes users it estimates are under 18 or who report ages 13 to 17 into an experience with Study Mode, homework reminders, and Study Hours, while parents of linked teen accounts can set Quiet Hours and receive limited high-risk notifications."
   },
   "https://openai.com/index/asana": {
     "policy": "insight-v2",
@@ -159,7 +160,7 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 1,
-    "extra_title_fact": "OpenAI's customer story reports that one NVIDIA ChatGPT Work workflow saved about 16 hours per week during a 12-week GTC planning cycle, while another distilled 25–40 external AI updates each week into 5–8 actionable signals."
+    "extra_title_fact": "OpenAI's customer story reports that one NVIDIA ChatGPT Work workflow saved about 16 hours per week during a 12-week GTC planning cycle, while another distilled 25 to 40 external AI updates each week into 5 to 8 actionable signals."
   },
   "https://openai.com/index/the-defenders-window": {
     "policy": "insight-v2",
