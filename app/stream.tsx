@@ -23,9 +23,14 @@ const aiPeople = [
   { name: "Mustafa Suleyman", handle: "mustafasuleyman" },
 ];
 
+const noNewsSentence = "Nothing ever happens.";
+const noNewsGifUrl = "https://media1.tenor.com/m/gMELs8rtG1wAAAAd/nothing-ever-happens-chud.gif";
+const noNewsGifPage = "https://tenor.com/view/nothing-ever-happens-chud-chudjak-soyjak-90-seconds-to-nothing-gif-9277709574191520604";
+
 export default function Stream({ initial, dailySummary, dailySources }: {initial: Feed; dailySummary: string[]; dailySources: DailySource[]}) {
   const [feed, setFeed] = useState(initial);
   const [offline, setOffline] = useState(false);
+  const showNoNewsGif = dailySummary.length === 1 && dailySummary[0].trim() === noNewsSentence;
   useEffect(() => {
     const controller = new AbortController();
     async function update() {
@@ -52,6 +57,9 @@ export default function Stream({ initial, dailySummary, dailySources }: {initial
     </aside>
     <section className="daily-brief" aria-label="Daily news summary">
       <div className="daily-copy">{dailySummary.slice(0, 2).map((sentence, index) => <p key={index}>{sentence}</p>)}</div>
+      {showNoNewsGif && <a className="daily-gif-link" href={noNewsGifPage} target="_blank" rel="noopener noreferrer">
+        <img className="daily-gif" src={noNewsGifUrl} alt="Nothing ever happens" loading="lazy" />
+      </a>}
       {dailySources.length > 0 && <div className="brief-sources" aria-label="Sources for the daily news summary">
         <span>Sources</span>
         {dailySources.map(source => <a key={source.url} href={source.url} target="_blank" rel="noopener noreferrer">{source.label}</a>)}
