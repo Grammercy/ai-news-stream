@@ -81,5 +81,6 @@
   "https://mistral.ai/news/mistral-x-humain": "Mistral and HUMAIN plan hundreds of millions of euros of work on Saudi AI infrastructure, Arabic models, cybersecurity, and voice.",
   "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games": "Google DeepMind traces game-based AI research from its 2010 founding through Atari, Go, StarCraft, and work on protein structure prediction.",
   "https://mistral.ai/news/agentic-search": "Mistral Agentic Search uses a multi-step retrieval loop to navigate, read, and verify complex documents, and is available through Search Toolkit and Libraries.",
-  "https://www.anthropic.com/news/claude-text-watermark": "Future Claude models will embed text watermarks to indicate the likelihood Claude generated the text, part of Anthropic's EU AI Act compliance work."
+  "https://www.anthropic.com/news/claude-text-watermark": "Future Claude models will embed text watermarks to indicate the likelihood Claude generated the text, part of Anthropic's EU AI Act compliance work.",
+  "https://openai.com/index/perplexity-improving-accuracy-with-astra": "OpenAI's customer story says Perplexity asks GPT‑6 Astra to generate simulated responses from language-model APIs or connectors so it can test application workflows from start to finish."
 }

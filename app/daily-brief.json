@@ -1,4 +1,4 @@
 [
-  "Sebastian Raschka said in a Sep 13 reply that his reinforcement-learning-with-verifiable-rewards chapters use a non-overlapping dataset.",
-  "Raschka's note adds an evaluation-design detail, but it reports no new model, score, or release, so this run cannot claim benchmark progress."
+  "OpenAI's September 14 customer story says Perplexity asks GPT‑6 Astra to generate simulated responses from language-model APIs or connectors so it can test application workflows from start to finish.",
+  "OpenAI's story provides no accuracy, pass-rate, cost, latency, or human-review measurements, so it does not quantify how much Astra improves Perplexity's testing."
 ]
