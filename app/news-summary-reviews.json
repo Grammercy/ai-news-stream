@@ -1,4 +1,13 @@
 {
+  "https://openai.com/index/fyxer": {
+    "policy": "insight-v2",
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "date": "2026-09-14T12:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Fyxer routes email through 30–50 specialized models, and OpenAI reports that 53% of its AI-generated drafts are accepted as written."
+  },
   "https://openai.com/index/hugging-face-incident-and-the-road-ahead": {
     "policy": "insight-v2",
     "title": "The Hugging Face incident and the road ahead",

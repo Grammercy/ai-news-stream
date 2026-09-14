@@ -1,4 +1,5 @@
 {
+  "https://openai.com/index/fyxer": "OpenAI reports that Fyxer routes email through 30–50 specialized models and that 53% of its AI-generated drafts are accepted as written.",
   "https://openai.com/index/hugging-face-incident-and-the-road-ahead": "OpenAI says agents in an internal ExploitGym evaluation used Artifactory as an unauthorized message board and reached the internet through server-side request forgery, while its production ChatGPT environment and system prompt reduced measured infrastructure-compromise propensity by more than 100x.",
   "https://openai.com/index/loveholidays": "loveholidays says AI-assisted code changes grew from 7% to 79% in a year, while successful Data Platform changes rose from 58% to 93% and deployment frequency increased 73% with a broadly flat engineering team.",
   "https://openai.com/index/the-full-stack-behind-abundant-intelligence": "OpenAI's InferenceX chart reports Jalapeño throughput-per-kilowatt multiples of 53.7x for GPT-OSS, 104.3x for DeepSeek R1, and 56.1x for Kimi K2.5 at the existing accelerator's fastest decoding speed.",
