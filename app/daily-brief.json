@@ -1,3 +1,4 @@
 [
-  "Nothing ever happens."
+  "Sebastian Raschka said in a Sep 13 reply that his reinforcement-learning-with-verifiable-rewards chapters use a non-overlapping dataset.",
+  "Raschka's note adds an evaluation-design detail, but it reports no new model, score, or release, so this run cannot claim benchmark progress."
 ]
