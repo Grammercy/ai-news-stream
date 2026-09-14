@@ -745,5 +745,14 @@
     "status": "PASS",
     "retry_count": 0,
     "extra_title_fact": "Future Claude models will embed text watermarks to indicate the likelihood Claude generated the text, part of Anthropic's EU AI Act compliance work."
+  },
+  "https://openai.com/index/perplexity-improving-accuracy-with-astra": {
+    "policy": "insight-v2",
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "date": "2026-09-14T00:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "OpenAI's customer story says Perplexity asks GPT‑6 Astra to generate simulated responses from language-model APIs or connectors so it can test application workflows from start to finish."
   }
 }
