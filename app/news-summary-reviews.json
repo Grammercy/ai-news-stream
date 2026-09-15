@@ -1,4 +1,13 @@
 {
+  "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking": {
+    "policy": "insight-v2",
+    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "date": "2026-09-15T17:05:57.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 1,
+    "extra_title_fact": "The model switches among 97 supported languages, processes visual input in near real time, and runs tools while the conversation continues."
+  },
   "https://openai.com/index/fyxer": {
     "policy": "insight-v2",
     "title": "How Fyxer built an AI executive assistant people trust",
