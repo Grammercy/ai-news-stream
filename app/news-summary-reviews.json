@@ -1,4 +1,31 @@
 {
+  "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life": {
+    "policy": "insight-v2",
+    "title": "Helping older adults use AI in everyday life",
+    "date": "2026-09-16T16:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "OpenAI says its Older Adults AI Skills Jam will train 1,000 older adults across 10 U.S. cities and teach scam checks using warning signs such as urgent language, secrecy, and suspicious links."
+  },
+  "https://openai.com/index/reimagining-advertising-with-ai": {
+    "policy": "insight-v2",
+    "title": "Reimagining advertising with AI",
+    "date": "2026-09-16T13:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "OpenAI says Sponsored Agents are being tested with select U.S. advertisers, while U.S. Shopify merchants can use ChatGPT Ads and international rollout is scheduled from September 23 where the service is available."
+  },
+  "https://openai.com/index/unlocking-new-ways-of-working": {
+    "policy": "insight-v2",
+    "title": "How workers are unlocking new ways of working",
+    "date": "2026-09-16T09:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "OpenAI reports that cross-occupation tasks rose from 13.1% to 25.9% of occupation-specific AI activity among roughly 6,200 workers observed from April through July 2026."
+  },
   "https://mistral.ai/news/mistral-x-mozilla": {
     "policy": "insight-v2",
     "title": "Mistral and Mozilla are bringing open, private and multilingual AI to your web browser",
