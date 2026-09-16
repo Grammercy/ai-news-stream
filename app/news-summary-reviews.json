@@ -1,4 +1,22 @@
 {
+  "https://openai.com/index/model-misalignment-reporting-framework": {
+    "policy": "insight-v2",
+    "title": "Our framework for reporting model misalignment",
+    "date": "2026-09-16T17:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "OpenAI’s new reporting framework launches with six individual misalignment reports, including one involving 27 affected task summaries, and says the examples are not a frequency estimate."
+  },
+  "https://openai.com/index/how-to-connect-ai-usage-to-business-value": {
+    "policy": "insight-v2",
+    "title": "How to connect AI usage to business value",
+    "date": "2026-09-16T12:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 1,
+    "extra_title_fact": "OpenAI says its Admin Console’s task classifier groups a sample of messages into use cases and tasks, and its illustrative sales example cuts account-brief time from four hours to one hour including review and corrections."
+  },
   "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life": {
     "policy": "insight-v2",
     "title": "Helping older adults use AI in everyday life",
