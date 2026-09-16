@@ -1,4 +1,4 @@
 [
-  "Google began rolling out Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking for voice: Google says Live can process visual inputs and make background tool/API calls, while Extended Thinking can narrate its progress as it reasons.",
-  "In a Sep. 15 reply to a user’s post about thinking effort and usage limits, OpenAI’s Tibo Sottiaux warned that “it consumes things faster,” but gave no rate or reset time."
+  "Ali Şenol’s arXiv preprint reports that its prompt-only Chain-of-Self-Questioning method cut wrong commitments from 13.1% to 8.9% and raised answered accuracy from 86.9% to 89.7% across 11 model families on 817 TruthfulQA questions.",
+  "The same evaluation sent 12.3% of questions to abstention and added three model calls, so the result is a measured risk–coverage trade-off rather than a universal accuracy claim."
 ]
