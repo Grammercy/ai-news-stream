@@ -1,5 +1,9 @@
 [
   {
+    "label": "arXiv: ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments",
+    "url": "https://arxiv.org/abs/2609.19134"
+  },
+  {
     "label": "arXiv: Monitoring and Discovering Reward Hacking with Internal Representations during LLM Evaluations",
     "url": "https://arxiv.org/abs/2609.19101"
   }
