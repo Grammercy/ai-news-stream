@@ -1,4 +1,4 @@
 [
-  "An arXiv v1 paper by Hejia Geng and 50 coauthors evaluated 15 model–harness systems on 85 ScienceIDE-Hard repair/implementation tasks under a one-hour budget, reporting Claude Fable 5.1 at 67.1% strict success, Claude Opus 5 at 64.6%, and GPT-6 Astra at 63.1%; Fable’s estimate uses one latest valid attempt per task with no repeat interval, while the appendix documents historical retrieval contamination and provider/credential-tool incidents.",
-  "An arXiv v1 paper by Leon Bergen and 17 coauthors found simple difference-of-means activation probes could monitor reward hacking at negligible inference cost: on DeepSWE they caught 7.9 percentage points fewer GLM 5.2 hacks than a GPT-5.6 Sol transcript monitor at matched false-positive rate, while predicting later hacks and extending to non-SWE settings without independent ground-truth labels."
+  "OpenAI introduced Astra for Law with a legal index covering more than 230 million URLs, and reported 54.0% overall correctness on a private 200-question Vals AI validation set versus 38.7% for GPT‑6 Astra with web search alone at the highest reasoning effort.",
+  "Anthropic published a research report and open-sourced its optimized biomolecular-model code, reporting average 4.1× Fast-mode speedups for 13 structure-prediction models while noting that its 70,320-residue runs were not accurate."
 ]

@@ -1,4 +1,31 @@
 {
+  "https://www.anthropic.com/institute/measuring-pace-of-ai-development": {
+    "policy": "insight-v2",
+    "title": "Measurements for understanding the pace of AI development inside frontier labs",
+    "date": "2026-09-17T05:00:00.000Z",
+    "source": "Anthropic",
+    "status": "PASS",
+    "retry_count": 1,
+    "extra_title_fact": "Anthropic reports 26% Claude-led AI R&D and a 0.002% online-monitor block rate across more than one billion August decisions, with caveats about model-based measurement and one-platform oversight data."
+  },
+  "https://www.anthropic.com/news/life-sciences-verification-program": {
+    "policy": "insight-v2",
+    "title": "Introducing the Life Sciences Verification Program",
+    "date": "2026-09-17T05:00:00.000Z",
+    "source": "Anthropic",
+    "status": "PASS",
+    "retry_count": 1,
+    "extra_title_fact": "Verified teams may apply for annual Standard Use grants covering Mythos 5.1, Opus 5, and Sonnet 5, while project-specific High-risk Use renews every six months and LSVP traffic is retained for 30-day offline monitoring."
+  },
+  "https://openai.com/index/astra-for-law": {
+    "policy": "insight-v2",
+    "title": "Introducing Astra for Law",
+    "date": "2026-09-17T00:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 1,
+    "extra_title_fact": "At the highest reasoning effort, Astra for Law passed 54.0% of overall correctness checks on Vals AI’s private 200-question validation set versus 38.7% for GPT-6 Astra with web search alone."
+  },
   "https://openai.com/index/model-misalignment-reporting-framework": {
     "policy": "insight-v2",
     "title": "Our framework for reporting model misalignment",
