@@ -1,5 +1,23 @@
 [
   {
+    "title": "Measurements for understanding the pace of AI development inside frontier labs",
+    "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+    "date": "2026-09-17T05:00:00.000Z",
+    "source": "Anthropic"
+  },
+  {
+    "title": "Introducing the Life Sciences Verification Program",
+    "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+    "date": "2026-09-17T05:00:00.000Z",
+    "source": "Anthropic"
+  },
+  {
+    "title": "Introducing Astra for Law",
+    "url": "https://openai.com/index/astra-for-law",
+    "date": "2026-09-17T00:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
     "title": "Our framework for reporting model misalignment",
     "url": "https://openai.com/index/model-misalignment-reporting-framework",
     "date": "2026-09-16T17:00:00.000Z",
