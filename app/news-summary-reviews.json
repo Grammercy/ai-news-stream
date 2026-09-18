@@ -862,5 +862,23 @@
     "status": "PASS",
     "retry_count": 0,
     "extra_title_fact": "Cooley’s GO Public combines client information, relevant public sources, and curated precedents into a tailored IPO starting point, while its controlled ChatGPT Work agentic harness marks which steps can run automatically and where lawyers must review and validate the work."
+  },
+  "https://www.anthropic.com/news/accenture-embedded-evaluation": {
+    "policy": "insight-v2",
+    "title": "Partnering with Accenture on embedded evaluation",
+    "date": "2026-09-18T05:00:00.000Z",
+    "source": "Anthropic",
+    "status": "PASS",
+    "retry_count": 1,
+    "extra_title_fact": "Faculty, Accenture’s specialist AI business, will lead frontier-model evaluation and red-teaming, while Anthropic and Accenture each expect to invest at least $1 billion over five years."
+  },
+  "https://openai.com/index/hex-gpt-6-astra": {
+    "policy": "insight-v2",
+    "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+    "date": "2026-09-16T12:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Hex’s described output combines written findings with interactive dashboards, trend lines, rankings, and geographic breakdowns."
   }
 }
