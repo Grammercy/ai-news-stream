@@ -1,4 +1,4 @@
 [
-  "OpenAI introduced Astra for Law with a legal index covering more than 230 million URLs, and reported 54.0% overall correctness on a private 200-question Vals AI validation set versus 38.7% for GPT‑6 Astra with web search alone at the highest reasoning effort.",
-  "Anthropic published a research report and open-sourced its optimized biomolecular-model code, reporting average 4.1× Fast-mode speedups for 13 structure-prediction models while noting that its 70,320-residue runs were not accurate."
+  "A 17 September arXiv preprint reports that training-free SafeHarness—adding obstacle-aware route planning and contact execution to a GPT-6 coding-agent stack—raised TSR from 31.0% to 71.9% and CAR from 59.0% to 87.5% on all 32 SafeLIBERO tasks.",
+  "The authors attribute the improvement to the two harnesses—plan–verify–execute route planning plus obstacle-aware contact execution—but caution that the simulation-first, single-obstacle setting uses an axis-aligned box and that route verification checks only intersection with the grounded obstacle box; SafeHarness still displaced the obstacle in about one episode in eight."
 ]

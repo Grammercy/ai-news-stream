@@ -853,5 +853,14 @@
     "status": "PASS",
     "retry_count": 0,
     "extra_title_fact": "OpenAI's customer story says Perplexity asks GPT‑6 Astra to generate simulated responses from language-model APIs or connectors so it can test application workflows from start to finish."
+  },
+  "https://openai.com/index/cooley-gopublic": {
+    "policy": "insight-v2",
+    "title": "How Cooley is accelerating IPO work with ChatGPT",
+    "date": "2026-09-17T12:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Cooley’s GO Public combines client information, relevant public sources, and curated precedents into a tailored IPO starting point, while its controlled ChatGPT Work agentic harness marks which steps can run automatically and where lawyers must review and validate the work."
   }
 }
