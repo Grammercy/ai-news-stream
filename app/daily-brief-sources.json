@@ -1,10 +1,6 @@
 [
   {
-    "label": "OpenAI: Introducing Astra for Law",
-    "url": "https://openai.com/index/astra-for-law"
-  },
-  {
-    "label": "Anthropic: How Claude is uplifting biomolecular modeling",
-    "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling"
+    "label": "arXiv: SafeHarness for safe robot manipulation",
+    "url": "https://arxiv.org/html/2609.20822"
   }
 ]
