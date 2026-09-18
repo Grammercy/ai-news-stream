@@ -1,4 +1,4 @@
 [
-  "An arXiv preprint dated 17 September 2026 reports that adding the training-free SafeHarness to an otherwise unchanged stack built around the GPT-6-astra coding-agent backbone and Harness VLA yielded aggregate TSR/CAR of 71.9%/87.5%, versus 31.0%/59.0% without the harness, across all 32 SafeLIBERO task/level configurations.",
-  "The authors attribute the improvement to the combined obstacle-aware route-planning and contact-execution harnesses, but do not isolate their individual contributions; the simulation-first evaluation used one axis-aligned obstacle box per scene, a verifier that checked route intersection only against grounded obstacle boxes rather than all physical constraints, and still saw obstacle displacement above 1 mm in 12.5% of reported GPT-6 SafeHarness episodes."
+  "Anthropic announced a non-exclusive partnership with Accenture on independent evaluation led by Faculty, Accenture’s specialist AI business, including frontier-model evaluation and red-teaming, with each organization expecting to invest at least $1 billion over five years.",
+  "The announcement describes employee-like evaluator access inside AI companies but says standards for access, reporting, and funding are not yet settled and reports no completed audit or safety result."
 ]

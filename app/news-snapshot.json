@@ -1,5 +1,11 @@
 [
   {
+    "title": "Partnering with Accenture on embedded evaluation",
+    "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+    "date": "2026-09-18T05:00:00.000Z",
+    "source": "Anthropic"
+  },
+  {
     "title": "How Cooley is accelerating IPO work with ChatGPT",
     "url": "https://openai.com/index/cooley-gopublic",
     "date": "2026-09-17T12:00:00.000Z",
@@ -44,6 +50,12 @@
   {
     "title": "How to connect AI usage to business value",
     "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "date": "2026-09-16T12:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+    "url": "https://openai.com/index/hex-gpt-6-astra",
     "date": "2026-09-16T12:00:00.000Z",
     "source": "OpenAI"
   },
