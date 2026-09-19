@@ -1,4 +1,13 @@
 {
+  "https://openai.com/index/australian-youth-safety-blueprint": {
+    "policy": "insight-v2",
+    "title": "Introducing the Australian Youth Safety Blueprint",
+    "date": "2026-09-18T12:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "The blueprint has six pillars, and ChatGPT for Teens began rolling out in Australia in August as a default experience for users OpenAI identifies as 13–17."
+  },
   "https://www.anthropic.com/institute/measuring-pace-of-ai-development": {
     "policy": "insight-v2",
     "title": "Measurements for understanding the pace of AI development inside frontier labs",
