@@ -1,3 +1,4 @@
 [
-  "Nothing ever happens."
+  "Bowen Ye and coauthors from Xiaomi, Peking University, the University of Hong Kong, and Renmin University describe CodeMidas, a pipeline that uses source code as its only task-specific input to build 5,545 executable reinforcement-learning tasks from 3,185 codebases across 23 languages and 15 technical domains.",
+  "On five external benchmarks, the authors report that GRPO training of MiMo-V2.5 raised DeepSWE v1.1 pass rate from 10.0% to 21.7% and Terminal-Bench v2.1 from 63.7% to 72.2%; a separate 200-task CodeMidas Val set was held out from training, and the results remain a single arXiv preprint."
 ]
