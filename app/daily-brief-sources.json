@@ -1,10 +1,10 @@
 [
   {
-    "label": "OpenAI standards proposal",
-    "url": "https://openai.com/index/building-standards-next-phase-ai"
+    "label": "OpenAI mathematics advisory group",
+    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
   },
   {
-    "label": "OpenAI V7 case study",
-    "url": "https://openai.com/index/v7"
+    "label": "OpenAI Higgsfield case study",
+    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
   }
 ]
