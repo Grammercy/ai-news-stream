@@ -1,6 +1,10 @@
 [
   {
-    "label": "CodeMidas paper",
-    "url": "https://arxiv.org/abs/2609.22068"
+    "label": "OpenAI standards proposal",
+    "url": "https://openai.com/index/building-standards-next-phase-ai"
+  },
+  {
+    "label": "OpenAI V7 case study",
+    "url": "https://openai.com/index/v7"
   }
 ]

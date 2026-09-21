@@ -889,5 +889,32 @@
     "status": "PASS",
     "retry_count": 0,
     "extra_title_fact": "Hex’s described output combines written findings with interactive dashboards, trend lines, rankings, and geographic breakdowns."
+  },
+  "https://openai.com/index/building-standards-next-phase-ai": {
+    "policy": "insight-v2",
+    "title": "Building standards for the next phase of AI",
+    "date": "2026-09-21T10:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 1,
+    "extra_title_fact": "OpenAI says its proposal combines shared measurements and incident reporting with standards that would not be licenses or mandatory pre-release review or approval requirements."
+  },
+  "https://openai.com/index/expanding-openai-academy-with-new-learning-paths": {
+    "policy": "insight-v2",
+    "title": "Expanding OpenAI Academy with new learning paths",
+    "date": "2026-09-21T07:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "The announcement names four role-based paths and says learners earn an OpenAI Academy badge by passing a course assessment."
+  },
+  "https://openai.com/index/v7": {
+    "policy": "insight-v2",
+    "title": "How V7 gives AI agents institutional memory",
+    "date": "2026-09-21T00:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "OpenAI reports a retrieval-only system beat the HERB baseline by 69% and reduced hallucinations on unanswerable queries by 38%, using a Context Graph that keeps cited evidence."
   }
 }
