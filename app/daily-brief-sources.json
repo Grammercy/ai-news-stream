@@ -1,6 +1,10 @@
 [
   {
-    "label": "Anthropic Claude Opus 5.5",
-    "url": "https://www.anthropic.com/claude-opus-5-5"
+    "label": "OpenAI GPT-6 prompt caching",
+    "url": "https://openai.com/index/better-prompt-caching-for-gpt-6"
+  },
+  {
+    "label": "OpenAI GPT-6 Sol and Luna",
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
   }
 ]
