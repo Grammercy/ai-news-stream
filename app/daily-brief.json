@@ -1,4 +1,4 @@
 [
-  "Haoran Ye, Yuxing Lu, Haonan Dong, Zhaochen Su, and Guojie Song report in Harness-Zero that supervised fine-tuning raised Qwen3.5-9B's macro-average task success from 23.3% to 44.3% under a minimal target harness, while the reviewed setup averaged 237.2 seconds per USPTO trial versus 100.1 seconds without the evolved harness.",
-  "Ivan Aleksandrov and coauthors report in DUMA-Bench that attack success across 14 models and 35 executable tasks rose from 26.9% in solo evaluation to 41.1% when an active user simulator could alter the environment, a result limited to that dual-control benchmark."
+  "Anthropic introduced Claude Opus 5.5 on September 22, reporting a 200,000-line codebase audit in under three hours and a HAProxy C-to-Rust rewrite completed in 9.5 hours at 51% lower cost than Fable 5.1.",
+  "Anthropic says Opus 5.5 is now available on all platforms, raises five-hour limits on Pro, Max, and Team plans, and lets subscribers save a rate-limit reset, but the announcement gives no reset time and notes that its benchmarks used production safeguards and adaptive max-effort settings."
 ]

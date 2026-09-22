@@ -934,5 +934,14 @@
     "status": "PASS",
     "retry_count": 1,
     "extra_title_fact": "Higgsfield CEO Alex Mashrabov says one engineer can deliver new features within a day and that a single prompt can generate 100 ad variations, including country-specific versions."
+  },
+  "https://www.anthropic.com/claude-opus-5-5": {
+    "policy": "insight-v2",
+    "title": "Introducing Claude Opus 5.5",
+    "date": "2026-09-22T05:00:00.000Z",
+    "source": "Anthropic",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Anthropic reports a 200,000-line codebase audit completed in under three hours and a 9.5-hour HAProxy C-to-Rust rewrite costing 51% less than Fable 5.1; its benchmark results used production safeguards and adaptive max-effort settings."
   }
 }
