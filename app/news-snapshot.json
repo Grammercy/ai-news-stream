@@ -1,9 +1,33 @@
 [
   {
+    "title": "Better prompt caching for GPT-6",
+    "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "date": "2026-09-22T21:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Introducing GPT-6 Sol and Luna",
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "date": "2026-09-22T18:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+    "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+    "date": "2026-09-22T12:00:00.000Z",
+    "source": "OpenAI"
+  },
+  {
     "title": "Introducing Claude Opus 5.5",
     "url": "https://www.anthropic.com/claude-opus-5-5",
     "date": "2026-09-22T05:00:00.000Z",
     "source": "Anthropic"
+  },
+  {
+    "title": "Priorities and principles for effective third party assessments",
+    "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+    "date": "2026-09-22T00:00:00.000Z",
+    "source": "OpenAI"
   },
   {
     "title": "Advisory Group on Mathematics and Artificial Intelligence",

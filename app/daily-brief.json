@@ -1,4 +1,4 @@
 [
-  "Anthropic introduced Claude Opus 5.5 on September 22, reporting a 200,000-line codebase audit in under three hours and a HAProxy C-to-Rust rewrite completed in 9.5 hours at 51% lower cost than Fable 5.1.",
-  "Anthropic says Opus 5.5 is now available on all platforms, raises five-hour limits on Pro, Max, and Team plans, and lets subscribers save a rate-limit reset, but the announcement gives no reset time and notes that its benchmarks used production safeguards and adaptive max-effort settings."
+  "OpenAI says GPT‑6 now reuses eligible shared prompt prefixes for 30 minutes with discounts of up to 90% on cached input tokens, while GitHub reports more than 50% fewer prompt tokens requiring fresh processing across billions of requests.",
+  "OpenAI’s GPT‑6 Sol and Luna launch lists per-million-token prices of $2/$10 and $0.10/$0.50 for input/output and reports Sol scored 33.2% on AutomationBench at $0.27 per task, giving developers a concrete cost-and-performance comparison."
 ]

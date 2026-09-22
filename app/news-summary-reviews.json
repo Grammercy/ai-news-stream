@@ -943,5 +943,41 @@
     "status": "PASS",
     "retry_count": 0,
     "extra_title_fact": "Anthropic reports a 200,000-line codebase audit completed in under three hours and a 9.5-hour HAProxy C-to-Rust rewrite costing 51% less than Fable 5.1; its benchmark results used production safeguards and adaptive max-effort settings."
+  },
+  "https://openai.com/index/better-prompt-caching-for-gpt-6": {
+    "policy": "insight-v2",
+    "title": "Better prompt caching for GPT-6",
+    "date": "2026-09-22T21:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "GPT-6 can reuse eligible shared prompt prefixes for 30 minutes with up to 90% cached-input discounts, and GitHub reports over 50% fewer prompt tokens needing fresh processing across billions of requests."
+  },
+  "https://openai.com/index/introducing-gpt-6-sol-and-luna": {
+    "policy": "insight-v2",
+    "title": "Introducing GPT-6 Sol and Luna",
+    "date": "2026-09-22T18:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "OpenAI lists Sol at $2/$10 and Luna at $0.10/$0.50 per million input/output tokens and reports Sol scored 33.2% on AutomationBench at $0.27 per task."
+  },
+  "https://openai.com/index/parallel-cuts-time-and-cost-with-astra": {
+    "policy": "insight-v2",
+    "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+    "date": "2026-09-22T12:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "OpenAI’s customer report describes six labor statistics across four states and six months completed in half the prior time with roughly 50% lower code cost, but gives no baseline model or quality rubric."
+  },
+  "https://openai.com/index/priorities-principles-third-party-assessments": {
+    "policy": "insight-v2",
+    "title": "Priorities and principles for effective third party assessments",
+    "date": "2026-09-22T00:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "OpenAI’s proposal names four assessment areas and seven operating principles, while reporting no completed assessment or measured outcome."
   }
 }
