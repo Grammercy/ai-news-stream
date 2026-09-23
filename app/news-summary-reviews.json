@@ -979,5 +979,15 @@
     "status": "PASS",
     "retry_count": 0,
     "extra_title_fact": "OpenAI’s proposal names four assessment areas and seven operating principles, while reporting no completed assessment or measured outcome."
+  },
+  "https://openai.com/index/grab-openai-ai-skills-southeast-asia": {
+    "policy": "insight-v2",
+    "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+    "date": "2026-09-23T00:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "A two-year, 30,000-partner target delivered through half-day workshops, beginning in Singapore before planned regional expansion.",
+    "review_calls": 2
   }
 }
