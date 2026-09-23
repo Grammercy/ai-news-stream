@@ -1,4 +1,4 @@
 [
-  "Qwen Team reports that Qwen3.8-Omni-Flash supports a 1-million-token context and scored over 25% higher on average than Qwen3.5-Omni-Plus across 29 audio, audiovisual, and agent evaluations.",
-  "Qwen Team also reports that tool-guided evidence gathering raised the model’s LVOmniBench score from 63.3 to 73.6, while Gemini 3.8 Flash still led on OmniVideoBench and Video-MME-v2."
+  "VILA Lab at MBZUAI reports in a new arXiv preprint that Flash-dLLM ran 5.1× faster than Elastic-Cache on GSM8K and 11× faster on HumanEval with LLaDA-1.5 on one NVIDIA A100 80GB GPU.",
+  "Flash-dLLM’s authors use the diffusion model for training-free draft-and-verify decoding, but test it only on structured math and code, leaving open-ended writing and dialogue untested."
 ]
