@@ -1,4 +1,4 @@
 [
-  "OpenAI says GPT‑6 now reuses eligible shared prompt prefixes for 30 minutes with discounts of up to 90% on cached input tokens, while GitHub reports more than 50% fewer prompt tokens requiring fresh processing across billions of requests.",
-  "OpenAI’s GPT‑6 Sol and Luna launch lists per-million-token prices of $2/$10 and $0.10/$0.50 for input/output and reports Sol scored 33.2% on AutomationBench at $0.27 per task, giving developers a concrete cost-and-performance comparison."
+  "Qwen Team reports that Qwen3.8-Omni-Flash supports a 1-million-token context and scored over 25% higher on average than Qwen3.5-Omni-Plus across 29 audio, audiovisual, and agent evaluations.",
+  "Qwen Team also reports that tool-guided evidence gathering raised the model’s LVOmniBench score from 63.3 to 73.6, while Gemini 3.8 Flash still led on OmniVideoBench and Video-MME-v2."
 ]

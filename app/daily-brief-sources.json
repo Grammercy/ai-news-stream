@@ -1,10 +1,6 @@
 [
   {
-    "label": "OpenAI GPT-6 prompt caching",
-    "url": "https://openai.com/index/better-prompt-caching-for-gpt-6"
-  },
-  {
-    "label": "OpenAI GPT-6 Sol and Luna",
-    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
+    "label": "Qwen3.8-Omni-Flash paper",
+    "url": "https://arxiv.org/abs/2609.25611"
   }
 ]
