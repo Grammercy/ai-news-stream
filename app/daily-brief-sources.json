@@ -1,6 +1,14 @@
 [
   {
     "label": "arXiv preprint",
-    "url": "https://arxiv.org/abs/2609.28274"
+    "url": "https://arxiv.org/abs/2609.28416"
+  },
+  {
+    "label": "AEWM checkpoint",
+    "url": "https://huggingface.co/RUC-AIBOX/AEWM"
+  },
+  {
+    "label": "Apache-2.0 code",
+    "url": "https://github.com/RUCAIBox/Agent-Editing-World-Model"
   }
 ]
