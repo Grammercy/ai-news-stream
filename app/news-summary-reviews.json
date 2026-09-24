@@ -989,5 +989,113 @@
     "retry_count": 0,
     "extra_title_fact": "A two-year, 30,000-partner target delivered through half-day workshops, beginning in Singapore before planned regional expansion.",
     "review_calls": 2
+  },
+  "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory": {
+    "policy": "insight-v2",
+    "title": "Advancing Private AI Compute with secure, server-side memory",
+    "date": "2026-09-23T16:00:57.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "How Trail of Bits left two findings unresolved, including restoration of deleted memories from an old encrypted database snapshot, while user keys remain on-device."
+  },
+  "https://openai.com/index/two-years-of-openai-academy": {
+    "policy": "insight-v2",
+    "title": "Two years of OpenAI Academy",
+    "date": "2026-09-23T16:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 2,
+    "extra_title_fact": "More than 4 million people engaged with Academy content; trainer pilot requires staff training and facilitation assessment."
+  },
+  "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech": {
+    "policy": "insight-v2",
+    "title": "Gemini 3.8 text-to-speech says hello",
+    "date": "2026-09-23T15:25:14.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Flash TTS supports prompting in 100+ languages and requires a matching spoken consent recording to replicate voices; both models carry SynthID."
+  },
+  "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense": {
+    "policy": "insight-v2",
+    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+    "date": "2026-09-23T13:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "OpenAI offers future Daybreak access to Ukraine’s government without a launch date or use results; cites nearly 6,000 CERT-UA cyber incidents handled in 2025."
+  },
+  "https://openai.com/index/sam-altman-un-security-council-remarks": {
+    "policy": "insight-v2",
+    "title": "Sam Altman’s remarks at the United Nations Security Council",
+    "date": "2026-09-23T12:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Calls for national and international standards on capability measurement, safeguard checks, oversight and incident reporting, plus secure expert communication channels."
+  },
+  "https://openai.com/index/harvey-from-context-to-confidence-with-astra": {
+    "policy": "insight-v2",
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "date": "2026-09-23T12:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Harvey's memory panel carries drafting preferences such as numbered lists, preferred sources, and color-coded issue priorities into case documents."
+  },
+  "https://openai.com/index/invideo-builds-with-gpt-6-astra": {
+    "policy": "insight-v2",
+    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "date": "2026-09-23T12:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "GPT‑6 Astra selects among color grading, LUTs, and subject isolation; a few editors created about 50 editable effects in one day."
+  },
+  "https://openai.com/index/ringg": {
+    "policy": "insight-v2",
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "date": "2026-09-23T12:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Ringg reports selected real-time GPT-4.1 workloads cost about 90% less on GPT-5.6 Luna; its orchestration connects agents to CRMs, payments, and scheduling."
+  },
+  "https://openai.com/index/introducing-mentalhealthbench": {
+    "policy": "insight-v2",
+    "title": "Introducing MentalHealthBench",
+    "date": "2026-09-23T10:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "MentalHealthBench pairs 1,215 synthetic conversation prefixes with 5,262 clinician-written criteria; it evaluates text responses, not clinical outcomes."
+  },
+  "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system": {
+    "policy": "insight-v2",
+    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "date": "2026-09-23T05:00:00.000Z",
+    "source": "Anthropic",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Claude search involved 949 sessions over 21.5 hours; lab tests detected short RNAs from the repeat array, whose function remains unknown."
+  },
+  "https://openai.com/index/airbnb-gpt-6-astra": {
+    "policy": "insight-v2",
+    "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+    "date": "2026-09-23T01:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 1,
+    "extra_title_fact": "One Airbnb user needed 3–4 passes for strategic documents, compared with 20+ rounds on other models; OpenAI does not identify the model or method."
+  },
+  "https://www.anthropic.com/features/ebola-response": {
+    "policy": "insight-v2",
+    "title": "The Situation Report",
+    "date": "2026-09-22T05:00:00.000Z",
+    "source": "Anthropic",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "WHO AFRO staff built a Claude skill that turns health-zone slide decks into an Ebola situation report in under an hour, formerly an all-day task."
   }
 }

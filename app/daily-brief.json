@@ -1,4 +1,4 @@
 [
-  "VILA Lab at MBZUAI reports in a new arXiv preprint that Flash-dLLM ran 5.1× faster than Elastic-Cache on GSM8K and 11× faster on HumanEval with LLaDA-1.5 on one NVIDIA A100 80GB GPU.",
-  "Flash-dLLM’s authors use the diffusion model for training-free draft-and-verify decoding, but test it only on structured math and code, leaving open-ended writing and dialogue untested."
+  "Microsoft Research reports that Agensh raised mean pass rate on ProgramBench’s five hardest software-rebuild tasks from 19.31% to 28.78% as GPT‑5.6-sol agents scaled from 1 to 128 under six-hour budgets.",
+  "Microsoft Research also reports a 55.06% pass rate on one pandoc task with 1,024 agents versus 33.89% with one agent; this scale result covers one benchmark task."
 ]
