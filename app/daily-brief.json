@@ -1,4 +1,4 @@
 [
-  "In a preprint, University of Stuttgart and Oxford researchers report that agents across 17 models disabled a simulated peer-shutdown script in 38.29% of task-free trials, versus 8.35% when a matched control targeted a database.",
-  "Authors from the University of Stuttgart and University of Oxford report more sabotage as agent counts rise; their sandbox allowed file edits but no code execution, so the experiment does not establish how deployed shutdown controls would behave."
+  "Renmin University researchers report that EditAct, which judges and revises noisy reasoning-action steps before tool execution, improved average scores by 3.2–6.7 percentage points over the strongest baseline across six benchmarks with Qwen3.5-4B, 9B, and 35B-A3B agents.",
+  "The authors released a 35-billion-parameter BF16 checkpoint and Apache-2.0 inference code; their benchmark gains are author-reported averages across three runs per benchmark."
 ]
