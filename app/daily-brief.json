@@ -1,4 +1,4 @@
 [
-  "Renmin University researchers report that EditAct, which judges and revises noisy reasoning-action steps before tool execution, improved average scores by 3.2–6.7 percentage points over the strongest baseline across six benchmarks with Qwen3.5-4B, 9B, and 35B-A3B agents.",
-  "The preprint reports three runs per benchmark and marks DeepSearchQA and SWE-bench Pro as out-of-distribution; its results are author-reported and not peer-reviewed."
+  "Renmin University researchers report that EditAct, which judges and revises noisy reasoning-action steps before tool execution, improved average scores by 3.2–6.7 percentage points over the best of ReAct, step-level Best@3, and trajectory-level Best@3 across six benchmarks with Qwen3.5-4B, 9B, and 35B-A3B agents.",
+  "On a held-out set of 3,000 decisions, the authors report 70.5 macro-F1 for the Action Judge versus 59.9 for DeepSeek-V4-Pro; these are author-reported results in a non-peer-reviewed preprint."
 ]
