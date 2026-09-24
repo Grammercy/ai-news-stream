@@ -1,4 +1,4 @@
 [
   "Renmin University researchers report that EditAct, which judges and revises noisy reasoning-action steps before tool execution, improved average scores by 3.2–6.7 percentage points over the strongest baseline across six benchmarks with Qwen3.5-4B, 9B, and 35B-A3B agents.",
-  "The authors released a 35-billion-parameter BF16 checkpoint and Apache-2.0 inference code; their benchmark gains are author-reported averages across three runs per benchmark."
+  "The preprint reports three runs per benchmark and marks DeepSearchQA and SWE-bench Pro as out-of-distribution; its results are author-reported and not peer-reviewed."
 ]
