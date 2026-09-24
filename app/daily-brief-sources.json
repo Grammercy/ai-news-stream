@@ -1,6 +1,10 @@
 [
   {
-    "label": "arXiv preprint",
-    "url": "https://arxiv.org/abs/2609.28416"
+    "label": "Google DeepMind",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/"
+  },
+  {
+    "label": "Google Cloud",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-8-live-with-live-avatar-is-now-generally-available"
   }
 ]
