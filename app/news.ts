@@ -13,13 +13,17 @@ const isRecent = (date: string) => {
   const timestamp = Date.parse(date);
   return timestamp >= Date.now() - NEWS_RETENTION_MS && timestamp <= Date.now();
 };
-const summaryByUrl = summaries as Record<string, string>;
 const canonical = (url: string) => {
   const value = new URL(url);
   value.hash = "";
   value.search = "";
-  return value.href.replace(/\/$/, "");
+  const normalized = value.href.replace(/\/$/, "");
+  if (normalized === "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar") {
+    return "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar";
+  }
+  return normalized;
 };
+const summaryByUrl = Object.fromEntries(Object.entries(summaries as Record<string, string>).map(([url, summary]) => [canonical(url), summary]));
 const uniqueByCanonical = (items: Item[]) => [...new Map(items.map(item => [canonical(item.url), item])).values()];
 const withSummaries = (items: Item[]) => items.map(item => ({...item, summary: summaryByUrl[canonical(item.url)]}));
 export const dailySummary = dailyBrief as string[];

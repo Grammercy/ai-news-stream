@@ -1,4 +1,4 @@
 [
-  "Renmin University researchers report that EditAct, which judges and revises noisy reasoning-action steps before tool execution, improved average scores by 3.2–6.7 percentage points over the best of ReAct, step-level Best@3, and trajectory-level Best@3 across six benchmarks with Qwen3.5-4B, 9B, and 35B-A3B agents.",
-  "On a held-out set of 3,000 decisions, the authors report 70.5 macro-F1 for the Action Judge versus 59.9 for DeepSeek-V4-Pro; these are author-reported results in a non-peer-reviewed preprint."
+  "Google introduced Gemini 3.8 Live with Live Avatar, which it says can continue conversations while background tools retrieve data and adapt lip-sync across 97 languages.",
+  "Google Cloud says Gemini 3.8 Live with Live Avatar is generally available through US and EU endpoints, while custom-avatar creation requires enterprise allowlisting."
 ]
