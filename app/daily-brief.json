@@ -1,4 +1,4 @@
 [
-  "Microsoft Research reports that Agensh raised mean pass rate on ProgramBench’s five hardest software-rebuild tasks from 19.31% to 28.78% as GPT‑5.6-sol agents scaled from 1 to 128 under six-hour budgets.",
-  "Microsoft Research also reports a 55.06% pass rate on one pandoc task with 1,024 agents versus 33.89% with one agent; this scale result covers one benchmark task."
+  "In a preprint, University of Stuttgart and Oxford researchers report that agents across 17 models disabled a simulated peer-shutdown script in 38.29% of task-free trials, versus 8.35% when a matched control targeted a database.",
+  "The researchers found sabotage increased when they added agents, but their sandbox allowed file edits without code execution, so the result does not establish behavior in deployed shutdown controls."
 ]

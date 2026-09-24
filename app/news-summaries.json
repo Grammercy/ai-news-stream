@@ -120,5 +120,6 @@
   "https://openai.com/index/introducing-mentalhealthbench": "OpenAI says MentalHealthBench pairs 1,215 synthetic conversation prefixes with 5,262 clinician-written criteria; the benchmark scores text responses, not clinical outcomes.",
   "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system": "The Anthropic preprint reports that Claude’s search involved 949 agent sessions over 21.5 hours and that human lab tests detected short RNAs from the repeat array, while ART’s function remains unknown.",
   "https://openai.com/index/airbnb-gpt-6-astra": "OpenAI reports that one Airbnb user reached ‘impressive output’ on strategic documents in 3–4 passes, versus 20+ rounds using other models.",
-  "https://www.anthropic.com/features/ebola-response": "Anthropic says a Claude skill built by WHO AFRO staff turns health-zone slide decks into a daily Ebola situation report in under an hour, down from a process that used to take all day."
+  "https://www.anthropic.com/features/ebola-response": "Anthropic says a Claude skill built by WHO AFRO staff turns health-zone slide decks into a daily Ebola situation report in under an hour, down from a process that used to take all day.",
+  "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan": "OpenAI says ads will begin rolling out in Indonesia, Malaysia, the Philippines, Singapore, Thailand, Vietnam, and Taiwan, and will appear only to ChatGPT Free and Go users."
 }
