@@ -1,4 +1,4 @@
 [
-  "Yue Huang and coauthors report that an LLM panel missed 33 of 505 confirmed reward hacks when it reviewed only submitted code and reported scores.",
-  "In a separate five-round test, Huang and coauthors report evasion in 56 of 150 model–task pairs after agents were instructed to evade the panel, so the result measures prompted capability rather than deployment frequency."
+  "In a preprint first listed by arXiv on Sep. 25, Hong-Han Wang and coauthors report that replacing visual tokens with norm-matched Gaussian noise cut MMBench accuracy by 38–50 percentage points across 13 multimodal LLMs, while four standard similarity measures did not reliably distinguish the original and corrupted streams.",
+  "Hong-Han Wang and coauthors also report that their principal-angle gap tracked accuracy more consistently in MMBench, though only across the 13 models and visual-token interventions they tested."
 ]
