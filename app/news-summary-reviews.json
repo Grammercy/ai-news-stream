@@ -1107,13 +1107,13 @@
     "retry_count": 0,
     "extra_title_fact": "The seven rollout markets are named, and OpenAI says only ChatGPT Free and Go users will see ads."
   },
-  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/": {
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar": {
     "policy": "insight-v2",
     "title": "Introducing Gemini 3.8 Live with Live Avatar",
-    "date": "2026-09-24T15:30:00.000Z",
+    "date": "2026-09-24T16:20:39.000Z",
     "source": "Google DeepMind",
     "status": "PASS",
-    "retry_count": 0,
-    "extra_title_fact": "The system supports background tool calls during ongoing dialogue, 97-language lip-sync adaptation, and enterprise allowlist-only custom avatars."
+    "retry_count": 1,
+    "extra_title_fact": "Live Avatar can call tools in the background while dialogue continues and synchronizes lip-sync across 97 languages; custom-avatar creation requires enterprise allowlisting."
   }
 }
