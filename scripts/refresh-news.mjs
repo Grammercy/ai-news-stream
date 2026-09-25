@@ -22,7 +22,11 @@ function canonical(url) {
   const value = new URL(url);
   value.hash = "";
   value.search = "";
-  return value.href.replace(/\/$/, "");
+  const normalized = value.href.replace(/\/$/, "");
+  if (normalized === "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar") {
+    return "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar";
+  }
+  return normalized;
 }
 
 function htmlAttribute(tag, name) {
