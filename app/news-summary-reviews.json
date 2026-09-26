@@ -1115,5 +1115,14 @@
     "status": "PASS",
     "retry_count": 1,
     "extra_title_fact": "Live Avatar can call tools in the background while dialogue continues and synchronizes lip-sync across 97 languages; custom-avatar creation requires enterprise allowlisting."
+  },
+  "https://openai.com/index/proaction": {
+    "policy": "insight-v2",
+    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+    "date": "2026-09-25T19:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Its cofounder builds four to six prospect-specific demos monthly in 30–45 minutes each; an engineer would take about 10 hours per demo."
   }
 }

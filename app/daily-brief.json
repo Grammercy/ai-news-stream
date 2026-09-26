@@ -1,4 +1,4 @@
 [
-  "In a preprint first listed by arXiv on Sep. 25, Hong-Han Wang and coauthors report that replacing visual tokens with norm-matched Gaussian noise cut MMBench accuracy by 38–50 percentage points across 13 multimodal LLMs, while four standard similarity measures did not reliably distinguish the original and corrupted streams.",
-  "Hong-Han Wang and coauthors also report that their principal-angle gap tracked accuracy more consistently in MMBench, though only across the 13 models and visual-token interventions they tested."
+  "On Sep. 26, Jeff Dean cited Waymo’s dashboard, which reports 271.3 million rider-only miles through June across five operating areas and 95% fewer serious-injury-or-worse crashes than its human-driver benchmark.",
+  "Because the dashboard’s latest figures end in June, Dean’s Sep. 26 post does not establish how the safety comparison changed after that month."
 ]
