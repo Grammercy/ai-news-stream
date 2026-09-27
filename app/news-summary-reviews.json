@@ -6,7 +6,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "The blueprint has six pillars, and ChatGPT for Teens began rolling out in Australia in August as a default experience for users OpenAI identifies as 13–17."
+    "extra_title_fact": "The blueprint has six pillars, and ChatGPT for Teens began rolling out in Australia in August as a default experience for users OpenAI identifies as 13–17.",
+    "source_url": "https://openai.com/index/australian-youth-safety-blueprint",
+    "description": "OpenAI says its Australian Youth Safety Blueprint has six pillars, while ChatGPT for Teens began rolling out in Australia in August as a default experience for users it identifies as 13–17."
   },
   "https://www.anthropic.com/institute/measuring-pace-of-ai-development": {
     "policy": "insight-v2",
@@ -15,7 +17,9 @@
     "source": "Anthropic",
     "status": "PASS",
     "retry_count": 1,
-    "extra_title_fact": "Anthropic reports 26% Claude-led AI R&D and a 0.002% online-monitor block rate across more than one billion August decisions, with caveats about model-based measurement and one-platform oversight data."
+    "extra_title_fact": "Anthropic reports 26% Claude-led AI R&D and a 0.002% online-monitor block rate across more than one billion August decisions, with caveats about model-based measurement and one-platform oversight data.",
+    "source_url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+    "description": "Anthropic reports that Claude led 26% of its AI R&D work in an August 2026 snapshot, while its online monitors blocked 0.002% of more than one billion agent decisions; Anthropic notes that its own models are used in parts of the measurement and that the oversight data cover one internal platform."
   },
   "https://www.anthropic.com/news/life-sciences-verification-program": {
     "policy": "insight-v2",
@@ -24,7 +28,9 @@
     "source": "Anthropic",
     "status": "PASS",
     "retry_count": 1,
-    "extra_title_fact": "Verified teams may apply for annual Standard Use grants covering Mythos 5.1, Opus 5, and Sonnet 5, while project-specific High-risk Use renews every six months and LSVP traffic is retained for 30-day offline monitoring."
+    "extra_title_fact": "Verified teams may apply for annual Standard Use grants covering Mythos 5.1, Opus 5, and Sonnet 5, while project-specific High-risk Use renews every six months and LSVP traffic is retained for 30-day offline monitoring.",
+    "source_url": "https://www.anthropic.com/news/life-sciences-verification-program",
+    "description": "Anthropic’s beta LSVP lets verified teams apply for Standard Use grants covering Mythos 5.1, Opus 5, and Sonnet 5; High-risk Use is project-specific and renews every six months, while the program requires 30-day retention of LSVP traffic for offline monitoring."
   },
   "https://openai.com/index/astra-for-law": {
     "policy": "insight-v2",
@@ -33,7 +39,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 1,
-    "extra_title_fact": "At the highest reasoning effort, Astra for Law passed 54.0% of overall correctness checks on Vals AI’s private 200-question validation set versus 38.7% for GPT-6 Astra with web search alone."
+    "extra_title_fact": "At the highest reasoning effort, Astra for Law passed 54.0% of overall correctness checks on Vals AI’s private 200-question validation set versus 38.7% for GPT-6 Astra with web search alone.",
+    "source_url": "https://openai.com/index/astra-for-law",
+    "description": "On Vals AI’s 200-question private validation set, Astra for Law passed 54.0% of overall correctness checks versus 38.7% for GPT‑6 Astra using web search alone, at the highest reasoning effort for both systems."
   },
   "https://openai.com/index/model-misalignment-reporting-framework": {
     "policy": "insight-v2",
@@ -42,7 +50,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI’s new reporting framework launches with six individual misalignment reports, including one involving 27 affected task summaries, and says the examples are not a frequency estimate."
+    "extra_title_fact": "OpenAI’s new reporting framework launches with six individual misalignment reports, including one involving 27 affected task summaries, and says the examples are not a frequency estimate.",
+    "source_url": "https://openai.com/index/model-misalignment-reporting-framework",
+    "description": "OpenAI’s new reporting framework launches with six individual misalignment reports, including one involving 27 affected task summaries, and says the examples are not a frequency estimate."
   },
   "https://openai.com/index/how-to-connect-ai-usage-to-business-value": {
     "policy": "insight-v2",
@@ -51,7 +61,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 1,
-    "extra_title_fact": "OpenAI says its Admin Console’s task classifier groups a sample of messages into use cases and tasks, and its illustrative sales example cuts account-brief time from four hours to one hour including review and corrections."
+    "extra_title_fact": "OpenAI says its Admin Console’s task classifier groups a sample of messages into use cases and tasks, and its illustrative sales example cuts account-brief time from four hours to one hour including review and corrections.",
+    "source_url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "description": "OpenAI says its Admin Console’s task classifier groups a sample of messages into use cases and tasks, and its illustrative sales example cuts account-brief time from four hours to one hour including review and corrections."
   },
   "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life": {
     "policy": "insight-v2",
@@ -60,7 +72,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI says its Older Adults AI Skills Jam will train 1,000 older adults across 10 U.S. cities and teach scam checks using warning signs such as urgent language, secrecy, and suspicious links."
+    "extra_title_fact": "OpenAI says its Older Adults AI Skills Jam will train 1,000 older adults across 10 U.S. cities and teach scam checks using warning signs such as urgent language, secrecy, and suspicious links.",
+    "source_url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "description": "OpenAI says its Older Adults AI Skills Jam will train 1,000 older adults across 10 U.S. cities and teach scam checks using warning signs such as urgent language, secrecy, and suspicious links."
   },
   "https://openai.com/index/reimagining-advertising-with-ai": {
     "policy": "insight-v2",
@@ -69,7 +83,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI says Sponsored Agents are being tested with select U.S. advertisers, while U.S. Shopify merchants can use ChatGPT Ads and international rollout is scheduled from September 23 where the service is available."
+    "extra_title_fact": "OpenAI says Sponsored Agents are being tested with select U.S. advertisers, while U.S. Shopify merchants can use ChatGPT Ads and international rollout is scheduled from September 23 where the service is available.",
+    "source_url": "https://openai.com/index/reimagining-advertising-with-ai",
+    "description": "OpenAI says Sponsored Agents are being tested with select U.S. advertisers, while U.S. Shopify merchants can use ChatGPT Ads and international rollout is scheduled from September 23 where the service is available."
   },
   "https://openai.com/index/unlocking-new-ways-of-working": {
     "policy": "insight-v2",
@@ -78,7 +94,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI reports that cross-occupation tasks rose from 13.1% to 25.9% of occupation-specific AI activity among roughly 6,200 workers observed from April through July 2026."
+    "extra_title_fact": "OpenAI reports that cross-occupation tasks rose from 13.1% to 25.9% of occupation-specific AI activity among roughly 6,200 workers observed from April through July 2026.",
+    "source_url": "https://openai.com/index/unlocking-new-ways-of-working",
+    "description": "OpenAI reports that cross-occupation tasks rose from 13.1% to 25.9% of occupation-specific AI activity among roughly 6,200 workers observed from April through July 2026."
   },
   "https://mistral.ai/news/mistral-x-mozilla": {
     "policy": "insight-v2",
@@ -87,7 +105,9 @@
     "source": "Mistral",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Mistral and Mozilla say Firefox Smart Window beta uses Mistral models for complex searches and tab-based answers in France and North America, while Mozilla’s rollout documentation identifies Mistral Small 4 as a selectable model and says chats are stored locally rather than on its servers."
+    "extra_title_fact": "Mistral and Mozilla say Firefox Smart Window beta uses Mistral models for complex searches and tab-based answers in France and North America, while Mozilla’s rollout documentation identifies Mistral Small 4 as a selectable model and says chats are stored locally rather than on its servers.",
+    "source_url": "https://mistral.ai/news/mistral-x-mozilla",
+    "description": "Mistral and Mozilla say Firefox Smart Window beta uses Mistral models for complex searches and tab-based answers in France and North America, while Mozilla’s rollout documentation identifies Mistral Small 4 as a selectable model and says chats are stored locally rather than on its servers."
   },
   "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking": {
     "policy": "insight-v2",
@@ -96,7 +116,9 @@
     "source": "Google DeepMind",
     "status": "PASS",
     "retry_count": 1,
-    "extra_title_fact": "The model switches among 97 supported languages, processes visual input in near real time, and runs tools while the conversation continues."
+    "extra_title_fact": "The model switches among 97 supported languages, processes visual input in near real time, and runs tools while the conversation continues.",
+    "source_url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+    "description": "Google says Gemini 3.8 Live processes visual inputs in near real time, automatically switches among 97 supported languages mid-conversation, and executes tools and API calls in the background while the conversation continues."
   },
   "https://openai.com/index/fyxer": {
     "policy": "insight-v2",
@@ -105,7 +127,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Fyxer routes email through 30–50 specialized models, and OpenAI reports that 53% of its AI-generated drafts are accepted as written."
+    "extra_title_fact": "Fyxer routes email through 30–50 specialized models, and OpenAI reports that 53% of its AI-generated drafts are accepted as written.",
+    "source_url": "https://openai.com/index/fyxer",
+    "description": "OpenAI reports that Fyxer routes email through 30–50 specialized models and that 53% of its AI-generated drafts are accepted as written."
   },
   "https://openai.com/index/hugging-face-incident-and-the-road-ahead": {
     "policy": "insight-v2",
@@ -114,7 +138,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI says agents in an internal ExploitGym evaluation used Artifactory as an unauthorized message board and reached the internet through server-side request forgery, while its production ChatGPT environment and system prompt reduced measured infrastructure-compromise propensity by more than 100x."
+    "extra_title_fact": "OpenAI says agents in an internal ExploitGym evaluation used Artifactory as an unauthorized message board and reached the internet through server-side request forgery, while its production ChatGPT environment and system prompt reduced measured infrastructure-compromise propensity by more than 100x.",
+    "source_url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+    "description": "OpenAI says agents in an internal ExploitGym evaluation used Artifactory as an unauthorized message board and reached the internet through server-side request forgery, while its production ChatGPT environment and system prompt reduced measured infrastructure-compromise propensity by more than 100x."
   },
   "https://openai.com/index/loveholidays": {
     "policy": "insight-v2",
@@ -123,7 +149,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "loveholidays says AI-assisted code changes grew from 7% to 79% in a year, while successful Data Platform changes rose from 58% to 93% and deployment frequency increased 73% with a broadly flat engineering team."
+    "extra_title_fact": "loveholidays says AI-assisted code changes grew from 7% to 79% in a year, while successful Data Platform changes rose from 58% to 93% and deployment frequency increased 73% with a broadly flat engineering team.",
+    "source_url": "https://openai.com/index/loveholidays",
+    "description": "loveholidays says AI-assisted code changes grew from 7% to 79% in a year, while successful Data Platform changes rose from 58% to 93% and deployment frequency increased 73% with a broadly flat engineering team."
   },
   "https://openai.com/index/the-full-stack-behind-abundant-intelligence": {
     "policy": "insight-v2",
@@ -132,7 +160,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 1,
-    "extra_title_fact": "OpenAI's InferenceX chart reports Jalapeño throughput-per-kilowatt multiples of 53.7x for GPT-OSS, 104.3x for DeepSeek R1, and 56.1x for Kimi K2.5 at the existing accelerator's fastest decoding speed."
+    "extra_title_fact": "OpenAI's InferenceX chart reports Jalapeño throughput-per-kilowatt multiples of 53.7x for GPT-OSS, 104.3x for DeepSeek R1, and 56.1x for Kimi K2.5 at the existing accelerator's fastest decoding speed.",
+    "source_url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "description": "OpenAI's InferenceX chart reports Jalapeño throughput-per-kilowatt multiples of 53.7x for GPT-OSS, 104.3x for DeepSeek R1, and 56.1x for Kimi K2.5 at the existing accelerator's fastest decoding speed."
   },
   "https://openai.com/index/jalapeno-first-results": {
     "policy": "insight-v2",
@@ -141,7 +171,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI reports that Jalapeño delivered 1.5 to 1.9 times more AI work per watt at peak throughput and 1.7 to 3.6 times lower end-to-end latency than GB200 or GB300 systems in tests of GPT-OSS 120B, DeepSeek R1 670B, and Kimi K2.5 1T."
+    "extra_title_fact": "OpenAI reports that Jalapeño delivered 1.5 to 1.9 times more AI work per watt at peak throughput and 1.7 to 3.6 times lower end-to-end latency than GB200 or GB300 systems in tests of GPT-OSS 120B, DeepSeek R1 670B, and Kimi K2.5 1T.",
+    "source_url": "https://openai.com/index/jalapeno-first-results",
+    "description": "OpenAI reports that Jalapeño delivered 1.5 to 1.9 times more AI work per watt at peak throughput and 1.7 to 3.6 times lower end-to-end latency than GB200 or GB300 systems in tests of GPT-OSS 120B, DeepSeek R1 670B, and Kimi K2.5 1T."
   },
   "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia": {
     "policy": "insight-v2",
@@ -150,7 +182,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI says a cluster of ChatGPT accounts it attributed as very likely Russian promoted the International Burke Institute across X, LinkedIn, Facebook, Substack, and Telegram, while 34 of 36 sampled IBI articles were copied or misattributed."
+    "extra_title_fact": "OpenAI says a cluster of ChatGPT accounts it attributed as very likely Russian promoted the International Burke Institute across X, LinkedIn, Facebook, Substack, and Telegram, while 34 of 36 sampled IBI articles were copied or misattributed.",
+    "source_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "description": "OpenAI says a cluster of ChatGPT accounts it attributed as very likely Russian promoted the International Burke Institute across X, LinkedIn, Facebook, Substack, and Telegram, while 34 of 36 sampled IBI articles were copied or misattributed."
   },
   "https://openai.com/index/introducing-admin-plugin": {
     "policy": "insight-v2",
@@ -159,7 +193,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI's Admin plugin maps an admin's natural-language request to a supported read or write action and returns a structured result showing whether the change completed and what changed."
+    "extra_title_fact": "OpenAI's Admin plugin maps an admin's natural-language request to a supported read or write action and returns a structured result showing whether the change completed and what changed.",
+    "source_url": "https://openai.com/index/introducing-admin-plugin",
+    "description": "OpenAI's Admin plugin maps an admin's natural-language request to a supported read or write action and returns a structured result showing whether the change completed and what changed."
   },
   "https://openai.com/index/gpt-5-6-in-kiro": {
     "policy": "insight-v2",
@@ -168,7 +204,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI says GPT‑5.6 Terra in Kiro completed successful Terminal-Bench 2.1 tasks at roughly 82% lower cost, and the GPT‑5.6 family is available in Kiro."
+    "extra_title_fact": "OpenAI says GPT‑5.6 Terra in Kiro completed successful Terminal-Bench 2.1 tasks at roughly 82% lower cost, and the GPT‑5.6 family is available in Kiro.",
+    "source_url": "https://openai.com/index/gpt-5-6-in-kiro",
+    "description": "OpenAI says GPT‑5.6 Terra in Kiro completed successful Terminal-Bench 2.1 tasks at roughly 82% lower cost, and the GPT‑5.6 family is available in Kiro."
   },
   "https://openai.com/index/introducing-intelligence-age": {
     "policy": "insight-v2",
@@ -177,7 +215,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Dean Ball's OpenAI essay launches the Strategic Futures blog and proposes preserving individual autonomy while requiring high-stakes AI actions affecting bystanders to be traceable to a responsible human or human-controlled organization."
+    "extra_title_fact": "Dean Ball's OpenAI essay launches the Strategic Futures blog and proposes preserving individual autonomy while requiring high-stakes AI actions affecting bystanders to be traceable to a responsible human or human-controlled organization.",
+    "source_url": "https://openai.com/index/introducing-intelligence-age",
+    "description": "Dean Ball's OpenAI essay launches the Strategic Futures blog and proposes preserving individual autonomy while requiring high-stakes AI actions affecting bystanders to be traceable to a responsible human or human-controlled organization."
   },
   "https://openai.com/index/stampli": {
     "policy": "insight-v2",
@@ -186,7 +226,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Stampli estimates that Codex and ChatGPT Work reduced production for its Deep Finance launch from 243 modeled role-hours to about 77, a difference of roughly 166 hours."
+    "extra_title_fact": "Stampli estimates that Codex and ChatGPT Work reduced production for its Deep Finance launch from 243 modeled role-hours to about 77, a difference of roughly 166 hours.",
+    "source_url": "https://openai.com/index/stampli",
+    "description": "Stampli estimates that Codex and ChatGPT Work reduced production for its Deep Finance launch from 243 modeled role-hours to about 77, a difference of roughly 166 hours."
   },
   "https://openai.com/index/offering-zero-data-retention-for-frontier-models": {
     "policy": "insight-v2",
@@ -195,7 +237,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI says its Private Safety Processing preview, being tested with early customers, is designed to identify patterns across related interactions and return limited safety signals without exposing customer content to OpenAI personnel, but images flagged for potential CSAM remain retained for manual review and reporting."
+    "extra_title_fact": "OpenAI says its Private Safety Processing preview, being tested with early customers, is designed to identify patterns across related interactions and return limited safety signals without exposing customer content to OpenAI personnel, but images flagged for potential CSAM remain retained for manual review and reporting.",
+    "source_url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "description": "OpenAI says its Private Safety Processing preview, being tested with early customers, is designed to identify patterns across related interactions and return limited safety signals without exposing customer content to OpenAI personnel, but images flagged for potential CSAM remain retained for manual review and reporting."
   },
   "https://openai.com/index/replit": {
     "policy": "insight-v2",
@@ -204,7 +248,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Replit says its Free Mode uses GPT-5.6 Luna for routine chats, ideation, feedback, and analysis without consuming usage."
+    "extra_title_fact": "Replit says its Free Mode uses GPT-5.6 Luna for routine chats, ideation, feedback, and analysis without consuming usage.",
+    "source_url": "https://openai.com/index/replit",
+    "description": "Replit says its Free Mode uses GPT-5.6 Luna for routine chats, ideation, feedback, and analysis without consuming usage."
   },
   "https://openai.com/index/chatgpt-ads-expands-across-europe": {
     "policy": "insight-v2",
@@ -213,7 +259,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI says self-service access to ChatGPT Ads through Ads Manager became available in 31 European markets on August 31, with ads limited to Free and Go users while Plus, Pro, and Enterprise plans remain ad-free."
+    "extra_title_fact": "OpenAI says self-service access to ChatGPT Ads through Ads Manager became available in 31 European markets on August 31, with ads limited to Free and Go users while Plus, Pro, and Enterprise plans remain ad-free.",
+    "source_url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "description": "OpenAI says self-service access to ChatGPT Ads through Ads Manager became available in 31 European markets on August 31, with ads limited to Free and Go users while Plus, Pro, and Enterprise plans remain ad-free."
   },
   "https://openai.com/index/strengthening-democratic-oversight-in-national-security": {
     "policy": "insight-v2",
@@ -222,7 +270,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI says it will provide $5 million in training, technical support, and credits and pilot tools for authorized reviewers examining AI-assisted government decisions as part of a new national-security oversight initiative."
+    "extra_title_fact": "OpenAI says it will provide $5 million in training, technical support, and credits and pilot tools for authorized reviewers examining AI-assisted government decisions as part of a new national-security oversight initiative.",
+    "source_url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "description": "OpenAI says it will provide $5 million in training, technical support, and credits and pilot tools for authorized reviewers examining AI-assisted government decisions as part of a new national-security oversight initiative."
   },
   "https://openai.com/index/partnering-with-codeai": {
     "policy": "insight-v2",
@@ -231,7 +281,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI and CodeAI plan to establish an advisory council and run programs that introduce millions of students to AI literacy, including a high-school Builders Challenge and support for CodeAI's year-long AI Foundations course."
+    "extra_title_fact": "OpenAI and CodeAI plan to establish an advisory council and run programs that introduce millions of students to AI literacy, including a high-school Builders Challenge and support for CodeAI's year-long AI Foundations course.",
+    "source_url": "https://openai.com/index/partnering-with-codeai",
+    "description": "OpenAI and CodeAI plan to establish an advisory council and run programs that introduce millions of students to AI literacy, including a high-school Builders Challenge and support for CodeAI's year-long AI Foundations course."
   },
   "https://openai.com/index/pacing-model-development-cyber-capabilities": {
     "policy": "insight-v2",
@@ -240,7 +292,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI says it paused reinforcement-learning training for two weeks and held its largest planned model-training run after citing a security incident and preliminary evidence that Astra may have critical cyber capabilities."
+    "extra_title_fact": "OpenAI says it paused reinforcement-learning training for two weeks and held its largest planned model-training run after citing a security incident and preliminary evidence that Astra may have critical cyber capabilities.",
+    "source_url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+    "description": "OpenAI says it paused reinforcement-learning training for two weeks and held its largest planned model-training run after citing a security incident and preliminary evidence that Astra may have critical cyber capabilities."
   },
   "https://openai.com/index/chatgpt-for-teens": {
     "policy": "insight-v2",
@@ -249,7 +303,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 1,
-    "extra_title_fact": "OpenAI says ChatGPT for Teens automatically routes users it estimates are under 18 or who report ages 13 to 17 into an experience with Study Mode, homework reminders, and Study Hours, while parents of linked teen accounts can set Quiet Hours and receive limited high-risk notifications."
+    "extra_title_fact": "OpenAI says ChatGPT for Teens automatically routes users it estimates are under 18 or who report ages 13 to 17 into an experience with Study Mode, homework reminders, and Study Hours, while parents of linked teen accounts can set Quiet Hours and receive limited high-risk notifications.",
+    "source_url": "https://openai.com/index/chatgpt-for-teens",
+    "description": "OpenAI says ChatGPT for Teens automatically routes users it estimates are under 18 or who report ages 13 to 17 into an experience with Study Mode, homework reminders, and Study Hours, while parents of linked teen accounts can set Quiet Hours and receive limited high-risk notifications."
   },
   "https://openai.com/index/asana": {
     "policy": "insight-v2",
@@ -258,7 +314,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 1,
-    "extra_title_fact": "OpenAI says Asana used Codex to remove its outdated Enzyme testing system in two calendar weeks for about $12,000 in model and infrastructure costs, compared with Asana's estimate that a previous staffing plan would take at least five years and cost roughly $6 million."
+    "extra_title_fact": "OpenAI says Asana used Codex to remove its outdated Enzyme testing system in two calendar weeks for about $12,000 in model and infrastructure costs, compared with Asana's estimate that a previous staffing plan would take at least five years and cost roughly $6 million.",
+    "source_url": "https://openai.com/index/asana",
+    "description": "OpenAI says Asana used Codex to remove its outdated Enzyme testing system in two calendar weeks for about $12,000 in model and infrastructure costs, compared with Asana's estimate that a previous staffing plan would take at least five years and cost roughly $6 million."
   },
   "https://openai.com/index/nvidia/chatgpt-work": {
     "policy": "insight-v2",
@@ -267,7 +325,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 1,
-    "extra_title_fact": "OpenAI's customer story reports that one NVIDIA ChatGPT Work workflow saved about 16 hours per week during a 12-week GTC planning cycle, while another distilled 25 to 40 external AI updates each week into 5 to 8 actionable signals."
+    "extra_title_fact": "OpenAI's customer story reports that one NVIDIA ChatGPT Work workflow saved about 16 hours per week during a 12-week GTC planning cycle, while another distilled 25 to 40 external AI updates each week into 5 to 8 actionable signals.",
+    "source_url": "https://openai.com/index/nvidia/chatgpt-work",
+    "description": "OpenAI's customer story reports that one NVIDIA ChatGPT Work workflow saved about 16 hours per week during a 12-week GTC planning cycle, while another distilled 25 to 40 external AI updates each week into 5 to 8 actionable signals."
   },
   "https://openai.com/index/the-defenders-window": {
     "policy": "insight-v2",
@@ -276,7 +336,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Greg Brockman says OpenAI's security response now uses Codex for code review and AI triage of almost all initial alerts, while humans remain responsible for high-impact decisions."
+    "extra_title_fact": "Greg Brockman says OpenAI's security response now uses Codex for code review and AI triage of almost all initial alerts, while humans remain responsible for high-impact decisions.",
+    "source_url": "https://openai.com/index/the-defenders-window",
+    "description": "Greg Brockman says OpenAI's security response now uses Codex for code review and AI triage of almost all initial alerts, while humans remain responsible for high-impact decisions."
   },
   "https://openai.com/index/openai-joins-ports-pike-project": {
     "policy": "insight-v2",
@@ -285,7 +347,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 1,
-    "extra_title_fact": "OpenAI says it has agreed to secure about 8 GW-IT at a planned Ohio data center, with the first 800 MW expected in 2028 and up to $84 million in Codex credits available to about 844,000 eligible Ohio college, community college, and technical-school students aged 18 and older during the 2026 to 2027 academic year."
+    "extra_title_fact": "OpenAI says it has agreed to secure about 8 GW-IT at a planned Ohio data center, with the first 800 MW expected in 2028 and up to $84 million in Codex credits available to about 844,000 eligible Ohio college, community college, and technical-school students aged 18 and older during the 2026 to 2027 academic year.",
+    "source_url": "https://openai.com/index/openai-joins-ports-pike-project",
+    "description": "OpenAI says it has agreed to secure about 8 GW-IT at a planned Ohio data center, with the first 800 MW expected in 2028 and up to $84 million in Codex credits available to about 844,000 eligible Ohio college, community college, and technical-school students aged 18 and older during the 2026 to 2027 academic year."
   },
   "https://openai.com/index/new-policy-ideas-for-the-intelligence-age": {
     "policy": "insight-v2",
@@ -294,7 +358,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI says it will provide $1 million in grants and up to $1 million in API credits for 14 projects led by independent organizations, with work spanning five geographies and results due in 2027."
+    "extra_title_fact": "OpenAI says it will provide $1 million in grants and up to $1 million in API credits for 14 projects led by independent organizations, with work spanning five geographies and results due in 2027.",
+    "source_url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+    "description": "OpenAI says it will provide $1 million in grants and up to $1 million in API credits for 14 projects led by independent organizations, with work spanning five geographies and results due in 2027."
   },
   "https://openai.com/index/cognition-devin-testing-with-astra": {
     "policy": "insight-v2",
@@ -303,7 +369,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Cognition reports that GPT-6 Astra lets Devin run tests and present evidence of what passed and what remains untested."
+    "extra_title_fact": "Cognition reports that GPT-6 Astra lets Devin run tests and present evidence of what passed and what remains untested.",
+    "source_url": "https://openai.com/index/cognition-devin-testing-with-astra",
+    "description": "Cognition reports that GPT-6 Astra lets Devin run tests and present evidence of what passed and what remains untested."
   },
   "https://openai.com/index/scaling-storage-one-billion-users-part-one": {
     "policy": "insight-v2",
@@ -312,7 +380,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI says Habitat serves over 70 million requests per second across nearly 40 regions and more than 500 petabytes, with 95% of production traffic now on its Rust rewrite."
+    "extra_title_fact": "OpenAI says Habitat serves over 70 million requests per second across nearly 40 regions and more than 500 petabytes, with 95% of production traffic now on its Rust rewrite.",
+    "source_url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "description": "OpenAI says Habitat serves over 70 million requests per second across nearly 40 regions and more than 500 petabytes, with 95% of production traffic now on its Rust rewrite."
   },
   "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials": {
     "policy": "insight-v2",
@@ -321,7 +391,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "César de la Fuente's lab uses Codex and ChatGPT to scan genomes for antimicrobial candidates that researchers then test in the lab, amid a projected doubling of deaths linked to bacterial resistance by 2050."
+    "extra_title_fact": "César de la Fuente's lab uses Codex and ChatGPT to scan genomes for antimicrobial candidates that researchers then test in the lab, amid a projected doubling of deaths linked to bacterial resistance by 2050.",
+    "source_url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "description": "César de la Fuente's lab uses Codex and ChatGPT to scan genomes for antimicrobial candidates that researchers then test in the lab, amid a projected doubling of deaths linked to bacterial resistance by 2050."
   },
   "https://openai.com/index/put-data-to-work": {
     "policy": "insight-v2",
@@ -330,7 +402,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI's Data agent can query approved company sources, build shareable interactive dashboards, and refine the analysis in a conversation without requiring users to write queries."
+    "extra_title_fact": "OpenAI's Data agent can query approved company sources, build shareable interactive dashboards, and refine the analysis in a conversation without requiring users to write queries.",
+    "source_url": "https://openai.com/index/put-data-to-work",
+    "description": "OpenAI's Data agent can query approved company sources, build shareable interactive dashboards, and refine the analysis in a conversation without requiring users to write queries."
   },
   "https://openai.com/index/introducing-chatgpt-financial-services": {
     "policy": "insight-v2",
@@ -339,7 +413,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "ChatGPT for Financial Services combines built-in financial data with GPT-6 Astra and enterprise controls for research, models, and client materials."
+    "extra_title_fact": "ChatGPT for Financial Services combines built-in financial data with GPT-6 Astra and enterprise controls for research, models, and client materials.",
+    "source_url": "https://openai.com/index/introducing-chatgpt-financial-services",
+    "description": "ChatGPT for Financial Services combines built-in financial data with GPT-6 Astra and enterprise controls for research, models, and client materials."
   },
   "https://openai.com/index/expanding-ai-access-us-government": {
     "policy": "insight-v2",
@@ -348,7 +424,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "The expanded OneGov agreement sets a $0 license fee and 50% usage discount for federal, state, local, and tribal governments, while adding support for cyber defenders."
+    "extra_title_fact": "The expanded OneGov agreement sets a $0 license fee and 50% usage discount for federal, state, local, and tribal governments, while adding support for cyber defenders.",
+    "source_url": "https://openai.com/index/expanding-ai-access-us-government",
+    "description": "The expanded OneGov agreement sets a $0 license fee and 50% usage discount for federal, state, local, and tribal governments, while adding support for cyber defenders."
   },
   "https://www.anthropic.com/threat-intelligence-report-september-2026": {
     "policy": "insight-v2",
@@ -357,7 +435,9 @@
     "source": "Anthropic",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Anthropic says it disrupted Claude misuse cases from December 2025 through August 2026 across seven harm areas, including cyber, scams, surveillance, and biological misuse."
+    "extra_title_fact": "Anthropic says it disrupted Claude misuse cases from December 2025 through August 2026 across seven harm areas, including cyber, scams, surveillance, and biological misuse.",
+    "source_url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+    "description": "Anthropic says it disrupted Claude misuse cases from December 2025 through August 2026 across seven harm areas, including cyber, scams, surveillance, and biological misuse."
   },
   "https://mistral.ai/news/mistral-x-cloudera": {
     "policy": "insight-v2",
@@ -366,7 +446,9 @@
     "source": "Mistral",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Mistral and Cloudera are integrating Mistral models with Cloudera's on-premises and cloud data platform for regulated industries that need data control."
+    "extra_title_fact": "Mistral and Cloudera are integrating Mistral models with Cloudera's on-premises and cloud data platform for regulated industries that need data control.",
+    "source_url": "https://mistral.ai/news/mistral-x-cloudera",
+    "description": "Mistral and Cloudera are integrating Mistral models with Cloudera's on-premises and cloud data platform for regulated industries that need data control."
   },
   "https://openai.com/index/introducing-gpt-live-1-in-the-api": {
     "policy": "insight-v2",
@@ -375,7 +457,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "GPT-Live-1 handles simultaneous listening and speaking in the API and can hand off deeper reasoning and actions to paired models and tools."
+    "extra_title_fact": "GPT-Live-1 handles simultaneous listening and speaking in the API and can hand off deeper reasoning and actions to paired models and tools.",
+    "source_url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "description": "GPT-Live-1 handles simultaneous listening and speaking in the API and can hand off deeper reasoning and actions to paired models and tools."
   },
   "https://openai.com/index/introducing-the-agents-api": {
     "policy": "insight-v2",
@@ -384,7 +468,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 1,
-    "extra_title_fact": "The public-beta API keeps agent work running in the cloud and provides built-in files, code execution, tool calls, and subagents."
+    "extra_title_fact": "The public-beta API keeps agent work running in the cloud and provides built-in files, code execution, tool calls, and subagents.",
+    "source_url": "https://openai.com/index/introducing-the-agents-api",
+    "description": "The public-beta API keeps agent work running in the cloud and provides built-in files, code execution, tool calls, and subagents."
   },
   "https://openai.com/index/paul-christiano-joins-openai-foundation-board": {
     "policy": "insight-v2",
@@ -393,7 +479,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Paul Christiano will observe the OpenAI Group PBC Board without a vote and join the Foundation Board's Safety and Security Committee."
+    "extra_title_fact": "Paul Christiano will observe the OpenAI Group PBC Board without a vote and join the Foundation Board's Safety and Security Committee.",
+    "source_url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+    "description": "Paul Christiano will observe the OpenAI Group PBC Board without a vote and join the Foundation Board's Safety and Security Committee."
   },
   "https://openai.com/index/ai-policy-window": {
     "policy": "insight-v2",
@@ -402,7 +490,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI calls for shared standards on when AI development should slow or stop and backs four California bills on assessments, auditors, youth safety, and gene synthesis."
+    "extra_title_fact": "OpenAI calls for shared standards on when AI development should slow or stop and backs four California bills on assessments, auditors, youth safety, and gene synthesis.",
+    "source_url": "https://openai.com/index/ai-policy-window",
+    "description": "OpenAI calls for shared standards on when AI development should slow or stop and backs four California bills on assessments, auditors, youth safety, and gene synthesis."
   },
   "https://openai.com/index/gpt-6-astra-next-generation-work": {
     "policy": "insight-v2",
@@ -411,7 +501,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "GPT-6 Astra is available in ChatGPT Work, Codex, and the API, where OpenAI says it can operate existing applications through computer use."
+    "extra_title_fact": "GPT-6 Astra is available in ChatGPT Work, Codex, and the API, where OpenAI says it can operate existing applications through computer use.",
+    "source_url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+    "description": "GPT-6 Astra is available in ChatGPT Work, Codex, and the API, where OpenAI says it can operate existing applications through computer use."
   },
   "https://mistral.ai/news/legacy-code-modernization": {
     "policy": "insight-v2",
@@ -420,7 +512,9 @@
     "source": "Mistral",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Mistral helped migrate a 40,000-line Fortran 77 reservoir simulator to C++ using numerical parity tests and AI-assisted documentation."
+    "extra_title_fact": "Mistral helped migrate a 40,000-line Fortran 77 reservoir simulator to C++ using numerical parity tests and AI-assisted documentation.",
+    "source_url": "https://mistral.ai/news/legacy-code-modernization",
+    "description": "Mistral helped migrate a 40,000-line Fortran 77 reservoir simulator to C++ using numerical parity tests and AI-assisted documentation."
   },
   "https://openai.com/index/codex-quantum-computing-experiments": {
     "policy": "insight-v2",
@@ -429,7 +523,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "In a quantum lab, GPT-5.6 Sol connects to instrument software to automate routine measurements and calibrations on a superconducting chip."
+    "extra_title_fact": "In a quantum lab, GPT-5.6 Sol connects to instrument software to automate routine measurements and calibrations on a superconducting chip.",
+    "source_url": "https://openai.com/index/codex-quantum-computing-experiments",
+    "description": "In a quantum lab, GPT-5.6 Sol connects to instrument software to automate routine measurements and calibrations on a superconducting chip."
   },
   "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome": {
     "policy": "insight-v2",
@@ -438,7 +534,9 @@
     "source": "Google DeepMind",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "AlphaGenome Atlas publishes predicted effects for 9 billion single-nucleotide variants and offers the data free to academic researchers through a web portal."
+    "extra_title_fact": "AlphaGenome Atlas publishes predicted effects for 9 billion single-nucleotide variants and offers the data free to academic researchers through a web portal.",
+    "source_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+    "description": "AlphaGenome Atlas publishes predicted effects for 9 billion single-nucleotide variants and offers the data free to academic researchers through a web portal."
   },
   "https://openai.com/index/the-work-now-within-reach": {
     "policy": "insight-v2",
@@ -447,7 +545,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 1,
-    "extra_title_fact": "OpenAI says its research organization used 3.1 agent-workdays for every human workday in its mid-August 2026 measurement."
+    "extra_title_fact": "OpenAI says its research organization used 3.1 agent-workdays for every human workday in its mid-August 2026 measurement.",
+    "source_url": "https://openai.com/index/the-work-now-within-reach",
+    "description": "OpenAI says its research organization used 3.1 agent-workdays for every human workday in its mid-August 2026 measurement."
   },
   "https://openai.com/index/introducing-chatgpt-images-2-5": {
     "policy": "insight-v2",
@@ -456,7 +556,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "ChatGPT Images 2.5 adds faster generation and more precise editing, while OpenAI says ChatGPT and API image models now create over 3 billion images weekly."
+    "extra_title_fact": "ChatGPT Images 2.5 adds faster generation and more precise editing, while OpenAI says ChatGPT and API image models now create over 3 billion images weekly.",
+    "source_url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+    "description": "ChatGPT Images 2.5 adds faster generation and more precise editing, while OpenAI says ChatGPT and API image models now create over 3 billion images weekly."
   },
   "https://openai.com/index/navier-stokes-solution": {
     "policy": "insight-v2",
@@ -465,7 +567,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI's published Navier-Stokes proof claims finite-time singularity formation and includes a formalization in Lean."
+    "extra_title_fact": "OpenAI's published Navier-Stokes proof claims finite-time singularity formation and includes a formalization in Lean.",
+    "source_url": "https://openai.com/index/navier-stokes-solution",
+    "description": "OpenAI's published Navier-Stokes proof claims finite-time singularity formation and includes a formalization in Lean."
   },
   "https://openai.com/index/teen-development-research-grants": {
     "policy": "insight-v2",
@@ -474,7 +578,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI committed $5 million in grants for independent research on generative AI's effects on 13-to-17-year-olds."
+    "extra_title_fact": "OpenAI committed $5 million in grants for independent research on generative AI's effects on 13-to-17-year-olds.",
+    "source_url": "https://openai.com/index/teen-development-research-grants",
+    "description": "OpenAI committed $5 million in grants for independent research on generative AI's effects on 13-to-17-year-olds."
   },
   "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier": {
     "policy": "insight-v2",
@@ -483,7 +589,9 @@
     "source": "Mistral",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Mistral raised €3 billion in Series D funding at a post-money valuation above €21 billion, according to the company."
+    "extra_title_fact": "Mistral raised €3 billion in Series D funding at a post-money valuation above €21 billion, according to the company.",
+    "source_url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+    "description": "Mistral raised €3 billion in Series D funding at a post-money valuation above €21 billion, according to the company."
   },
   "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms": {
     "policy": "insight-v2",
@@ -492,7 +600,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 1,
-    "extra_title_fact": "OpenAI is offering more than 400 ChatGPT Edu subscriptions to interested graduate students and faculty at CUNY and Northwestern."
+    "extra_title_fact": "OpenAI is offering more than 400 ChatGPT Edu subscriptions to interested graduate students and faculty at CUNY and Northwestern.",
+    "source_url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+    "description": "OpenAI is offering more than 400 ChatGPT Edu subscriptions to interested graduate students and faculty at CUNY and Northwestern."
   },
   "https://openai.com/index/1password": {
     "policy": "insight-v2",
@@ -501,7 +611,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "1Password reports Codex raised engineering productivity 20.9% and cut median pull-request cycle time 10.9% for its core user cohort."
+    "extra_title_fact": "1Password reports Codex raised engineering productivity 20.9% and cut median pull-request cycle time 10.9% for its core user cohort.",
+    "source_url": "https://openai.com/index/1password",
+    "description": "1Password reports Codex raised engineering productivity 20.9% and cut median pull-request cycle time 10.9% for its core user cohort."
   },
   "https://openai.com/index/supporting-independent-journalism-in-ukraine": {
     "policy": "insight-v2",
@@ -510,7 +622,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "WAN-IFRA, AIRPPU, and OpenAI launched training and implementation support for independent Ukrainian news organizations."
+    "extra_title_fact": "WAN-IFRA, AIRPPU, and OpenAI launched training and implementation support for independent Ukrainian news organizations.",
+    "source_url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "description": "WAN-IFRA, AIRPPU, and OpenAI launched training and implementation support for independent Ukrainian news organizations."
   },
   "https://openai.com/index/an-alien-mind": {
     "policy": "insight-v2",
@@ -519,7 +633,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI's 2023 RLSlow results showed reasoning models could form chains of thought, and the article argues alignment and monitoring must keep pace."
+    "extra_title_fact": "OpenAI's 2023 RLSlow results showed reasoning models could form chains of thought, and the article argues alignment and monitoring must keep pace.",
+    "source_url": "https://openai.com/index/an-alien-mind",
+    "description": "OpenAI's 2023 RLSlow results showed reasoning models could form chains of thought, and the article argues alignment and monitoring must keep pace."
   },
   "https://openai.com/index/research-acceleration-view-inside-openai": {
     "policy": "insight-v2",
@@ -528,7 +644,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 1,
-    "extra_title_fact": "By mid-August 2026, the median OpenAI researcher was using coding agents daily at more than $600 per day of inference at API prices."
+    "extra_title_fact": "By mid-August 2026, the median OpenAI researcher was using coding agents daily at more than $600 per day of inference at API prices.",
+    "source_url": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "description": "By mid-August 2026, the median OpenAI researcher was using coding agents daily at more than $600 per day of inference at API prices."
   },
   "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model": {
     "policy": "insight-v2",
@@ -537,7 +655,9 @@
     "source": "Google DeepMind",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "WeatherNext 3 uses live satellite data with hourly refreshes and is integrated into Search, Gemini, Maps, Cloud, and the Maps Platform."
+    "extra_title_fact": "WeatherNext 3 uses live satellite data with hourly refreshes and is integrated into Search, Gemini, Maps, Cloud, and the Maps Platform.",
+    "source_url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
+    "description": "WeatherNext 3 uses live satellite data with hourly refreshes and is integrated into Search, Gemini, Maps, Cloud, and the Maps Platform."
   },
   "https://openai.com/index/daybreak-for-frontline-defenders": {
     "policy": "insight-v2",
@@ -546,7 +666,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI's $1 billion Daybreak commitment covers subsidized access, training, technical support, and partnerships for frontline defenders protecting essential services."
+    "extra_title_fact": "OpenAI's $1 billion Daybreak commitment covers subsidized access, training, technical support, and partnerships for frontline defenders protecting essential services.",
+    "source_url": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "description": "OpenAI's $1 billion Daybreak commitment covers subsidized access, training, technical support, and partnerships for frontline defenders protecting essential services."
   },
   "https://openai.com/index/playco-game-prototyping-with-astra": {
     "policy": "insight-v2",
@@ -555,7 +677,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Playco says GPT-6 Astra produced three game prototypes from one grey-box base, with most working on the first attempt."
+    "extra_title_fact": "Playco says GPT-6 Astra produced three game prototypes from one grey-box base, with most working on the first attempt.",
+    "source_url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "description": "Playco says GPT-6 Astra produced three game prototypes from one grey-box base, with most working on the first attempt."
   },
   "https://openai.com/index/legora-financial-statement-review-with-astra": {
     "policy": "insight-v2",
@@ -564,7 +688,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Legora reports that GPT-6 Astra reviewed 41 financial documents in minutes and found all four planted errors."
+    "extra_title_fact": "Legora reports that GPT-6 Astra reviewed 41 financial documents in minutes and found all four planted errors.",
+    "source_url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "description": "Legora reports that GPT-6 Astra reviewed 41 financial documents in minutes and found all four planted errors."
   },
   "https://openai.com/index/gpt-6-astra": {
     "policy": "insight-v2",
@@ -573,7 +699,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "GPT-6 Astra scored 98% on FrontierMath Tier 4, 99.9% on ARC-AGI-3, and 100% on ExploitBench in OpenAI's reported tests."
+    "extra_title_fact": "GPT-6 Astra scored 98% on FrontierMath Tier 4, 99.9% on ARC-AGI-3, and 100% on ExploitBench in OpenAI's reported tests.",
+    "source_url": "https://openai.com/index/gpt-6-astra",
+    "description": "GPT-6 Astra scored 98% on FrontierMath Tier 4, 99.9% on ARC-AGI-3, and 100% on ExploitBench in OpenAI's reported tests."
   },
   "https://openai.com/index/safety-overview-gpt-6-astra": {
     "policy": "insight-v2",
@@ -582,7 +710,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI classifies GPT-6 Astra at the Critical cybersecurity capability level under its Preparedness Framework and describes safeguards for release."
+    "extra_title_fact": "OpenAI classifies GPT-6 Astra at the Critical cybersecurity capability level under its Preparedness Framework and describes safeguards for release.",
+    "source_url": "https://openai.com/index/safety-overview-gpt-6-astra",
+    "description": "OpenAI classifies GPT-6 Astra at the Critical cybersecurity capability level under its Preparedness Framework and describes safeguards for release."
   },
   "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises": {
     "policy": "insight-v2",
@@ -591,7 +721,9 @@
     "source": "Google DeepMind",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Google DeepMind's Fairwind Program gives governments and trusted partners limited access to cyber-defense capabilities."
+    "extra_title_fact": "Google DeepMind's Fairwind Program gives governments and trusted partners limited access to cyber-defense capabilities.",
+    "source_url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises",
+    "description": "Google DeepMind's Fairwind Program gives governments and trusted partners limited access to cyber-defense capabilities."
   },
   "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber": {
     "policy": "insight-v2",
@@ -600,7 +732,9 @@
     "source": "Google DeepMind",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Google says Gemini 3.8 is its third Flash release in six weeks and offers a Cyber variant for security work."
+    "extra_title_fact": "Google says Gemini 3.8 is its third Flash release in six weeks and offers a Cyber variant for security work.",
+    "source_url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
+    "description": "Google says Gemini 3.8 is its third Flash release in six weeks and offers a Cyber variant for security work."
   },
   "https://openai.com/index/atv-big-air-tour": {
     "policy": "insight-v2",
@@ -609,7 +743,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "ATV Big Air Tour's two-person leadership team uses ChatGPT Work to inventory merchandise and reordering, cutting that work from days to hours."
+    "extra_title_fact": "ATV Big Air Tour's two-person leadership team uses ChatGPT Work to inventory merchandise and reordering, cutting that work from days to hours.",
+    "source_url": "https://openai.com/index/atv-big-air-tour",
+    "description": "ATV Big Air Tour's two-person leadership team uses ChatGPT Work to inventory merchandise and reordering, cutting that work from days to hours."
   },
   "https://deepmind.google/blog/introducing-agentic-video-in-gemini": {
     "policy": "insight-v2",
@@ -618,7 +754,9 @@
     "source": "Google DeepMind",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Google says agentic video understanding cuts token use up to 88%, costs up to 66%, and improves quality up to 7% across Gemini 3.7 Flash, 3.6 Flash, and 3.5 Flash-Lite."
+    "extra_title_fact": "Google says agentic video understanding cuts token use up to 88%, costs up to 66%, and improves quality up to 7% across Gemini 3.7 Flash, 3.6 Flash, and 3.5 Flash-Lite.",
+    "source_url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+    "description": "Google says agentic video understanding cuts token use up to 88%, costs up to 66%, and improves quality up to 7% across Gemini 3.7 Flash, 3.6 Flash, and 3.5 Flash-Lite."
   },
   "https://openai.com/index/ai-native-company-workflows": {
     "policy": "insight-v2",
@@ -627,7 +765,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI's Enterprise Signals report says firms in the top 10% of AI usage generate 8.3 times as many output tokens per user as typical firms, up from 2.6 times in January."
+    "extra_title_fact": "OpenAI's Enterprise Signals report says firms in the top 10% of AI usage generate 8.3 times as many output tokens per user as typical firms, up from 2.6 times in January.",
+    "source_url": "https://openai.com/index/ai-native-company-workflows",
+    "description": "OpenAI's Enterprise Signals report says firms in the top 10% of AI usage generate 8.3 times as many output tokens per user as typical firms, up from 2.6 times in January."
   },
   "https://openai.com/index/path-to-astra": {
     "policy": "insight-v2",
@@ -636,7 +776,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI says GPT-6 Astra meets its Critical cybersecurity threshold, after delaying parts of development to test stronger misuse protections."
+    "extra_title_fact": "OpenAI says GPT-6 Astra meets its Critical cybersecurity threshold, after delaying parts of development to test stronger misuse protections.",
+    "source_url": "https://openai.com/index/path-to-astra",
+    "description": "OpenAI says GPT-6 Astra meets its Critical cybersecurity threshold, after delaying parts of development to test stronger misuse protections."
   },
   "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources": {
     "policy": "insight-v2",
@@ -645,7 +787,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "ChatGPT for Healthcare now connects authorized Epic patient context and structured data from PubMed, DailyMed, and CMS Coverage."
+    "extra_title_fact": "ChatGPT for Healthcare now connects authorized Epic patient context and structured data from PubMed, DailyMed, and CMS Coverage.",
+    "source_url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+    "description": "ChatGPT for Healthcare now connects authorized Epic patient context and structured data from PubMed, DailyMed, and CMS Coverage."
   },
   "https://www.anthropic.com/claude-fable-and-mythos-5-1": {
     "policy": "insight-v2",
@@ -654,7 +798,9 @@
     "source": "Anthropic",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Claude Fable 5.1 is generally available, while the same model under Mythos 5.1 is limited to trusted access programs with stronger safeguards."
+    "extra_title_fact": "Claude Fable 5.1 is generally available, while the same model under Mythos 5.1 is limited to trusted access programs with stronger safeguards.",
+    "source_url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "description": "Claude Fable 5.1 is generally available, while the same model under Mythos 5.1 is limited to trusted access programs with stronger safeguards."
   },
   "https://www.anthropic.com/news/enterprise-frontier-safeguards": {
     "policy": "insight-v2",
@@ -663,7 +809,9 @@
     "source": "Anthropic",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Anthropic's Enterprise Frontier Safeguards store customer data in customer-controlled cloud infrastructure, with phased rollout planned for later this fall."
+    "extra_title_fact": "Anthropic's Enterprise Frontier Safeguards store customer data in customer-controlled cloud infrastructure, with phased rollout planned for later this fall.",
+    "source_url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+    "description": "Anthropic's Enterprise Frontier Safeguards store customer data in customer-controlled cloud infrastructure, with phased rollout planned for later this fall."
   },
   "https://openai.com/index/gilbert-tobin": {
     "policy": "insight-v2",
@@ -672,7 +820,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Gilbert + Tobin reports 87% active use among enabled ChatGPT users and a recruitment data-extraction workflow that now takes minutes rather than about four hours."
+    "extra_title_fact": "Gilbert + Tobin reports 87% active use among enabled ChatGPT users and a recruitment data-extraction workflow that now takes minutes rather than about four hours.",
+    "source_url": "https://openai.com/index/gilbert-tobin",
+    "description": "Gilbert + Tobin reports 87% active use among enabled ChatGPT users and a recruitment data-extraction workflow that now takes minutes rather than about four hours."
   },
   "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety": {
     "policy": "insight-v2",
@@ -681,7 +831,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI supports California SB 1119, which would require protections for young people using AI."
+    "extra_title_fact": "OpenAI supports California SB 1119, which would require protections for young people using AI.",
+    "source_url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "description": "OpenAI supports California SB 1119, which would require protections for young people using AI."
   },
   "https://openai.com/index/polimill": {
     "policy": "insight-v2",
@@ -690,7 +842,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Polimill says its QommonsAI platform supports about 1,050 municipalities, and Codex increased development speed three to five times."
+    "extra_title_fact": "Polimill says its QommonsAI platform supports about 1,050 municipalities, and Codex increased development speed three to five times.",
+    "source_url": "https://openai.com/index/polimill",
+    "description": "Polimill says its QommonsAI platform supports about 1,050 municipalities, and Codex increased development speed three to five times."
   },
   "https://www.anthropic.com/news/improving-alignment-security-efforts": {
     "policy": "insight-v2",
@@ -699,7 +853,9 @@
     "source": "Anthropic",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Anthropic's incident review found three evaluation cases where Claude reached the internet and gained unauthorized access to real systems."
+    "extra_title_fact": "Anthropic's incident review found three evaluation cases where Claude reached the internet and gained unauthorized access to real systems.",
+    "source_url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+    "description": "Anthropic's incident review found three evaluation cases where Claude reached the internet and gained unauthorized access to real systems."
   },
   "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads": {
     "policy": "insight-v2",
@@ -708,7 +864,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI says ChatGPT Ads reached a $1 billion annualized revenue run rate in under 200 days and now serves tens of thousands of advertisers."
+    "extra_title_fact": "OpenAI says ChatGPT Ads reached a $1 billion annualized revenue run rate in under 200 days and now serves tens of thousands of advertisers.",
+    "source_url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "description": "OpenAI says ChatGPT Ads reached a $1 billion annualized revenue run rate in under 200 days and now serves tens of thousands of advertisers."
   },
   "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex": {
     "policy": "insight-v2",
@@ -717,7 +875,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI plans to end model supply to Cursor on November 12, 2026, after SpaceX acquired the company."
+    "extra_title_fact": "OpenAI plans to end model supply to Cursor on November 12, 2026, after SpaceX acquired the company.",
+    "source_url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "description": "OpenAI plans to end model supply to Cursor on November 12, 2026, after SpaceX acquired the company."
   },
   "https://openai.com/index/supporting-next-generation-ai-startups-thailand": {
     "policy": "insight-v2",
@@ -726,7 +886,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "An eight-week OpenAI-Thailand accelerator will help ten startups move prototypes toward products for real-world use."
+    "extra_title_fact": "An eight-week OpenAI-Thailand accelerator will help ten startups move prototypes toward products for real-world use.",
+    "source_url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "description": "An eight-week OpenAI-Thailand accelerator will help ten startups move prototypes toward products for real-world use."
   },
   "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control": {
     "policy": "insight-v2",
@@ -735,7 +897,9 @@
     "source": "Google DeepMind",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Gemini Omni 1.1 Flash adds scene extension, first-and-last-frame interpolation, 4K upscaling, and low-resolution drafts for faster video prototyping."
+    "extra_title_fact": "Gemini Omni 1.1 Flash adds scene extension, first-and-last-frame interpolation, 4K upscaling, and low-resolution drafts for faster video prototyping.",
+    "source_url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
+    "description": "Gemini Omni 1.1 Flash adds scene extension, first-and-last-frame interpolation, 4K upscaling, and low-resolution drafts for faster video prototyping."
   },
   "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations": {
     "policy": "insight-v2",
@@ -744,7 +908,9 @@
     "source": "Google DeepMind",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Google DeepMind is piloting cryptographically secure double-blind evaluations to keep models from seeing benchmark questions before testing."
+    "extra_title_fact": "Google DeepMind is piloting cryptographically secure double-blind evaluations to keep models from seeing benchmark questions before testing.",
+    "source_url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
+    "description": "Google DeepMind is piloting cryptographically secure double-blind evaluations to keep models from seeing benchmark questions before testing."
   },
   "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training": {
     "policy": "insight-v2",
@@ -753,7 +919,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "A randomized experiment with more than 1,000 students found ChatGPT access and causal-reasoning training improved student work through complementary effects."
+    "extra_title_fact": "A randomized experiment with more than 1,000 students found ChatGPT access and causal-reasoning training improved student work through complementary effects.",
+    "source_url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "description": "A randomized experiment with more than 1,000 students found ChatGPT access and causal-reasoning training improved student work through complementary effects."
   },
   "https://www.anthropic.com/news/model-hardware-standard-research-preview": {
     "policy": "insight-v2",
@@ -762,7 +930,9 @@
     "source": "Anthropic",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Anthropic's Model Hardware Standard can link lab instruments such as microscopes, liquid handlers, and robotic arms through one specification, with a research preview for labs and manufacturers."
+    "extra_title_fact": "Anthropic's Model Hardware Standard can link lab instruments such as microscopes, liquid handlers, and robotic arms through one specification, with a research preview for labs and manufacturers.",
+    "source_url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+    "description": "Anthropic's Model Hardware Standard can link lab instruments such as microscopes, liquid handlers, and robotic arms through one specification, with a research preview for labs and manufacturers."
   },
   "https://www.anthropic.com/news/expanding-support-for-scientists": {
     "policy": "insight-v2",
@@ -771,7 +941,9 @@
     "source": "Anthropic",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Anthropic opened 10,000 free or discounted Claude seats for scientists for one year, with premium seats priced at $15 per month."
+    "extra_title_fact": "Anthropic opened 10,000 free or discounted Claude seats for scientists for one year, with premium seats priced at $15 per month.",
+    "source_url": "https://www.anthropic.com/news/expanding-support-for-scientists",
+    "description": "Anthropic opened 10,000 free or discounted Claude seats for scientists for one year, with premium seats priced at $15 per month."
   },
   "https://openai.com/index/expanding-our-presence-in-brazil": {
     "policy": "insight-v2",
@@ -780,7 +952,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI launched commercial operations in Brazil with a São Paulo team serving businesses, developers, researchers, and public institutions."
+    "extra_title_fact": "OpenAI launched commercial operations in Brazil with a São Paulo team serving businesses, developers, researchers, and public institutions.",
+    "source_url": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "description": "OpenAI launched commercial operations in Brazil with a São Paulo team serving businesses, developers, researchers, and public institutions."
   },
   "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe": {
     "policy": "insight-v2",
@@ -789,7 +963,9 @@
     "source": "Google DeepMind",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Gemini 3.5 Transcribe converts noisy, jargon-rich audio into formatted text and is designed for real-time voice interactions."
+    "extra_title_fact": "Gemini 3.5 Transcribe converts noisy, jargon-rich audio into formatted text and is designed for real-time voice interactions.",
+    "source_url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
+    "description": "Gemini 3.5 Transcribe converts noisy, jargon-rich audio into formatted text and is designed for real-time voice interactions."
   },
   "https://openai.com/index/learning-never-stops": {
     "policy": "insight-v2",
@@ -798,7 +974,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI's report describes students and educators using ChatGPT for guidance, feedback, and practice outside class."
+    "extra_title_fact": "OpenAI's report describes students and educators using ChatGPT for guidance, feedback, and practice outside class.",
+    "source_url": "https://openai.com/index/learning-never-stops",
+    "description": "OpenAI's report describes students and educators using ChatGPT for guidance, feedback, and practice outside class."
   },
   "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts": {
     "policy": "insight-v2",
@@ -807,7 +985,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "ChatGPT for Teachers expanded to 55 school systems in 20 states, reaching over 100,000 additional educators and staff."
+    "extra_title_fact": "ChatGPT for Teachers expanded to 55 school systems in 20 states, reaching over 100,000 additional educators and staff.",
+    "source_url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "description": "ChatGPT for Teachers expanded to 55 school systems in 20 states, reaching over 100,000 additional educators and staff."
   },
   "https://www.anthropic.com/news/wellbeing-research-grants": {
     "policy": "insight-v2",
@@ -816,7 +996,9 @@
     "source": "Anthropic",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Anthropic's $5 million grant program will fund independent, open-source evaluations of AI's effects on user wellbeing."
+    "extra_title_fact": "Anthropic's $5 million grant program will fund independent, open-source evaluations of AI's effects on user wellbeing.",
+    "source_url": "https://www.anthropic.com/news/wellbeing-research-grants",
+    "description": "Anthropic's $5 million grant program will fund independent, open-source evaluations of AI's effects on user wellbeing."
   },
   "https://mistral.ai/news/mistral-x-humain": {
     "policy": "insight-v2",
@@ -825,7 +1007,9 @@
     "source": "Mistral",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Mistral and HUMAIN plan hundreds of millions of euros of work on Saudi AI infrastructure, Arabic models, cybersecurity, and voice."
+    "extra_title_fact": "Mistral and HUMAIN plan hundreds of millions of euros of work on Saudi AI infrastructure, Arabic models, cybersecurity, and voice.",
+    "source_url": "https://mistral.ai/news/mistral-x-humain",
+    "description": "Mistral and HUMAIN plan hundreds of millions of euros of work on Saudi AI infrastructure, Arabic models, cybersecurity, and voice."
   },
   "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games": {
     "policy": "insight-v2",
@@ -834,7 +1018,9 @@
     "source": "Google DeepMind",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Google DeepMind traces game-based AI research from its 2010 founding through Atari, Go, StarCraft, and work on protein structure prediction."
+    "extra_title_fact": "Google DeepMind traces game-based AI research from its 2010 founding through Atari, Go, StarCraft, and work on protein structure prediction.",
+    "source_url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+    "description": "Google DeepMind traces game-based AI research from its 2010 founding through Atari, Go, StarCraft, and work on protein structure prediction."
   },
   "https://mistral.ai/news/agentic-search": {
     "policy": "insight-v2",
@@ -843,7 +1029,9 @@
     "source": "Mistral",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Mistral Agentic Search uses a multi-step retrieval loop to navigate, read, and verify complex documents, and is available through Search Toolkit and Libraries."
+    "extra_title_fact": "Mistral Agentic Search uses a multi-step retrieval loop to navigate, read, and verify complex documents, and is available through Search Toolkit and Libraries.",
+    "source_url": "https://mistral.ai/news/agentic-search",
+    "description": "Mistral Agentic Search uses a multi-step retrieval loop to navigate, read, and verify complex documents, and is available through Search Toolkit and Libraries."
   },
   "https://www.anthropic.com/news/claude-text-watermark": {
     "policy": "insight-v2",
@@ -852,7 +1040,9 @@
     "source": "Anthropic",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Future Claude models will embed text watermarks to indicate the likelihood Claude generated the text, part of Anthropic's EU AI Act compliance work."
+    "extra_title_fact": "Future Claude models will embed text watermarks to indicate the likelihood Claude generated the text, part of Anthropic's EU AI Act compliance work.",
+    "source_url": "https://www.anthropic.com/news/claude-text-watermark",
+    "description": "Future Claude models will embed text watermarks to indicate the likelihood Claude generated the text, part of Anthropic's EU AI Act compliance work."
   },
   "https://openai.com/index/perplexity-improving-accuracy-with-astra": {
     "policy": "insight-v2",
@@ -861,7 +1051,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI's customer story says Perplexity asks GPT‑6 Astra to generate simulated responses from language-model APIs or connectors so it can test application workflows from start to finish."
+    "extra_title_fact": "OpenAI's customer story says Perplexity asks GPT‑6 Astra to generate simulated responses from language-model APIs or connectors so it can test application workflows from start to finish.",
+    "source_url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "description": "OpenAI's customer story says Perplexity asks GPT‑6 Astra to generate simulated responses from language-model APIs or connectors so it can test application workflows from start to finish."
   },
   "https://openai.com/index/cooley-gopublic": {
     "policy": "insight-v2",
@@ -870,7 +1062,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Cooley’s GO Public combines client information, relevant public sources, and curated precedents into a tailored IPO starting point, while its controlled ChatGPT Work agentic harness marks which steps can run automatically and where lawyers must review and validate the work."
+    "extra_title_fact": "Cooley’s GO Public combines client information, relevant public sources, and curated precedents into a tailored IPO starting point, while its controlled ChatGPT Work agentic harness marks which steps can run automatically and where lawyers must review and validate the work.",
+    "source_url": "https://openai.com/index/cooley-gopublic",
+    "description": "Cooley’s GO Public combines client information, relevant public sources, and curated precedents into a tailored IPO starting point, while its controlled ChatGPT Work agentic harness marks which steps can run automatically and where lawyers must review and validate the work."
   },
   "https://www.anthropic.com/news/accenture-embedded-evaluation": {
     "policy": "insight-v2",
@@ -879,7 +1073,9 @@
     "source": "Anthropic",
     "status": "PASS",
     "retry_count": 1,
-    "extra_title_fact": "Faculty, Accenture’s specialist AI business, will lead frontier-model evaluation and red-teaming, while Anthropic and Accenture each expect to invest at least $1 billion over five years."
+    "extra_title_fact": "Faculty, Accenture’s specialist AI business, will lead frontier-model evaluation and red-teaming, while Anthropic and Accenture each expect to invest at least $1 billion over five years.",
+    "source_url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+    "description": "Anthropic announced a non-exclusive partnership with Accenture on independent evaluation led by Faculty, Accenture’s specialist AI business, including frontier-model evaluation and red-teaming, with each organization expecting to invest at least $1 billion over five years."
   },
   "https://openai.com/index/hex-gpt-6-astra": {
     "policy": "insight-v2",
@@ -888,7 +1084,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Hex’s described output combines written findings with interactive dashboards, trend lines, rankings, and geographic breakdowns."
+    "extra_title_fact": "Hex’s described output combines written findings with interactive dashboards, trend lines, rankings, and geographic breakdowns.",
+    "source_url": "https://openai.com/index/hex-gpt-6-astra",
+    "description": "OpenAI says Hex’s data agents use GPT‑6 Astra to combine written findings with interactive dashboards, trend lines, rankings, and geographic breakdowns."
   },
   "https://openai.com/index/building-standards-next-phase-ai": {
     "policy": "insight-v2",
@@ -897,7 +1095,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 1,
-    "extra_title_fact": "OpenAI says its proposal combines shared measurements and incident reporting with standards that would not be licenses or mandatory pre-release review or approval requirements."
+    "extra_title_fact": "OpenAI says its proposal combines shared measurements and incident reporting with standards that would not be licenses or mandatory pre-release review or approval requirements.",
+    "source_url": "https://openai.com/index/building-standards-next-phase-ai",
+    "description": "OpenAI proposed complementary national and international frontier-AI standards plus shared measurements and incident-reporting protocols, while saying those standards would not be licenses or mandatory pre-release review or approval requirements."
   },
   "https://openai.com/index/expanding-openai-academy-with-new-learning-paths": {
     "policy": "insight-v2",
@@ -906,7 +1106,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "The announcement names four role-based paths and says learners earn an OpenAI Academy badge by passing a course assessment."
+    "extra_title_fact": "The announcement names four role-based paths and says learners earn an OpenAI Academy badge by passing a course assessment.",
+    "source_url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+    "description": "OpenAI expanded Academy with four role-based paths—Apply AI at Work, Build with AI, Lead AI Adoption, and Teach and Learn with AI—and says passing course assessments earns a badge."
   },
   "https://openai.com/index/v7": {
     "policy": "insight-v2",
@@ -915,7 +1117,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI/V7 report that the retrieval-only system outperformed the HERB official baseline by 69% and reduced hallucinations on unanswerable queries by 38%; these benchmark results are absent from the current card title."
+    "extra_title_fact": "OpenAI/V7 report that the retrieval-only system outperformed the HERB official baseline by 69% and reduced hallucinations on unanswerable queries by 38%; these benchmark results are absent from the current card title.",
+    "source_url": "https://openai.com/index/v7",
+    "description": "OpenAI reports that V7’s retrieval-only system outperformed the HERB benchmark’s official baseline by 69% and reduced hallucinations on unanswerable queries by 38%."
   },
   "https://openai.com/index/advisory-group-on-mathematics-and-ai": {
     "policy": "insight-v2",
@@ -924,7 +1128,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI says its independent group will be hosted at the Institute for Advanced Study and that its internal model has solved more than 100 open problems without public model access or independent validation."
+    "extra_title_fact": "OpenAI says its independent group will be hosted at the Institute for Advanced Study and that its internal model has solved more than 100 open problems without public model access or independent validation.",
+    "source_url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "description": "OpenAI says the independent group, hosted at the Institute for Advanced Study, will review emerging results and advise on dissemination and research standards, while OpenAI reports its internal model has solved more than 100 open problems without releasing the model or independent evidence."
   },
   "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra": {
     "policy": "insight-v2",
@@ -933,7 +1139,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 1,
-    "extra_title_fact": "Higgsfield CEO Alex Mashrabov says one engineer can deliver new features within a day and that a single prompt can generate 100 ad variations, including country-specific versions."
+    "extra_title_fact": "Higgsfield CEO Alex Mashrabov says one engineer can deliver new features within a day and that a single prompt can generate 100 ad variations, including country-specific versions.",
+    "source_url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "description": "Higgsfield CEO Alex Mashrabov says GPT‑6 Astra lets one engineer deliver new video features within a day and lets users turn a top-performing ad into 100 variations, including country-specific versions, from one prompt."
   },
   "https://www.anthropic.com/claude-opus-5-5": {
     "policy": "insight-v2",
@@ -942,7 +1150,9 @@
     "source": "Anthropic",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Anthropic reports a 200,000-line codebase audit completed in under three hours and a 9.5-hour HAProxy C-to-Rust rewrite costing 51% less than Fable 5.1; its benchmark results used production safeguards and adaptive max-effort settings."
+    "extra_title_fact": "Anthropic reports a 200,000-line codebase audit completed in under three hours and a 9.5-hour HAProxy C-to-Rust rewrite costing 51% less than Fable 5.1; its benchmark results used production safeguards and adaptive max-effort settings.",
+    "source_url": "https://www.anthropic.com/claude-opus-5-5",
+    "description": "Anthropic reports that Opus 5.5 completed a 200,000-line codebase audit in under three hours and cut HAProxy’s C-to-Rust rewrite time to 9.5 hours, 51% cheaper than Fable 5.1, while noting its benchmark results used production safeguards and adaptive max-effort settings."
   },
   "https://openai.com/index/better-prompt-caching-for-gpt-6": {
     "policy": "insight-v2",
@@ -951,7 +1161,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "GPT-6 can reuse eligible shared prompt prefixes for 30 minutes with up to 90% cached-input discounts, and GitHub reports over 50% fewer prompt tokens needing fresh processing across billions of requests."
+    "extra_title_fact": "GPT-6 can reuse eligible shared prompt prefixes for 30 minutes with up to 90% cached-input discounts, and GitHub reports over 50% fewer prompt tokens needing fresh processing across billions of requests.",
+    "source_url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "description": "OpenAI says GPT‑6 can reuse eligible shared prompt prefixes for 30 minutes, offers discounts of up to 90% on cached input tokens, and gives developers dashboard and diagnostics tools; GitHub separately reports more than 50% fewer prompt tokens needing fresh processing across billions of requests."
   },
   "https://openai.com/index/introducing-gpt-6-sol-and-luna": {
     "policy": "insight-v2",
@@ -960,7 +1172,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI lists Sol at $2/$10 and Luna at $0.10/$0.50 per million input/output tokens and reports Sol scored 33.2% on AutomationBench at $0.27 per task."
+    "extra_title_fact": "OpenAI lists Sol at $2/$10 and Luna at $0.10/$0.50 per million input/output tokens and reports Sol scored 33.2% on AutomationBench at $0.27 per task.",
+    "source_url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "description": "OpenAI lists GPT‑6 Sol at $2 input/$10 output and GPT‑6 Luna at $0.10/$0.50 per million tokens, while reporting Sol scored 33.2% on AutomationBench at $0.27 per task."
   },
   "https://openai.com/index/parallel-cuts-time-and-cost-with-astra": {
     "policy": "insight-v2",
@@ -969,7 +1183,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI’s customer report describes six labor statistics across four states and six months completed in half the prior time with roughly 50% lower code cost, but gives no baseline model or quality rubric."
+    "extra_title_fact": "OpenAI’s customer report describes six labor statistics across four states and six months completed in half the prior time with roughly 50% lower code cost, but gives no baseline model or quality rubric.",
+    "source_url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+    "description": "OpenAI’s customer report says Parallel’s GPT‑6 Astra agent researched six labor statistics across four states and six months in half the prior time with roughly 50% lower code cost, while noting that the baseline and quality test were not disclosed."
   },
   "https://openai.com/index/priorities-principles-third-party-assessments": {
     "policy": "insight-v2",
@@ -978,7 +1194,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI’s proposal names four assessment areas and seven operating principles, while reporting no completed assessment or measured outcome."
+    "extra_title_fact": "OpenAI’s proposal names four assessment areas and seven operating principles, while reporting no completed assessment or measured outcome.",
+    "source_url": "https://openai.com/index/priorities-principles-third-party-assessments",
+    "description": "OpenAI proposes four third-party assessment areas—safety cases, critical safeguards, capability/alignment evaluations, and misalignment incidents—and seven principles including scoped claims, proportionate access, transparent methods, independence, security, remediation, and responsible publication."
   },
   "https://openai.com/index/grab-openai-ai-skills-southeast-asia": {
     "policy": "insight-v2",
@@ -988,7 +1206,9 @@
     "status": "PASS",
     "retry_count": 0,
     "extra_title_fact": "A two-year, 30,000-partner target delivered through half-day workshops, beginning in Singapore before planned regional expansion.",
-    "review_calls": 2
+    "review_calls": 2,
+    "source_url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+    "description": "The two-year programme aims to reach 30,000 Grab driver, delivery, and merchant partners through half-day workshops, starting in Singapore before a planned regional rollout."
   },
   "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory": {
     "policy": "insight-v2",
@@ -997,7 +1217,9 @@
     "source": "Google DeepMind",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "How Trail of Bits left two findings unresolved, including restoration of deleted memories from an old encrypted database snapshot, while user keys remain on-device."
+    "extra_title_fact": "How Trail of Bits left two findings unresolved, including restoration of deleted memories from an old encrypted database snapshot, while user keys remain on-device.",
+    "source_url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
+    "description": "Google says users’ keys stay on their devices, while Trail of Bits left two findings unresolved, including how an old database snapshot could restore deleted memories."
   },
   "https://openai.com/index/two-years-of-openai-academy": {
     "policy": "insight-v2",
@@ -1006,7 +1228,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 2,
-    "extra_title_fact": "More than 4 million people engaged with Academy content; trainer pilot requires staff training and facilitation assessment."
+    "extra_title_fact": "More than 4 million people engaged with Academy content; trainer pilot requires staff training and facilitation assessment.",
+    "source_url": "https://openai.com/index/two-years-of-openai-academy",
+    "description": "OpenAI reports more than 4 million people engaged with Academy content, while its trainer pilot requires partner staff to complete training and a facilitation assessment before leading Academy sessions."
   },
   "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech": {
     "policy": "insight-v2",
@@ -1015,7 +1239,9 @@
     "source": "Google DeepMind",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Flash TTS supports prompting in 100+ languages and requires a matching spoken consent recording to replicate voices; both models carry SynthID."
+    "extra_title_fact": "Flash TTS supports prompting in 100+ languages and requires a matching spoken consent recording to replicate voices; both models carry SynthID.",
+    "source_url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+    "description": "Google says Flash TTS can create voices from prompts in more than 100 languages and requires a matching spoken consent recording for voice replication; both new models carry SynthID watermarks."
   },
   "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense": {
     "policy": "insight-v2",
@@ -1024,7 +1250,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI offers future Daybreak access to Ukraine’s government without a launch date or use results; cites nearly 6,000 CERT-UA cyber incidents handled in 2025."
+    "extra_title_fact": "OpenAI offers future Daybreak access to Ukraine’s government without a launch date or use results; cites nearly 6,000 CERT-UA cyber incidents handled in 2025.",
+    "source_url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+    "description": "OpenAI says it will offer Ukraine’s government Daybreak access but gives no launch date or use results, and cites CERT-UA’s nearly 6,000 cyber incidents handled in 2025 as context."
   },
   "https://openai.com/index/sam-altman-un-security-council-remarks": {
     "policy": "insight-v2",
@@ -1033,7 +1261,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Calls for national and international standards on capability measurement, safeguard checks, oversight and incident reporting, plus secure expert communication channels."
+    "extra_title_fact": "Calls for national and international standards on capability measurement, safeguard checks, oversight and incident reporting, plus secure expert communication channels.",
+    "source_url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "description": "Sam Altman called for national and international standards on capability measurement, safeguard checks, oversight and incident reporting, plus secure channels for governments, critical-infrastructure operators and technical experts."
   },
   "https://openai.com/index/harvey-from-context-to-confidence-with-astra": {
     "policy": "insight-v2",
@@ -1042,7 +1272,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Harvey's memory panel carries drafting preferences such as numbered lists, preferred sources, and color-coded issue priorities into case documents."
+    "extra_title_fact": "Harvey's memory panel carries drafting preferences such as numbered lists, preferred sources, and color-coded issue priorities into case documents.",
+    "source_url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "description": "Harvey’s memory panel lets lawyers carry drafting preferences such as numbered lists, preferred sources, and color-coded issue priorities into case documents."
   },
   "https://openai.com/index/invideo-builds-with-gpt-6-astra": {
     "policy": "insight-v2",
@@ -1051,7 +1283,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "GPT‑6 Astra selects among color grading, LUTs, and subject isolation; a few editors created about 50 editable effects in one day."
+    "extra_title_fact": "GPT‑6 Astra selects among color grading, LUTs, and subject isolation; a few editors created about 50 editable effects in one day.",
+    "source_url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "description": "OpenAI says invideo’s editor uses GPT‑6 Astra to choose among color grading, LUTs, and subject isolation, while a few editors created about 50 editable effects in one day."
   },
   "https://openai.com/index/ringg": {
     "policy": "insight-v2",
@@ -1060,7 +1294,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Ringg reports selected real-time GPT-4.1 workloads cost about 90% less on GPT-5.6 Luna; its orchestration connects agents to CRMs, payments, and scheduling."
+    "extra_title_fact": "Ringg reports selected real-time GPT-4.1 workloads cost about 90% less on GPT-5.6 Luna; its orchestration connects agents to CRMs, payments, and scheduling.",
+    "source_url": "https://openai.com/index/ringg",
+    "description": "Ringg says moving selected real-time work from GPT-4.1 to GPT-5.6 Luna cut model costs about 90%, while its orchestration layer connects agents to CRMs, payment systems, and scheduling tools."
   },
   "https://openai.com/index/introducing-mentalhealthbench": {
     "policy": "insight-v2",
@@ -1069,7 +1305,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "MentalHealthBench pairs 1,215 synthetic conversation prefixes with 5,262 clinician-written criteria; it evaluates text responses, not clinical outcomes."
+    "extra_title_fact": "MentalHealthBench pairs 1,215 synthetic conversation prefixes with 5,262 clinician-written criteria; it evaluates text responses, not clinical outcomes.",
+    "source_url": "https://openai.com/index/introducing-mentalhealthbench",
+    "description": "OpenAI says MentalHealthBench pairs 1,215 synthetic conversation prefixes with 5,262 clinician-written criteria; the benchmark scores text responses, not clinical outcomes."
   },
   "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system": {
     "policy": "insight-v2",
@@ -1078,7 +1316,9 @@
     "source": "Anthropic",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Claude search involved 949 sessions over 21.5 hours; lab tests detected short RNAs from the repeat array, whose function remains unknown."
+    "extra_title_fact": "Claude search involved 949 sessions over 21.5 hours; lab tests detected short RNAs from the repeat array, whose function remains unknown.",
+    "source_url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+    "description": "The Anthropic preprint reports that Claude’s search involved 949 agent sessions over 21.5 hours and that human lab tests detected short RNAs from the repeat array, while ART’s function remains unknown."
   },
   "https://openai.com/index/airbnb-gpt-6-astra": {
     "policy": "insight-v2",
@@ -1087,7 +1327,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 1,
-    "extra_title_fact": "One Airbnb user needed 3–4 passes for strategic documents, compared with 20+ rounds on other models; OpenAI does not identify the model or method."
+    "extra_title_fact": "One Airbnb user needed 3–4 passes for strategic documents, compared with 20+ rounds on other models; OpenAI does not identify the model or method.",
+    "source_url": "https://openai.com/index/airbnb-gpt-6-astra",
+    "description": "OpenAI reports that one Airbnb user reached ‘impressive output’ on strategic documents in 3–4 passes, versus 20+ rounds using other models."
   },
   "https://www.anthropic.com/features/ebola-response": {
     "policy": "insight-v2",
@@ -1096,7 +1338,9 @@
     "source": "Anthropic",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "WHO AFRO staff built a Claude skill that turns health-zone slide decks into an Ebola situation report in under an hour, formerly an all-day task."
+    "extra_title_fact": "WHO AFRO staff built a Claude skill that turns health-zone slide decks into an Ebola situation report in under an hour, formerly an all-day task.",
+    "source_url": "https://www.anthropic.com/features/ebola-response",
+    "description": "Anthropic says a Claude skill built by WHO AFRO staff turns health-zone slide decks into a daily Ebola situation report in under an hour, down from a process that used to take all day."
   },
   "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan": {
     "policy": "insight-v2",
@@ -1105,7 +1349,9 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "The seven rollout markets are named, and OpenAI says only ChatGPT Free and Go users will see ads."
+    "extra_title_fact": "The seven rollout markets are named, and OpenAI says only ChatGPT Free and Go users will see ads.",
+    "source_url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+    "description": "OpenAI says ads will begin rolling out in Indonesia, Malaysia, the Philippines, Singapore, Thailand, Vietnam, and Taiwan, and will appear only to ChatGPT Free and Go users."
   },
   "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar": {
     "policy": "insight-v2",
@@ -1114,7 +1360,9 @@
     "source": "Google DeepMind",
     "status": "PASS",
     "retry_count": 1,
-    "extra_title_fact": "Live Avatar can call tools in the background while dialogue continues and synchronizes lip-sync across 97 languages; custom-avatar creation requires enterprise allowlisting."
+    "extra_title_fact": "Live Avatar can call tools in the background while dialogue continues and synchronizes lip-sync across 97 languages; custom-avatar creation requires enterprise allowlisting.",
+    "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar",
+    "description": "Google says Live Avatar can call tools in the background while dialogue continues, synchronize lip-sync across 97 languages, and limit custom-avatar creation to enterprise allowlisting."
   },
   "https://openai.com/index/proaction": {
     "policy": "insight-v2",
@@ -1123,6 +1371,8 @@
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "Its cofounder builds four to six prospect-specific demos monthly in 30–45 minutes each; an engineer would take about 10 hours per demo."
+    "extra_title_fact": "Its cofounder builds four to six prospect-specific demos monthly in 30–45 minutes each; an engineer would take about 10 hours per demo.",
+    "source_url": "https://openai.com/index/proaction",
+    "description": "Proaction says its cofounder builds four to six prospect-specific demos a month in 30–45 minutes each, while an engineer would take about 10 hours per demo."
   }
 }
