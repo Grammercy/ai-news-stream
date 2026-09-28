@@ -1,4 +1,4 @@
 [
-  "Zihan Wang and colleagues report that ActKV retained 98.53% of FullKV accuracy with 25.98% of its peak KV-cache memory across ALFWorld and WebShop.",
-  "Wang and colleagues also report 3.32×–3.80× FullKV task throughput across three agent benchmarks, while ALFWorld and WebShop traces averaged 9.72% longer, so the memory reduction came with more generated tokens."
+  "OpenAI and the Lenfest Institute announced a new $5 million OpenAI commitment plus up to $5 million in software credits and engineering support for the AI Collaborative and Fellowship Program.",
+  "After two years across 11 news organizations, the Lenfest Institute plans to invite a broader cohort and turn selected projects into reusable tools and guides intended for hundreds of newsrooms."
 ]
