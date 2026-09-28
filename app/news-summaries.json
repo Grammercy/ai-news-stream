@@ -123,5 +123,8 @@
   "https://www.anthropic.com/features/ebola-response": "Anthropic says a Claude skill built by WHO AFRO staff turns health-zone slide decks into a daily Ebola situation report in under an hour, down from a process that used to take all day.",
   "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan": "OpenAI says ads will begin rolling out in Indonesia, Malaysia, the Philippines, Singapore, Thailand, Vietnam, and Taiwan, and will appear only to ChatGPT Free and Go users.",
   "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar": "Google says Live Avatar can call tools in the background while dialogue continues, synchronize lip-sync across 97 languages, and limit custom-avatar creation to enterprise allowlisting.",
-  "https://openai.com/index/proaction": "Proaction says its cofounder builds four to six prospect-specific demos a month in 30–45 minutes each, while an engineer would take about 10 hours per demo."
+  "https://openai.com/index/proaction": "Proaction says its cofounder builds four to six prospect-specific demos a month in 30–45 minutes each, while an engineer would take about 10 hours per demo.",
+  "https://mistral.ai/news/hallo-deutschland": "Mistral says its Munich hub will house specialist Physics AI and Industrial AI teams plus applied engineers; the company is already working with BMW on crash simulations and Siemens Energy on industrial AI applications.",
+  "https://openai.com/index/lenfest-ai-collaborative-expansion": "OpenAI says its expansion of the Lenfest AI Collaborative includes a new $5 million commitment plus up to $5 million in software credits and engineering support.",
+  "https://www.anthropic.com/claude-sonnet-5-5": "Anthropic reports a 70.6% Terminal-Bench 4.0 score for Claude Sonnet 5.5, versus 10.3% for Sonnet 5, and says it is available on AWS, Google Cloud, and Microsoft Azure."
 }
