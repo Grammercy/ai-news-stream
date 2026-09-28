@@ -1,4 +1,4 @@
 [
-  "Theo Browne estimated at 5:36 PM CDT that Opus 5.5 High gives him 4.3× his Claude Code limit on Fable 5.1 High, or 6.6× on Fable 5.1 xhigh.",
-  "Anthropic says paid-plan limits reset every five hours after they are reached; its guidance gives no clock time for Theo’s next reset."
+  "Shangjian Yin and colleagues report that Qwen3-8B reached 65.97% Average@12 across four math benchmarks, versus 30.35% for on-policy self-distillation.",
+  "Yin and colleagues report 17,561 mean output tokens per problem, versus 6,009 for on-policy self-distillation, so the score gain came with longer outputs."
 ]
