@@ -1,4 +1,4 @@
 [
-  "Shangjian Yin and colleagues report that Qwen3-8B reached 65.97% Average@12 across four math benchmarks, versus 30.35% for on-policy self-distillation.",
-  "Yin and colleagues report 17,561 mean output tokens per problem, versus 6,009 for on-policy self-distillation, so the score gain came with longer outputs."
+  "Zihan Wang and colleagues report that ActKV retained 98.53% of FullKV accuracy with 25.98% of its peak KV-cache memory across ALFWorld and WebShop.",
+  "Wang and colleagues also report 3.32×–3.80× FullKV task throughput across three agent benchmarks, while ALFWorld and WebShop traces averaged 9.72% longer, so the memory reduction came with more generated tokens."
 ]
