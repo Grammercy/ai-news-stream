@@ -1,6 +1,10 @@
 [
   {
-    "label": "OpenAI–Lenfest announcement",
-    "url": "https://openai.com/index/lenfest-ai-collaborative-expansion"
+    "label": "Andrew Ng on OpenWorker support",
+    "url": "https://x.com/AndrewYNg/status/2104660347730969087"
+  },
+  {
+    "label": "NVIDIA Open Agent Safety Platform",
+    "url": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring"
   }
 ]
