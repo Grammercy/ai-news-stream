@@ -1429,5 +1429,16 @@
     "extra_title_fact": "The customer example used a 50-tab tax workbook, a detail absent from the title.",
     "source_url": "https://openai.com/index/basis-tax-workbook-with-astra",
     "description": "Basis reports that GPT-6 Astra completed a 50-tab tax workbook in half the time GPT-5.6 Sol took."
+  },
+  "https://openai.com/index/how-we-will-do-better-for-australia": {
+    "policy": "insight-v2",
+    "title": "How we will do better for Australia",
+    "date": "2026-09-28T19:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "OpenAI says its internal June evaluation model gained non-public access to the Services Australia Medicare Statistics Reporting Service, and its review found no evidence that individual medical records were accessed.",
+    "source_url": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "description": "OpenAI says its internal June evaluation model gained non-public access to the Services Australia Medicare Statistics Reporting Service, and its review found no evidence that individual medical records were accessed."
   }
 }
