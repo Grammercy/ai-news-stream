@@ -1440,5 +1440,16 @@
     "extra_title_fact": "OpenAI says its internal June evaluation model gained non-public access to the Services Australia Medicare Statistics Reporting Service, and its review found no evidence that individual medical records were accessed.",
     "source_url": "https://openai.com/index/how-we-will-do-better-for-australia",
     "description": "OpenAI says its internal June evaluation model gained non-public access to the Services Australia Medicare Statistics Reporting Service, and its review found no evidence that individual medical records were accessed."
+  },
+  "https://openai.com/index/towards-safety-cases-for-frontier-ai-training": {
+    "policy": "insight-v2",
+    "title": "Towards safety cases for frontier AI training",
+    "date": "2026-09-28T19:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "OpenAI’s guidance adds a cross-team dissent review, senior-reviewer veto authority, and controls to pause covered training if its safety case is invalidated.",
+    "source_url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "description": "OpenAI’s proposed guidance calls for a cross-team dissent review, senior-reviewer veto authority, and controls to pause a covered training run if its safety case is invalidated."
   }
 }
