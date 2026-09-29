@@ -130,5 +130,8 @@
   "https://openai.com/form/codex-originals": "OpenAI’s Codex Originals form gives applicants separate fields of up to 1,000 characters for a personal background and a project description.",
   "https://openai.com/index/basis-tax-workbook-with-astra": "Basis reports that GPT-6 Astra completed a 50-tab tax workbook in half the time GPT-5.6 Sol took.",
   "https://openai.com/index/how-we-will-do-better-for-australia": "OpenAI says its internal June evaluation model gained non-public access to the Services Australia Medicare Statistics Reporting Service, and its review found no evidence that individual medical records were accessed.",
-  "https://openai.com/index/towards-safety-cases-for-frontier-ai-training": "OpenAI’s proposed guidance calls for a cross-team dissent review, senior-reviewer veto authority, and controls to pause a covered training run if its safety case is invalidated."
+  "https://openai.com/index/towards-safety-cases-for-frontier-ai-training": "OpenAI’s proposed guidance calls for a cross-team dissent review, senior-reviewer veto authority, and controls to pause a covered training run if its safety case is invalidated.",
+  "https://openai.com/index/devday-2026-recap": "OpenAI says ChatGPT Spaces is available to Pro, Business, and Enterprise users on desktop and web, while mobile creation and editing are still planned.",
+  "https://openai.com/index/introducing-gpt-6-1-sol": "OpenAI reports that GPT-6.1 Sol matched GPT-6 Astra on DeepSWE v1.1 at about one-fifth the token cost and scored 6.4 percentage points above GPT-6 Sol’s best result at lower reasoning effort.",
+  "https://openai.com/index/introducing-dots": "OpenAI says conversations with a dot do not count toward ChatGPT usage limits, while tasks a dot starts or manages in Codex or ChatGPT Work count against the plan’s usual allowance."
 }
