@@ -1451,5 +1451,38 @@
     "extra_title_fact": "OpenAI’s guidance adds a cross-team dissent review, senior-reviewer veto authority, and controls to pause covered training if its safety case is invalidated.",
     "source_url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
     "description": "OpenAI’s proposed guidance calls for a cross-team dissent review, senior-reviewer veto authority, and controls to pause a covered training run if its safety case is invalidated."
+  },
+  "https://openai.com/index/devday-2026-recap": {
+    "policy": "insight-v2",
+    "title": "DevDay 2026 Recap",
+    "date": "2026-09-29",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "ChatGPT Spaces is available to Pro, Business, and Enterprise users on desktop and web, while mobile creation and editing remain planned.",
+    "source_url": "https://openai.com/index/devday-2026-recap",
+    "description": "OpenAI says ChatGPT Spaces is available to Pro, Business, and Enterprise users on desktop and web, while mobile creation and editing are still planned."
+  },
+  "https://openai.com/index/introducing-gpt-6-1-sol": {
+    "policy": "insight-v2",
+    "title": "Introducing GPT-6.1 Sol",
+    "date": "2026-09-29",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "OpenAI reports GPT-6.1 Sol matched GPT-6 Astra on DeepSWE v1.1 at about one-fifth token cost and scored 6.4 percentage points above GPT-6 Sol’s best result at lower reasoning effort.",
+    "source_url": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "description": "OpenAI reports that GPT-6.1 Sol matched GPT-6 Astra on DeepSWE v1.1 at about one-fifth the token cost and scored 6.4 percentage points above GPT-6 Sol’s best result at lower reasoning effort."
+  },
+  "https://openai.com/index/introducing-dots": {
+    "policy": "insight-v2",
+    "title": "Introducing dots",
+    "date": "2026-09-29",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 1,
+    "extra_title_fact": "Dot conversations are excluded from ChatGPT usage, but Codex and ChatGPT Work tasks a dot starts or manages count against the plan’s usual allowance.",
+    "source_url": "https://openai.com/index/introducing-dots",
+    "description": "OpenAI says conversations with a dot do not count toward ChatGPT usage limits, while tasks a dot starts or manages in Codex or ChatGPT Work count against the plan’s usual allowance."
   }
 }
