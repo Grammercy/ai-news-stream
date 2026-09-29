@@ -1407,5 +1407,27 @@
     "extra_title_fact": "Anthropic reports a 70.6% Terminal-Bench 4.0 score for Sonnet 5.5 versus 10.3% for Sonnet 5 and says it is available on AWS, Google Cloud, and Microsoft Azure.",
     "source_url": "https://www.anthropic.com/claude-sonnet-5-5",
     "description": "Anthropic reports a 70.6% Terminal-Bench 4.0 score for Claude Sonnet 5.5, versus 10.3% for Sonnet 5, and says it is available on AWS, Google Cloud, and Microsoft Azure."
+  },
+  "https://openai.com/form/codex-originals": {
+    "policy": "insight-v2",
+    "title": "Are you a Codex Original?",
+    "date": "2026-09-28T00:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 1,
+    "extra_title_fact": "The form gives applicants separate 1,000-character fields for personal background and project description.",
+    "source_url": "https://openai.com/form/codex-originals",
+    "description": "OpenAI’s Codex Originals form gives applicants separate fields of up to 1,000 characters for a personal background and a project description."
+  },
+  "https://openai.com/index/basis-tax-workbook-with-astra": {
+    "policy": "insight-v2",
+    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "date": "2026-09-28T00:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 2,
+    "extra_title_fact": "The customer example used a 50-tab tax workbook, a detail absent from the title.",
+    "source_url": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "description": "Basis reports that GPT-6 Astra completed a 50-tab tax workbook in half the time GPT-5.6 Sol took."
   }
 }
