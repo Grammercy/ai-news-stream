@@ -1455,34 +1455,78 @@
   "https://openai.com/index/devday-2026-recap": {
     "policy": "insight-v2",
     "title": "DevDay 2026 Recap",
-    "date": "2026-09-29",
+    "date": "2026-09-29T10:00:00.000Z",
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "ChatGPT Spaces is available to Pro, Business, and Enterprise users on desktop and web, while mobile creation and editing remain planned.",
+    "extra_title_fact": "ChatGPT Spaces is available on desktop and web for Pro, Business, and Enterprise; mobile creation and editing are planned.",
     "source_url": "https://openai.com/index/devday-2026-recap",
     "description": "OpenAI says ChatGPT Spaces is available to Pro, Business, and Enterprise users on desktop and web, while mobile creation and editing are still planned."
   },
   "https://openai.com/index/introducing-gpt-6-1-sol": {
     "policy": "insight-v2",
     "title": "Introducing GPT-6.1 Sol",
-    "date": "2026-09-29",
+    "date": "2026-09-29T10:00:00.000Z",
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 0,
-    "extra_title_fact": "OpenAI reports GPT-6.1 Sol matched GPT-6 Astra on DeepSWE v1.1 at about one-fifth token cost and scored 6.4 percentage points above GPT-6 Sol’s best result at lower reasoning effort.",
+    "extra_title_fact": "OpenAI reports a 75.2% DeepSWE v1.1 score at high effort and $0.65 per task, compared with GPT-6 Sol’s 68.8% best score at maximum effort and $2.74.",
     "source_url": "https://openai.com/index/introducing-gpt-6-1-sol",
-    "description": "OpenAI reports that GPT-6.1 Sol matched GPT-6 Astra on DeepSWE v1.1 at about one-fifth the token cost and scored 6.4 percentage points above GPT-6 Sol’s best result at lower reasoning effort."
+    "description": "OpenAI reports GPT-6.1 Sol scored 75.2% on DeepSWE v1.1 at high effort for $0.65 per task, versus GPT-6 Sol’s 68.8% best score at maximum effort for $2.74."
   },
   "https://openai.com/index/introducing-dots": {
     "policy": "insight-v2",
     "title": "Introducing dots",
-    "date": "2026-09-29",
+    "date": "2026-09-29T00:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Dot conversations are excluded from ChatGPT limits, but tasks that dots start or manage in Codex or ChatGPT Work use the plan’s usual allowance.",
+    "source_url": "https://openai.com/index/introducing-dots",
+    "description": "OpenAI says conversations with a dot do not count toward ChatGPT usage limits, while tasks a dot starts or manages in Codex or ChatGPT Work count against the plan’s usual allowance."
+  },
+  "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign": {
+    "policy": "insight-v2",
+    "title": "Disrupting a coordinated model-distillation campaign",
+    "date": "2026-09-30T10:30:00.000Z",
     "source": "OpenAI",
     "status": "PASS",
     "retry_count": 1,
-    "extra_title_fact": "Dot conversations are excluded from ChatGPT usage, but Codex and ChatGPT Work tasks a dot starts or manages count against the plan’s usual allowance.",
-    "source_url": "https://openai.com/index/introducing-dots",
-    "description": "OpenAI says conversations with a dot do not count toward ChatGPT usage limits, while tasks a dot starts or manages in Codex or ChatGPT Work count against the plan’s usual allowance."
+    "extra_title_fact": "OpenAI dates the spikes to July 24–25 and says it disrupted related activity by July 28; the counts describe attempts, not necessarily successful extraction.",
+    "source_url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "description": "OpenAI says July 24–25 spikes involved 16,000 extraction attempts across over 4,000 users, and it disrupted related activity across more than 15,000 users by July 28."
+  },
+  "https://openai.com/index/helping-small-businesses-put-ai-to-work": {
+    "policy": "insight-v2",
+    "title": "Helping small businesses put AI to work",
+    "date": "2026-09-30T10:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "The planned partnership includes training about 150 SBDC advisers and targeting at least 1,000 small businesses through workshops and follow-up.",
+    "source_url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+    "description": "OpenAI plans to train about 150 America’s SBDC advisers and target at least 1,000 small businesses with hands-on workshops and follow-up guidance."
+  },
+  "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence": {
+    "policy": "insight-v2",
+    "title": "Gemini 4 Argon: our next era of frontier intelligence",
+    "date": "2026-09-30T20:01:45.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 1,
+    "extra_title_fact": "Trusted cyber defenders can access the model through Fairwind; paid API and Google AI Ultra access are planned without a public launch date.",
+    "source_url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
+    "description": "Google says trusted cyber defenders can access Gemini 4 Argon through Fairwind; paid API and Google AI Ultra access are planned, with no public date given."
+  },
+  "https://deepmind.google/blog/introducing-synthid-bio": {
+    "policy": "insight-v2",
+    "title": "Introducing SynthID Bio",
+    "date": "2026-09-30T15:03:07.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 1,
+    "extra_title_fact": "The linked study reports no significant affinity-distribution difference against three targets and removal of sequence marks in an in-silico 38,396-binder attack.",
+    "source_url": "https://deepmind.google/blog/introducing-synthid-bio",
+    "description": "Google DeepMind reports no significant binding-affinity distribution difference between watermarked and non-watermarked binders in tests against three targets, but ProteinMPNN removed sequence watermarks in an in-silico 38,396-binder attack."
   }
 }

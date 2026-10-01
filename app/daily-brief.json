@@ -1,4 +1,4 @@
 [
-  "OpenAI says dots are rolling out to Pro and Business Premium users in eligible markets; conversations with a dot do not count toward ChatGPT usage limits, but tasks a dot starts or manages in Codex or ChatGPT Work do.",
-  "Tibo Sottiaux said new Pro 200 subscribers receive 10× the Plus usage allowance while eligible existing Pro 200 subscribers keep 20× through October 29; neither his post nor OpenAI’s help page provides a universal reset time, and OpenAI says account reset times appear in the usage display when available."
+  "ReCAP’s authors report Qwen earned a 28.5 reward on the 106-task SWE-Together benchmark versus 24.4 for full-history prompting, with 46% fewer context tokens.",
+  "On the 100-task Lost-in-Conversation coding suite, ReCAP reports Qwen at 85.4 versus 65.6 for full history; the paper tests only two coding suites and a small set of backbones."
 ]
