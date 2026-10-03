@@ -1539,5 +1539,71 @@
     "extra_title_fact": "The colleague assistant had been live since 2025, and more than 16,000 Barclays colleagues had run over one million searches with it.",
     "source_url": "https://www.anthropic.com/news/barclays-scales-claude",
     "description": "Anthropic says Barclays’ colleague assistant has been live since 2025, with more than 16,000 staff using its retrieval-augmented generation system for over one million searches."
+  },
+  "https://openai.com/index/practical-guide-building-gpt-6": {
+    "policy": "insight-v2",
+    "title": "A model guide for the GPT-6 family",
+    "date": "2026-10-02T16:15:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Cached input tokens can cost up to 95% less than uncached input, depending on the model.",
+    "source_url": "https://openai.com/index/practical-guide-building-gpt-6",
+    "description": "OpenAI’s guide says cached input tokens can cost up to 95% less than uncached input, depending on the model."
+  },
+  "https://www.anthropic.com/news/claude-frontier-academy": {
+    "policy": "insight-v2",
+    "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+    "date": "2026-10-02T05:00:00.000Z",
+    "source": "Anthropic",
+    "status": "PASS",
+    "retry_count": 1,
+    "extra_title_fact": "After passing a graded practical following a simulated enterprise deployment, engineers spend 12 weeks leading a real Claude use case at their organization.",
+    "source_url": "https://www.anthropic.com/news/claude-frontier-academy",
+    "description": "Anthropic says engineers who pass a graded practical after a simulated enterprise deployment then spend 12 weeks leading a real Claude use case at their organization."
+  },
+  "https://openai.com/index/chatham-financial": {
+    "policy": "insight-v2",
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "date": "2026-10-02T00:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Chatham reports an early reduction in review time from about 30 minutes to under four minutes, with results checked against real transactions and experienced reviewers.",
+    "source_url": "https://openai.com/index/chatham-financial",
+    "description": "Chatham says its Codex-built trade-validation app cut review time from about 30 minutes to under four minutes in an early measurement, while it checks results against real transactions and experienced reviewers."
+  },
+  "https://openai.com/index/the-eternal-complement": {
+    "policy": "insight-v2",
+    "title": "The eternal complement",
+    "date": "2026-10-01T17:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "The authors argue that AI-generated research ideas could outpace the labs, supply chains, and institutions needed to test them.",
+    "source_url": "https://openai.com/index/the-eternal-complement",
+    "description": "Hemanth Asirvatham and Elliott Mokski argue that AI-generated research ideas could outpace the labs, supply chains, and institutions needed to test them."
+  },
+  "https://openai.com/index/albertsons-reimagining-retail": {
+    "policy": "insight-v2",
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "date": "2026-10-01T16:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 1,
+    "extra_title_fact": "Shoppers can start with a recipe, photo, digital list, or plain-language request and check out through Safeway.",
+    "source_url": "https://openai.com/index/albertsons-reimagining-retail",
+    "description": "OpenAI says shoppers can start with a recipe, photo, digital list, or plain-language request, build a cart in ChatGPT, and check out through Safeway."
+  },
+  "https://openai.com/index/the-den-family-social": {
+    "policy": "insight-v2",
+    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+    "date": "2026-10-01T00:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 1,
+    "extra_title_fact": "The Den says grant application preparation fell from three days to two hours, with staff reviewing output for accuracy.",
+    "source_url": "https://openai.com/index/the-den-family-social",
+    "description": "The Den says its team now prepares grant applications with ChatGPT Work in two hours instead of three days and reviews the output for accuracy."
   }
 }

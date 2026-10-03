@@ -138,5 +138,11 @@
   "https://openai.com/index/helping-small-businesses-put-ai-to-work": "OpenAI plans to train about 150 America’s SBDC advisers and target at least 1,000 small businesses with hands-on workshops and follow-up guidance.",
   "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence": "Google says trusted cyber defenders can access Gemini 4 Argon through Fairwind; paid API and Google AI Ultra access are planned, with no public date given.",
   "https://deepmind.google/blog/introducing-synthid-bio": "Google DeepMind reports no significant binding-affinity distribution difference between watermarked and non-watermarked binders in tests against three targets, but ProteinMPNN removed sequence watermarks in an in-silico 38,396-binder attack.",
-  "https://www.anthropic.com/news/barclays-scales-claude": "Anthropic says Barclays’ colleague assistant has been live since 2025, with more than 16,000 staff using its retrieval-augmented generation system for over one million searches."
+  "https://www.anthropic.com/news/barclays-scales-claude": "Anthropic says Barclays’ colleague assistant has been live since 2025, with more than 16,000 staff using its retrieval-augmented generation system for over one million searches.",
+  "https://openai.com/index/practical-guide-building-gpt-6": "OpenAI’s guide says cached input tokens can cost up to 95% less than uncached input, depending on the model.",
+  "https://www.anthropic.com/news/claude-frontier-academy": "Anthropic says engineers who pass a graded practical after a simulated enterprise deployment then spend 12 weeks leading a real Claude use case at their organization.",
+  "https://openai.com/index/chatham-financial": "Chatham says its Codex-built trade-validation app cut review time from about 30 minutes to under four minutes in an early measurement, while it checks results against real transactions and experienced reviewers.",
+  "https://openai.com/index/the-eternal-complement": "Hemanth Asirvatham and Elliott Mokski argue that AI-generated research ideas could outpace the labs, supply chains, and institutions needed to test them.",
+  "https://openai.com/index/albertsons-reimagining-retail": "OpenAI says shoppers can start with a recipe, photo, digital list, or plain-language request, build a cart in ChatGPT, and check out through Safeway.",
+  "https://openai.com/index/the-den-family-social": "The Den says its team now prepares grant applications with ChatGPT Work in two hours instead of three days and reviews the output for accuracy."
 }
