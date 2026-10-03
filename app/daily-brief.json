@@ -1,4 +1,4 @@
 [
-  "Theo Browne reported that Opus 5.5 was the first model to reach a 50% share of T3 Code prompts.",
-  "Theo did not state the period over which he measured that share."
+  "Aleph Alpha released full Kolibri weights under Apache 2.0; the English–German model has 78.1 billion total parameters, 3.46 billion active per token and a stated one-million-token context limit.",
+  "Aleph Alpha’s report gives Kolibri English and German aggregate scores of 75.5% and 70.8%, above the listed mixture-of-experts baselines; long-context training reached 256K tokens, and two customer-proxy sets had 11 and 26 items."
 ]
