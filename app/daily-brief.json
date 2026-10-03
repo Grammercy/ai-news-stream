@@ -1,4 +1,4 @@
 [
-  "Aleph Alpha released full Kolibri weights under Apache 2.0; the English–German model has 78.1 billion total parameters, 3.46 billion active per token and a stated one-million-token context limit.",
-  "Aleph Alpha’s report gives Kolibri English and German aggregate scores of 75.5% and 70.8%, above the listed mixture-of-experts baselines; long-context training reached 256K tokens, and two customer-proxy sets had 11 and 26 items."
+  "On Oct. 3, Aleph Alpha released Kolibri’s full weights under Apache 2.0; the English–German model has 78.1B total parameters and 3.46B active per token.",
+  "Aleph Alpha reports aggregate scores of 75.5% in English and 70.8% in German, below dense Qwen3.8 at 80.2% and 79.9%; its report documents training up to 256K tokens against a 1M-token advertised inference limit."
 ]
