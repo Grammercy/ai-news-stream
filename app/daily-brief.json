@@ -1,4 +1,4 @@
 [
-  "On Oct. 3, Aleph Alpha released Kolibri’s full weights under Apache 2.0; the English–German model has 78.1B total parameters and 3.46B active per token.",
-  "Aleph Alpha reports aggregate scores of 75.5% in English and 70.8% in German, below dense Qwen3.8 at 80.2% and 79.9%; its report documents training up to 256K tokens against a 1M-token advertised inference limit."
+  "At 11:59 p.m. Oct. 3 (borderline for the Oct. 4 window), OpenAI’s Tibo Sottiaux said the team is prioritizing simplification, more efficient usage, and new features or models.",
+  "Sottiaux tied the simplification focus to user feedback, but his post gave no time for product usage-limit resets."
 ]
