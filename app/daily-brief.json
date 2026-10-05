@@ -1,4 +1,4 @@
 [
-  "OpenAI announced integrations with Hightouch, Tealium, and LiveRamp that let advertisers send conversion data from existing systems to ChatGPT Ads.",
-  "OpenAI plans an initial US test of labeled visual ads during image generation later in October and says the ads will stay separate from generated images and will not influence ChatGPT answers."
+  "OpenAI says API customers worldwide can opt in to watermarking on select models from Oct 5, while eligible ChatGPT and Codex text output in the EU is planned for rollout over the coming weeks.",
+  "OpenAI reports that 10% synonym edits cut watermark detection on 400-token passages from about 92% to 66%, and 25% edits cut it to 17%; initial text-detector access is limited to approved researchers and expert organizations, with applications reviewed case by case."
 ]

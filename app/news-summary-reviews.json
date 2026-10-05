@@ -1616,5 +1616,16 @@
     "extra_title_fact": "The visual format is planned for testing during image generation with an initial U.S. advertiser group later in October, with ads kept apart from generated images and answers.",
     "source_url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
     "description": "OpenAI says it plans to test labeled visual ads during image generation with an initial US advertiser group later in October; ads will be separate from generated images and will not influence ChatGPT answers."
+  },
+  "https://openai.com/index/eu-text-provenance": {
+    "policy": "insight-v2",
+    "title": "Our approach to EU text provenance rules",
+    "date": "2026-10-05T15:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "In OpenAI-reported tests on 400-token passages, 10% synonym replacement lowered detection from about 92% to 66%, and 25% replacement lowered it to 17%.",
+    "source_url": "https://openai.com/index/eu-text-provenance",
+    "description": "OpenAI reports that replacing 10% of words with synonyms lowered textGrain’s watermark detection rate on 400-token passages from about 92% to 66%, while 25% replacement lowered it to 17%."
   }
 }
