@@ -1605,5 +1605,16 @@
     "extra_title_fact": "The Den says grant application preparation fell from three days to two hours, with staff reviewing output for accuracy.",
     "source_url": "https://openai.com/index/the-den-family-social",
     "description": "The Den says its team now prepares grant applications with ChatGPT Work in two hours instead of three days and reviews the output for accuracy."
+  },
+  "https://openai.com/index/new-chatgpt-ads-format-and-measurement": {
+    "policy": "insight-v2",
+    "title": "Building advertising for the way people use AI",
+    "date": "2026-10-05T10:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 1,
+    "extra_title_fact": "The visual format is planned for testing during image generation with an initial U.S. advertiser group later in October, with ads kept apart from generated images and answers.",
+    "source_url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "description": "OpenAI says it plans to test labeled visual ads during image generation with an initial US advertiser group later in October; ads will be separate from generated images and will not influence ChatGPT answers."
   }
 }

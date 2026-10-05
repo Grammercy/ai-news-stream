@@ -1,4 +1,4 @@
 [
-  "The BitNest authors report 1.48–1.61× end-to-end decoding speedups over FP16 autoregressive decoding across four 7B–8B models and six workloads, with a 95.2% average speculative-token acceptance rate.",
-  "On a Jetson Orin NX with 16 GB, the authors report a 10K-token maximum context for LLaMA-2-7B versus 6K with W8A8 decoding, while the paper tests self-speculation rather than separate draft models."
+  "OpenAI announced integrations with Hightouch, Tealium, and LiveRamp that let advertisers send conversion data from existing systems to ChatGPT Ads.",
+  "OpenAI plans an initial US test of labeled visual ads during image generation later in October and says the ads will stay separate from generated images and will not influence ChatGPT answers."
 ]
