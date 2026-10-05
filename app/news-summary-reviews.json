@@ -1627,5 +1627,16 @@
     "extra_title_fact": "In OpenAI-reported tests on 400-token passages, 10% synonym replacement lowered detection from about 92% to 66%, and 25% replacement lowered it to 17%.",
     "source_url": "https://openai.com/index/eu-text-provenance",
     "description": "OpenAI reports that replacing 10% of words with synonyms lowered textGrain’s watermark detection rate on 400-token passages from about 92% to 66%, while 25% replacement lowered it to 17%."
+  },
+  "https://openai.com/index/wayfair": {
+    "policy": "insight-v2",
+    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+    "date": "2026-09-25T00:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Wayfair builds product-label guides from web sources and internal definitions, then routes low-confidence or high-risk catalog edits to supplier confirmation.",
+    "source_url": "https://openai.com/index/wayfair",
+    "description": "OpenAI’s case study says Wayfair’s catalog system builds label guides from web sources and internal definitions, applies high-confidence edits directly, and sends low-confidence or high-risk changes to suppliers for confirmation."
   }
 }

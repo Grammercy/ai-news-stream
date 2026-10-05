@@ -146,5 +146,6 @@
   "https://openai.com/index/albertsons-reimagining-retail": "OpenAI says shoppers can start with a recipe, photo, digital list, or plain-language request, build a cart in ChatGPT, and check out through Safeway.",
   "https://openai.com/index/the-den-family-social": "The Den says its team now prepares grant applications with ChatGPT Work in two hours instead of three days and reviews the output for accuracy.",
   "https://openai.com/index/new-chatgpt-ads-format-and-measurement": "OpenAI says it plans to test labeled visual ads during image generation with an initial US advertiser group later in October; ads will be separate from generated images and will not influence ChatGPT answers.",
-  "https://openai.com/index/eu-text-provenance": "OpenAI reports that replacing 10% of words with synonyms lowered textGrain’s watermark detection rate on 400-token passages from about 92% to 66%, while 25% replacement lowered it to 17%."
+  "https://openai.com/index/eu-text-provenance": "OpenAI reports that replacing 10% of words with synonyms lowered textGrain’s watermark detection rate on 400-token passages from about 92% to 66%, while 25% replacement lowered it to 17%.",
+  "https://openai.com/index/wayfair": "OpenAI’s case study says Wayfair’s catalog system builds label guides from web sources and internal definitions, applies high-confidence edits directly, and sends low-confidence or high-risk changes to suppliers for confirmation."
 }

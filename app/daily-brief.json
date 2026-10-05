@@ -1,4 +1,4 @@
 [
-  "OpenAI says API customers worldwide can opt in to watermarking on select models from Oct 5, while eligible ChatGPT and Codex text output in the EU is planned for rollout over the coming weeks.",
-  "OpenAI reports that 10% synonym edits cut watermark detection on 400-token passages from about 92% to 66%, and 25% edits cut it to 17%; initial text-detector access is limited to approved researchers and expert organizations, with applications reviewed case by case."
+  "Reflection announced Beam on October 5 as a 501B-parameter mixture-of-experts model with 23B active parameters; the company plans to release its weights under Apache 2.0 later this month after final red-teaming.",
+  "Reflection’s table reports Beam scored 77.2 on SWE-bench Pro v2-Hard versus Kimi K3’s 88.2, and Reflection says it prioritizes inference efficiency; access remains limited to a select early-access group."
 ]
