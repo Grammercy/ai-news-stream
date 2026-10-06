@@ -1,4 +1,4 @@
 [
-  "Reflection announced Beam on October 5 as a 501B-parameter mixture-of-experts model with 23B active parameters; the company plans to release its weights under Apache 2.0 later this month after final red-teaming.",
-  "Reflection’s table reports Beam scored 77.2 on SWE-bench Pro v2-Hard versus Kimi K3’s 88.2, and Reflection says it prioritizes inference efficiency; access remains limited to a select early-access group."
+  "At 2:13 a.m. CDT, Tibo Sottiaux said OpenAI made Auto-review free for ChatGPT-account users and that it does not draw from their plan usage.",
+  "OpenAI’s Auto-review docs say a separate agent reviews actions that cross the sandbox boundary; neither source states a plan-usage reset time."
 ]
