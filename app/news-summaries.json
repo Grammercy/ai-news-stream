@@ -148,5 +148,11 @@
   "https://openai.com/index/the-den-family-social": "The Den says its team now prepares grant applications with ChatGPT Work in two hours instead of three days and reviews the output for accuracy.",
   "https://openai.com/index/new-chatgpt-ads-format-and-measurement": "OpenAI says it plans to test labeled visual ads during image generation with an initial US advertiser group later in October; ads will be separate from generated images and will not influence ChatGPT answers.",
   "https://openai.com/index/eu-text-provenance": "OpenAI reports that replacing 10% of words with synonyms lowered textGrain’s watermark detection rate on 400-token passages from about 92% to 66%, while 25% replacement lowered it to 17%.",
-  "https://openai.com/index/wayfair": "OpenAI’s case study says Wayfair’s catalog system builds label guides from web sources and internal definitions, applies high-confidence edits directly, and sends low-confidence or high-risk changes to suppliers for confirmation."
+  "https://openai.com/index/wayfair": "OpenAI’s case study says Wayfair’s catalog system builds label guides from web sources and internal definitions, applies high-confidence edits directly, and sends low-confidence or high-risk changes to suppliers for confirmation.",
+  "https://openai.com/index/atlassian-partnership": "Atlassian says more than 3,000 developers use Codex across terminals, IDEs, and code review.",
+  "https://openai.com/index/jump-trading": "Jump Trading researchers set the work environment and evaluation criteria, then steer agents and review their results.",
+  "https://openai.com/index/sharing-ai-progress-in-mathematics": "OpenAI says its mathematics repository includes 10 reasoning summaries and Lean formalizations for many proofs, while the model that produced the results remains internal.",
+  "https://openai.com/index/advancing-computer-use-with-ironclad": "Across 11 legal, commercial and procurement tasks, OpenAI reports GPT‑6 Astra averaged 55.0% of rubric criteria, versus 41.6% for GPT‑5.6 Sol.",
+  "https://www.anthropic.com/news/cyber-verification-program": "Anthropic reports that Claude Opus 5.5 completed 34 of 50 CyScenarioBench tasks with Red Team Access, while Defense Access blocked 46 of 50 trials.",
+  "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model": "Google DeepMind says EmbeddingGemma 2 scored 78.68 on MTEB Code, versus 68.76 for the original EmbeddingGemma."
 }

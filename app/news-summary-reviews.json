@@ -1649,5 +1649,71 @@
     "extra_title_fact": "Wayfair builds product-label guides from web sources and internal definitions, then routes low-confidence or high-risk catalog edits to supplier confirmation.",
     "source_url": "https://openai.com/index/wayfair",
     "description": "OpenAI’s case study says Wayfair’s catalog system builds label guides from web sources and internal definitions, applies high-confidence edits directly, and sends low-confidence or high-risk changes to suppliers for confirmation."
+  },
+  "https://openai.com/index/atlassian-partnership": {
+    "policy": "insight-v2",
+    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "date": "2026-10-06T16:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Atlassian reports more than 3,000 developers use Codex across terminals, IDEs, and code review.",
+    "source_url": "https://openai.com/index/atlassian-partnership",
+    "description": "Atlassian says more than 3,000 developers use Codex across terminals, IDEs, and code review."
+  },
+  "https://openai.com/index/jump-trading": {
+    "policy": "insight-v2",
+    "title": "How Jump Trading is scaling quant research with ChatGPT",
+    "date": "2026-10-06T12:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 1,
+    "extra_title_fact": "Jump researchers define the agent work environment and evaluation criteria, and steer and review agent outputs.",
+    "source_url": "https://openai.com/index/jump-trading",
+    "description": "Jump Trading researchers set the work environment and evaluation criteria, then steer agents and review their results."
+  },
+  "https://openai.com/index/sharing-ai-progress-in-mathematics": {
+    "policy": "insight-v2",
+    "title": "Sharing AI progress in mathematics",
+    "date": "2026-10-06T12:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "The repository contains 10 reasoning summaries and Lean formalizations for many proofs, while the producing model remains internal.",
+    "source_url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+    "description": "OpenAI says its mathematics repository includes 10 reasoning summaries and Lean formalizations for many proofs, while the model that produced the results remains internal."
+  },
+  "https://openai.com/index/advancing-computer-use-with-ironclad": {
+    "policy": "insight-v2",
+    "title": "Advancing computer use with Ironclad",
+    "date": "2026-10-06T10:00:00.000Z",
+    "source": "OpenAI",
+    "status": "PASS",
+    "retry_count": 2,
+    "extra_title_fact": "OpenAI reports Astra scored 55.0% of rubric criteria versus Sol’s 41.6% across 11 legal, commercial and procurement tasks.",
+    "source_url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+    "description": "Across 11 legal, commercial and procurement tasks, OpenAI reports GPT‑6 Astra averaged 55.0% of rubric criteria, versus 41.6% for GPT‑5.6 Sol."
+  },
+  "https://www.anthropic.com/news/cyber-verification-program": {
+    "policy": "insight-v2",
+    "title": "Expanding the Cyber Verification Program",
+    "date": "2026-10-06T05:00:00.000Z",
+    "source": "Anthropic",
+    "status": "PASS",
+    "retry_count": 0,
+    "extra_title_fact": "Anthropic reports a 34/50 CyScenarioBench task completion result for Opus 5.5 in Red Team Access and 46/50 trials blocked at some point in Defense Access.",
+    "source_url": "https://www.anthropic.com/news/cyber-verification-program",
+    "description": "Anthropic reports that Claude Opus 5.5 completed 34 of 50 CyScenarioBench tasks with Red Team Access, while Defense Access blocked 46 of 50 trials."
+  },
+  "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model": {
+    "policy": "insight-v2",
+    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "date": "2026-10-06T19:57:04.000Z",
+    "source": "Google DeepMind",
+    "status": "PASS",
+    "retry_count": 1,
+    "extra_title_fact": "Google DeepMind reports an MTEB Code score of 78.68 for EmbeddingGemma 2 versus 68.76 for its predecessor.",
+    "source_url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+    "description": "Google DeepMind says EmbeddingGemma 2 scored 78.68 on MTEB Code, versus 68.76 for the original EmbeddingGemma."
   }
 }
