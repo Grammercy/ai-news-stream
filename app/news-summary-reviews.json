@@ -1,4 +1,15 @@
 {
+  "https://mistral.ai/news/mistral-large-4": {
+    "policy": "insight-v2",
+    "title": "Introducing Mistral Large 4",
+    "date": "2026-10-06T12:00:27.000Z",
+    "source": "Mistral",
+    "status": "PASS",
+    "retry_count": 1,
+    "extra_title_fact": "Mistral's launch article reports an 82% score on an Artificial Analysis Cyber Index vulnerability reproduction-and-patching test and 93% on Cybench's 40 competition-derived exercises.",
+    "source_url": "https://mistral.ai/news/mistral-large-4",
+    "description": "Mistral reports that Large 4 scored 82% on an Artificial Analysis Cyber Index test that asks models to reproduce and patch a real open-source vulnerability, and 93% on Cybench’s 40 competition-derived exercises."
+  },
   "https://openai.com/index/australian-youth-safety-blueprint": {
     "policy": "insight-v2",
     "title": "Introducing the Australian Youth Safety Blueprint",

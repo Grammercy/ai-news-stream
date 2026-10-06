@@ -1,4 +1,4 @@
 [
-  "At 2:13 a.m. CDT, Tibo Sottiaux said OpenAI made Auto-review free for ChatGPT-account users and that it does not draw from their plan usage.",
-  "OpenAI’s Auto-review docs say a separate agent reviews actions that cross the sandbox boundary; neither source states a plan-usage reset time."
+  "At about 7 a.m. CDT on Oct 6, Mistral opened a public-preview API for Large 4, a multimodal model with 1 trillion total parameters and 49 billion active parameters.",
+  "Mistral says model weights are planned for release by the end of October, so users can try the API before self-hosting is available."
 ]
